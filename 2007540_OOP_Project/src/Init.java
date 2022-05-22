@@ -7,7 +7,7 @@ public class Init {
 
     public static void main(String[] args) {
 
-
+//https://stackoverflow.com/questions/42299871/how-generic-method-in-java-interface-convert-super-object-to-concrete-subclass-o
 
     }
 
