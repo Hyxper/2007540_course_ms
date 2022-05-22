@@ -38,3 +38,4 @@ public abstract class User {
         this.id = id;
     }
 }
+
