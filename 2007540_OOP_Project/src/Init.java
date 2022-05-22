@@ -17,7 +17,7 @@ public class Init {
 
         System.out.println(test);
 
-        gson.fromJson(test);
+
 
         System.out.println(test);
 
