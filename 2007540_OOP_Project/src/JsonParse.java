@@ -17,8 +17,6 @@ public class JsonParse <T> {
 
     public ArrayList<T> Printer(String file) throws IOException {
 
-
-
         //create gson object
         Gson gson = new Gson();
 
@@ -30,14 +28,15 @@ public class JsonParse <T> {
 
 
         //create an array of Student from JSON file, casting each student to a java object of Student
-        T[] userArray = gson.fromJson(jsonReader, User[].class);
+        Type token = new TypeToken<ArrayList<T>>(){}.getType();
+        ArrayList<T> userArray = gson.fromJson(jsonReader, token);
         /**
-         * ITS HERE HOW CAN I TELL PRINTER WHAT TYPE i WANT MY ARRAY TO BE!!!
+         *
          */
 
         //create arraylist of users from Student array
 
-        return new ArrayList<>(of(userArray));
-
+        return userArray;
+        //https://stackoverflow.com/questions/27253555/com-google-gson-internal-linkedtreemap-cannot-be-cast-to-my-class
     }
 }
