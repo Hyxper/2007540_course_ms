@@ -5,6 +5,8 @@ public class User {
     private String last_name;
     private String email;
 
+    private String department;
+
 
     public void setFirst_name(String first_name) {
         this.first_name = first_name;
@@ -36,6 +38,14 @@ public class User {
 
     public void setId(int id) {
         this.id = id;
+    }
+
+    public String getDepartment() {
+        return department;
+    }
+
+    public void setDepartment(String department) {
+        this.department = department;
     }
 }
 

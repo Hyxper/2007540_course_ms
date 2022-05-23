@@ -1,7 +1,7 @@
 public class Student extends User {
     private String gender;
     private String type;
-    private String department;
+
 
     public String getGender() {
         return gender;
@@ -19,11 +19,4 @@ public class Student extends User {
         this.type = type;
     }
 
-    public String getDepartment() {
-        return department;
-    }
-
-    public void setDepartment(String department) {
-        this.department = department;
-    }
 }
