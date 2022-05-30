@@ -4,11 +4,11 @@ import com.google.gson.stream.JsonReader;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
-import java.lang.reflect.Array;
 import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.Objects;
 
 
 /***
@@ -68,4 +68,16 @@ public class FileParser {
 
         }
 
+        public static ArrayList<Modules> stripModules(ArrayList<Modules> rawModules){
+
+            List<String> tempArr = null;
+            ArrayList<Modules> returnModules = new ArrayList<>();
+
+            rawModules.removeIf(module -> !Objects.equals(module.getAc_year(), "20"));
+
+           //REMOVE DUPLICATE NAMES
+
+
+            return rawModules;
+        }
 }

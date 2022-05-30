@@ -12,16 +12,16 @@ public class Init {
 
         try {
             ArrayList<Student> students = FileParser.FormatJson
-                    ("H:\\2007540_course_ms\\2007540_OOP_Project\\data\\students.json", Student[].class);
+                    ("2007540_OOP_Project/data/students.json", Student[].class);
             ArrayList<Staff> staffMembers = FileParser.FormatJson
-                    ("H:\\2007540_course_ms\\2007540_OOP_Project\\data\\staff.json", Staff[].class);
-            ArrayList<Modules> modules = FileParser.FormatJson
-                    ("H:\\2007540_course_ms\\2007540_OOP_Project\\data\\modules.json", Modules[].class);
+                    ("2007540_OOP_Project/data/staff.json", Staff[].class);
+            ArrayList<Modules> modules = FileParser.stripModules(FileParser.FormatJson
+                    ("2007540_OOP_Project/data/modules.json", Modules[].class));
             ArrayList<Courses> courses = FileParser.FormatJson
-                    ("H:\\2007540_course_ms\\2007540_OOP_Project\\data\\Courses.json",Courses[].class);
+                    ("2007540_OOP_Project/data/Courses.json",Courses[].class);
 
 
-            String[] rawDepartments = FileParser.FormatCSV("H:\\\\2007540_course_ms\\\\2007540_OOP_Project\\\\data\\\\academic-depts.csv").toArray(new String[0]);
+            String[] rawDepartments = FileParser.FormatCSV("2007540_OOP_Project/data/academic-depts.csv").toArray(new String[0]);
 
             //Multiton pattern to create my departments?
 
@@ -30,6 +30,7 @@ public class Init {
                Departments temp = new Departments(specialism);
                departments.add(temp);
                temp.setCourses(courses);
+               temp.setModules(modules);
 
             }
 

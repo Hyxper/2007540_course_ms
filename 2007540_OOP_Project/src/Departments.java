@@ -28,4 +28,14 @@ public class Departments {
         }
     }
 
+    void setModules (ArrayList<Modules> rawModules){
+        int modulesPer = 12;
+        for (int i = 0; i < modulesPer; i++) {
+            Random generator = new Random();
+            int randomIndex = generator.nextInt(rawModules.size());
+            modules.add(rawModules.get(randomIndex));
+            rawModules.remove(randomIndex);
+        }
+    }
+
 }

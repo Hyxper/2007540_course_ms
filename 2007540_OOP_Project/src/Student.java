@@ -2,7 +2,6 @@ public class Student extends User {
     private String gender;
     private String type;
 
-
     public String getGender() {
         return gender;
     }

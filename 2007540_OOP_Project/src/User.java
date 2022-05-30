@@ -4,9 +4,7 @@ public class User {
     private String first_name;
     private String last_name;
     private String email;
-
     private String department;
-
 
     public void setFirst_name(String first_name) {
         this.first_name = first_name;
