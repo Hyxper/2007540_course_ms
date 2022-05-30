@@ -11,29 +11,29 @@ public class Init {
         //      "data\\"+file not working????
 
         try {
-            ArrayList<Student> students = JsonParse.FormatJson
-                    ("C:\\2007540_course_ms\\2007540_OOP_Project\\data\\students.json", Student[].class);
-            ArrayList<Staff> staffMembers = JsonParse.FormatJson
-                    ("C:\\2007540_course_ms\\2007540_OOP_Project\\data\\staff.json", Staff[].class);
-            ArrayList<Modules> modules = JsonParse.FormatJson
-                    ("C:\\2007540_course_ms\\2007540_OOP_Project\\data\\modules.json", Modules[].class);
+            ArrayList<Student> students = FileParser.FormatJson
+                    ("H:\\2007540_course_ms\\2007540_OOP_Project\\data\\students.json", Student[].class);
+            ArrayList<Staff> staffMembers = FileParser.FormatJson
+                    ("H:\\2007540_course_ms\\2007540_OOP_Project\\data\\staff.json", Staff[].class);
+            ArrayList<Modules> modules = FileParser.FormatJson
+                    ("H:\\2007540_course_ms\\2007540_OOP_Project\\data\\modules.json", Modules[].class);
+            ArrayList<Courses> courses = FileParser.FormatJson
+                    ("H:\\2007540_course_ms\\2007540_OOP_Project\\data\\Courses.json",Courses[].class);
 
-            for (Modules module : modules
-            ) {
-                System.out.println(module.getAc_year()+" "+module.getCode()+" "+module.getName());
+
+            String[] rawDepartments = FileParser.FormatCSV("H:\\\\2007540_course_ms\\\\2007540_OOP_Project\\\\data\\\\academic-depts.csv").toArray(new String[0]);
+
+            //Multiton pattern to create my departments?
+
+            ArrayList<Departments> departments = new ArrayList<>();
+            for (String specialism : rawDepartments) {
+               Departments temp = new Departments(specialism);
+               departments.add(temp);
+               temp.setCourses(courses);
+
             }
 
-            for (Student student : students
-            ) {
-                System.out.println(student.getFirst_name()+" "+student.getLast_name()+" "
-                        +student.getId()+" "+student.getType());
-            }
-
-            for (Staff staff : staffMembers
-            ) {
-                System.out.println(staff.getFirst_name()+" "+staff.getLast_name()+" "
-                        +staff.getId()+" "+staff.getMax_modules());
-            }
+            System.out.println("!");
 
         }catch (IOException ex){
             System.out.println (ex.toString());
