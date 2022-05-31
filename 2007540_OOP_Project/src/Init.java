@@ -7,9 +7,6 @@ public class Init {
     public static void main(String[] args){
 
 
-        //BLOCK HERE CREATES ALL ARRAYLISTS NEEDED FROM JSON FILES
-        //      "data\\"+file not working????
-
         try {
             ArrayList<Student> students = FileParser.FormatJson
                     ("2007540_OOP_Project/data/students.json", Student[].class);
@@ -20,18 +17,22 @@ public class Init {
             ArrayList<Courses> courses = FileParser.FormatJson
                     ("2007540_OOP_Project/data/Courses.json",Courses[].class);
 
-
             String[] rawDepartments = FileParser.FormatCSV("2007540_OOP_Project/data/academic-depts.csv").toArray(new String[0]);
 
             //Multiton pattern to create my departments?
 
+
             ArrayList<Departments> departments = new ArrayList<>();
+            int counter = 0;
+
             for (String specialism : rawDepartments) {
                Departments temp = new Departments(specialism);
-               departments.add(temp);
-               temp.setCourses(courses);
-               temp.setModules(modules);
 
+               temp.setCM(courses,temp.courses,8);
+               temp.setCM(modules, temp.courses.get(counter).getcourseModules(),12);
+               departments.add(temp);
+               counter++;
+//               temp.setCM(modules,temp.courses.get)
             }
 
             System.out.println("!");

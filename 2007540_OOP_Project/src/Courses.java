@@ -1,8 +1,16 @@
+import java.util.ArrayList;
+
 public class Courses {
 
     private String course_name;
     private String course_code;
 
+    private ArrayList<Modules> courseModules;
+
+
+    public Courses(){
+        this.courseModules = new ArrayList<>();
+    }
 
     public String getCourse_name() {
         return course_name;
@@ -18,5 +26,13 @@ public class Courses {
 
     public void setCourse_code(String course_code) {
         this.course_code = course_code;
+    }
+
+    public ArrayList<Modules> getcourseModules() {
+        return courseModules;
+    }
+
+    public void setcourseModules(ArrayList<Modules> courseModules) {
+        this.courseModules = courseModules;
     }
 }

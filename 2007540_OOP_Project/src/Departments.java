@@ -17,24 +17,21 @@ public class Departments {
         this.students = new ArrayList<>();
     }
 
-    void setCourses (ArrayList<Courses> rawCourses){
 
-        int coursesPer = 8;
-        for (int i = 0; i < coursesPer; i++) {
-            Random generator = new Random();
-            int randomIndex = generator.nextInt(rawCourses.size());
-            courses.add(rawCourses.get(randomIndex));
-            rawCourses.remove(randomIndex);
-        }
-    }
+    /***
+     *
+     * @param rawData raw list to randomly select from
+     * @param modifiedProperty property of object to be appended to
+     * @param limit how large you want array to be
+     * @param <T> Generic type (of Arraylist)
+     */
+    <T> void setCM (ArrayList<T> rawData, ArrayList<T> modifiedProperty, int limit){
 
-    void setModules (ArrayList<Modules> rawModules){
-        int modulesPer = 12;
-        for (int i = 0; i < modulesPer; i++) {
+        for (int i = 0; i < limit; i++) {
             Random generator = new Random();
-            int randomIndex = generator.nextInt(rawModules.size());
-            modules.add(rawModules.get(randomIndex));
-            rawModules.remove(randomIndex);
+            int randomIndex = generator.nextInt(rawData.size());
+            modifiedProperty.add(rawData.get(randomIndex));
+            rawData.remove(randomIndex);
         }
     }
 
