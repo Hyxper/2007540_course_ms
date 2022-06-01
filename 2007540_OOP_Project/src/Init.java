@@ -24,6 +24,8 @@ public class Init {
 
             //CREATE SUPER DUPER VARIABLES FOR COUNTERS
             //ADD @SERIALIZEDNAME TO ALL JSON PROPERTIES
+            //CHANGE JSON PARSER TO BE JSONABLE VIA INTERFACE
+            //SUPER KEYWORD
 
             ArrayList<Departments> departments = new ArrayList<>();
 
