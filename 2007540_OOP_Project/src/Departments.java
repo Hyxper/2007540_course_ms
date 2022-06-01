@@ -26,7 +26,6 @@ public class Departments {
      * @param <T> Generic type (of Arraylist)
      */
     <T> void setCM (ArrayList<T> rawData, ArrayList<T> modifiedProperty, int limit){
-
         for (int i = 0; i < limit; i++) {
             Random generator = new Random();
             int randomIndex = generator.nextInt(rawData.size());
@@ -34,5 +33,17 @@ public class Departments {
             rawData.remove(randomIndex);
         }
     }
+
+    void AssignStudent(ArrayList<Student> students, int limit){
+        for (Student student: students) {
+            if (student.getDepartment().equals(this.schoolName)){
+
+            }
+        }
+
+    }
+
+
+
 
 }

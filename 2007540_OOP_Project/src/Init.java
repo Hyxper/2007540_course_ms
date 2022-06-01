@@ -27,9 +27,11 @@ public class Init {
 
             for (String specialism : rawDepartments) {
                Departments temp = new Departments(specialism);
-
                temp.setCM(courses,temp.courses,8);
                temp.setCM(modules, temp.courses.get(counter).getcourseModules(),12);
+                for (Modules module : temp.courses.get(counter).getcourseModules()) {
+
+                }
                departments.add(temp);
                counter++;
 //               temp.setCM(modules,temp.courses.get)
