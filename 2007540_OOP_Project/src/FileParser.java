@@ -33,10 +33,9 @@ public class FileParser {
         //read encoded value as JSON tokens
         JsonReader jsonReader = new JsonReader(reader);
 
-
         //create an array of Student from JSON file, casting each student to a java object of Student
 //        Type token = new TypeToken<ArrayList<T>>(){}.getType();
-        T[] userArray = gson.fromJson(jsonReader, classObj);
+        T[] userArray = gson.fromJson(reader, classObj);
 
 
         //create arraylist of users from Student array

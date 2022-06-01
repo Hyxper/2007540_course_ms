@@ -34,16 +34,15 @@ public class Departments {
         }
     }
 
-    void AssignStudent(ArrayList<Student> students, int limit){
-        for (Student student: students) {
-            if (student.getDepartment().equals(this.schoolName)){
+    void AssignStudent(ArrayList<Student> students, int limit) {
+        for (Student student : students) {
+            if (student.getDepartment().equals(this.schoolName)) {
 
             }
         }
 
+
     }
-
-
 
 
 }

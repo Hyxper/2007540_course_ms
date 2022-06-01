@@ -22,18 +22,20 @@ public class Init {
             //Multiton pattern to create my departments?
 
 
+            //CREATE SUPER DUPER VARIABLES FOR COUNTERS
+            //ADD @SERIALIZEDNAME TO ALL JSON PROPERTIES
+
             ArrayList<Departments> departments = new ArrayList<>();
-            int counter = 0;
+
 
             for (String specialism : rawDepartments) {
                Departments temp = new Departments(specialism);
                temp.setCM(courses,temp.courses,8);
-               temp.setCM(modules, temp.courses.get(counter).getcourseModules(),12);
-                for (Modules module : temp.courses.get(counter).getcourseModules()) {
-
+                for (Courses course: temp.courses) {
+                    temp.setCM(modules, course.getcourseModules(),12 );
                 }
+//
                departments.add(temp);
-               counter++;
 //               temp.setCM(modules,temp.courses.get)
             }
 
