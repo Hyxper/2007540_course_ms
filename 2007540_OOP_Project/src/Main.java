@@ -45,7 +45,7 @@ public class Main implements Dependencies{
                 }
 
                 temp.assignStaff(staffMembers);
-                temp.delegateStudents();
+                temp.addStudentsToCourses();
 
                departments.add(temp);
 //               temp.setCM(modules,temp.courses.get)

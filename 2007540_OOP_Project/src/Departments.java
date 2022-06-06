@@ -2,7 +2,9 @@ import java.util.ArrayList;
 import java.util.Objects;
 import java.util.Random;
 
-public class Departments implements Dependencies{
+import static java.lang.Math.floor;
+
+public class Departments implements Dependencies {
 
     private String schoolName;
 
@@ -10,7 +12,8 @@ public class Departments implements Dependencies{
 
     private ArrayList<Staff> staff;
     private ArrayList<Courses> courses;
-    public Departments(String name){
+
+    public Departments(String name) {
         this.setSchoolName(name);
         this.setCourses(new ArrayList<>());
         this.setStaff(new ArrayList<>());
@@ -25,7 +28,7 @@ public class Departments implements Dependencies{
      * @param limit how large you want array to be
      * @param <T> Generic type (of Arraylist)
      */
-    <T> void setCM (ArrayList<T> rawData, ArrayList<T> modifiedProperty, int limit){
+    <T> void setCM(ArrayList<T> rawData, ArrayList<T> modifiedProperty, int limit) {
         for (int i = 0; i < limit; i++) {
             Random generator = new Random();
             int randomIndex = generator.nextInt(rawData.size());
@@ -77,7 +80,7 @@ public class Departments implements Dependencies{
         this.courses = courses;
     }
 
-    public void assignStaff (ArrayList<Staff> rawStaff){
+    public void assignStaff(ArrayList<Staff> rawStaff) {
 
         int staffModuleCounter = 0;
 
@@ -94,33 +97,20 @@ public class Departments implements Dependencies{
         }
     }
 
-    public void delegateStudents(){
+    public void addStudentsToCourses() {
 
-        int studentsPerCourse = 0;
-
-        if(this.getStudents().size() == 0 || this.getCourses().size() == 0){
+        if (this.getStudents().size() == 0 || this.getCourses().size() == 0) {
             System.out.println("NO STUDENTS INITIALIZED");
-        }else{
+        } else {
 
-            if(this.getStudents().size() % 2 == 0){
-                studentsPerCourse = this.getStudents().size()/moduleCount;
-                int index = 0;
-                int endIndex = studentsPerCourse-1;
+            int remainder = this.getStudents().size() % moduleCount;
+            int studentsPerCourse = (int) floor(this.getStudents().size() / moduleCount);
 
-                if (endIndex != this.getStudents().size()-1) {
-                    for (Courses course : this.getCourses()) {
-                        while (index <= endIndex) {
-                            Student temp = this.students.get(index);
-                            course.getCourseStudents().add(temp);
-                            index++;
-                        }
-                        endIndex += studentsPerCourse;
+            int index = 0;
+            int endIndex = studentsPerCourse - 1;
 
-                    }
-                }
+            for (Courses course : this.getCourses()) {
             }
-
-
         }
     }
 }
