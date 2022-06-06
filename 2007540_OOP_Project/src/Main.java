@@ -1,8 +1,10 @@
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.Objects;
 
 
-public class Init {
+public class Main implements Dependencies{
+
 
     public static void main(String[] args){
 
@@ -21,25 +23,34 @@ public class Init {
 
             //Multiton pattern to create my departments?
 
-
-            //CREATE SUPER DUPER VARIABLES FOR COUNTERS
-            //ADD @SERIALIZEDNAME TO ALL JSON PROPERTIES
             //CHANGE JSON PARSER TO BE JSONABLE VIA INTERFACE
             //SUPER KEYWORD
 
+
+
             ArrayList<Departments> departments = new ArrayList<>();
-
-
             for (String specialism : rawDepartments) {
                Departments temp = new Departments(specialism);
-               temp.setCM(courses,temp.courses,8);
-                for (Courses course: temp.courses) {
-                    temp.setCM(modules, course.getcourseModules(),12 );
+               temp.setCM(courses, temp.getCourses(),courseCount);
+
+                for (Courses course: temp.getCourses()) {
+                    temp.setCM(modules, course.getcourseModules(),moduleCount);
                 }
-//
+
+
+                for (Student student : students){
+                    if (Objects.equals(student.getDepartment(), temp.getSchoolName())){
+                        temp.getStudents().add(student);
+                    }
+                }
+
+                temp.assignStaff(staffMembers);
+                temp.delegateStudents();
+
                departments.add(temp);
 //               temp.setCM(modules,temp.courses.get)
             }
+
 
             System.out.println("!");
 

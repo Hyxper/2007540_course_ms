@@ -1,31 +1,38 @@
+import com.google.gson.annotations.SerializedName;
+
 import java.util.ArrayList;
 
 public class Courses {
 
-    private String course_name;
-    private String course_code;
+    @SerializedName("course_name")
+    private String courseName;
+    @SerializedName("course_code")
+    private String courseCode;
 
     private ArrayList<Modules> courseModules;
 
+    private ArrayList<Student> courseStudents;
 
-    public Courses(){
+
+    public Courses() {
         this.courseModules = new ArrayList<>();
+        this.courseStudents = new ArrayList<>();
     }
 
-    public String getCourse_name() {
-        return course_name;
+    public String getCourseName() {
+        return courseName;
     }
 
-    public void setCourse_name(String course_name) {
-        this.course_name = course_name;
+    public void setCourseName(String courseName) {
+        this.courseName = courseName;
     }
 
-    public String getCourse_code() {
-        return course_code;
+    public String getCourseCode() {
+        return courseCode;
     }
 
-    public void setCourse_code(String course_code) {
-        this.course_code = course_code;
+    public void setCourseCode(String courseCode) {
+        this.courseCode = courseCode;
     }
 
     public ArrayList<Modules> getcourseModules() {
@@ -35,4 +42,13 @@ public class Courses {
     public void setcourseModules(ArrayList<Modules> courseModules) {
         this.courseModules = courseModules;
     }
+
+    public ArrayList<Student> getCourseStudents() {
+        return courseStudents;
+    }
+
+    public void setCourseStudents(ArrayList<Student> courseStudents) {
+        this.courseStudents = courseStudents;
+    }
+
 }

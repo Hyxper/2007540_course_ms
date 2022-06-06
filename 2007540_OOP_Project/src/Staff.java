@@ -1,3 +1,12 @@
+import com.google.gson.Gson;
+import com.google.gson.stream.JsonReader;
+
+import java.io.FileReader;
+import java.io.IOException;
+import java.lang.reflect.Type;
+import java.util.ArrayList;
+import java.util.Arrays;
+
 public class Staff extends User {
     private String guid;
     private String avatar;
@@ -36,4 +45,6 @@ public class Staff extends User {
     public void setMax_modules(int max_modules) {
         this.max_modules = max_modules;
     }
+
+
 }
