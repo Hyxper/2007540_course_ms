@@ -30,14 +30,14 @@ public class Main implements Dependencies{
 
             ArrayList<Departments> departments = new ArrayList<>();
             for (String specialism : rawDepartments) {
+                //create new department
                Departments temp = new Departments(specialism);
+                //randomly select courses to add to department (max number set it dependencies interface)
                temp.setCM(courses, temp.getCourses(),courseCount);
 
                 for (Courses course: temp.getCourses()) {
                     temp.setCM(modules, course.getcourseModules(),moduleCount);
                 }
-
-
                 for (Student student : students){
                     if (Objects.equals(student.getDepartment(), temp.getSchoolName())){
                         temp.getStudents().add(student);
@@ -45,9 +45,12 @@ public class Main implements Dependencies{
                 }
 
                 temp.assignStaff(staffMembers);
+
                 temp.addStudentsToCourses();
 
-               departments.add(temp);
+                temp.addTutorsToModules();
+
+                departments.add(temp);
 //               temp.setCM(modules,temp.courses.get)
             }
 
@@ -62,7 +65,7 @@ public class Main implements Dependencies{
 
 
 
-
+        System.out.println("!");
 
 
     }

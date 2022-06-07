@@ -11,6 +11,7 @@ public class Student extends User {
     private String gender;
     private String type;
 
+    private Courses studentCourse;
 
     public String getGender() {
         return gender;
@@ -28,4 +29,11 @@ public class Student extends User {
         this.type = type;
     }
 
+    public Courses getStudentCourse() {
+        return studentCourse;
+    }
+
+    public void setStudentCourse(Courses studentCourse) {
+        this.studentCourse = studentCourse;
+    }
 }

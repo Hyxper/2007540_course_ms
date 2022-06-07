@@ -1,17 +1,16 @@
-import com.google.gson.Gson;
-import com.google.gson.stream.JsonReader;
+import com.google.gson.annotations.SerializedName;
 
-import java.io.FileReader;
-import java.io.IOException;
-import java.lang.reflect.Type;
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class Staff extends User {
     private String guid;
     private String avatar;
-    private int weekly_hours;
-    private int max_modules;
+    @SerializedName("weekly_hours")
+    private int weeklyHours;
+    @SerializedName("max_modules")
+    private int maxModules;
+
+    private ArrayList<Modules> taughtModules;
 
     public String getGuid() {
         return guid;
@@ -30,20 +29,20 @@ public class Staff extends User {
     }
 
 
-    public int getWeekly_hours() {
-        return weekly_hours;
+    public int getWeeklyHours() {
+        return weeklyHours;
     }
 
-    public void setWeekly_hours(int weekly_hours) {
-        this.weekly_hours = weekly_hours;
+    public void setWeeklyHours(int weeklyHours) {
+        this.weeklyHours = weeklyHours;
     }
 
-    public int getMax_modules() {
-        return max_modules;
+    public int getMaxModules() {
+        return maxModules;
     }
 
-    public void setMax_modules(int max_modules) {
-        this.max_modules = max_modules;
+    public void setMaxModules(int maxModules) {
+        this.maxModules = maxModules;
     }
 
 
