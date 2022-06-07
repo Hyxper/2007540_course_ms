@@ -141,7 +141,20 @@ public class Departments implements Dependencies {
      *
      */
     public void addTutorsToModules(){
-        System.out.println(this.staff);
+        System.out.println(this.staff.get(1).getLastName());
+        if (this.getStaff().size() == 0 || this.getCourses().size() == 0) {
+            System.out.println("NO STAFF INITIALIZED");
+        } else {
+
+            for (Courses course: this.getCourses()) {
+                for (Modules module: course.getcourseModules()) {
+                    Random generator = new Random();
+                    int randomIndex = generator.nextInt(this.getStaff().size()-1);
+                    module.setLecturer(this.getStaff().get(randomIndex));
+                }
+            }
+
+        }
     }
     /***
      *

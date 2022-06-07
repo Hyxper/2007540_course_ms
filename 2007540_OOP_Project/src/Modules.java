@@ -5,7 +5,7 @@ public class Modules {
     private String code;
     private String ac_year;
 
-    private ArrayList<Student> students;
+//    private ArrayList<Student> students;
 
     private Staff lecturer;
 
@@ -32,14 +32,14 @@ public class Modules {
     public void setAc_year(String ac_year) {
         this.ac_year = ac_year;
     }
-
-    public ArrayList<Student> getStudents() {
-        return students;
-    }
-
-    public void setStudents(ArrayList<Student> students) {
-        this.students = students;
-    }
+//
+//    public ArrayList<Student> getStudents() {
+//        return students;
+//    }
+//
+//    public void setStudents(ArrayList<Student> students) {
+//        this.students = students;
+//    }
 
     public Staff getLecturer() {
         return lecturer;
