@@ -8,6 +8,6 @@ import java.util.Arrays;
 
 public interface Jsonable {
 
-    public void FormatJson();
+    void FormatJson();
 
 }

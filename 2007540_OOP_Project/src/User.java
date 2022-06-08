@@ -1,12 +1,4 @@
-import com.google.gson.Gson;
 import com.google.gson.annotations.SerializedName;
-import com.google.gson.stream.JsonReader;
-
-import java.io.FileReader;
-import java.io.IOException;
-import java.lang.reflect.Type;
-import java.util.ArrayList;
-import java.util.Arrays;
 
 public abstract class User implements Dependencies{
 
@@ -17,6 +9,12 @@ public abstract class User implements Dependencies{
     private String lastName;
     private String email;
     private String department;
+
+    @Override
+    public String toString(){
+        return firstName+" "+lastName;
+    }
+
 
 
     public void setFirstName(String firstName) {

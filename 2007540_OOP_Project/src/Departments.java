@@ -55,6 +55,7 @@ public class Departments implements Dependencies {
     /**
      *
      * @param rawStaff staff list
+     *
      * ONLY DELEGATES STAFF WHEN THERE ARE ENOUGH STAFF TO COVER EACH MODULE!!!
      * OTHERWISE JUST ADDS ALL RELEVANT STAFF TO THE DEPARTMENT OBJECT
      */
@@ -138,10 +139,10 @@ public class Departments implements Dependencies {
     }
 
     /**
-     *
+     * <h1>ADDS TUTORS TO MODULES</h1>
+     * <p>First check if tutors have been initialised, if so randomly choose department staff to append to each tutor to a module on each course</p>
      */
     public void addTutorsToModules(){
-        System.out.println(this.staff.get(1).getLastName());
         if (this.getStaff().size() == 0 || this.getCourses().size() == 0) {
             System.out.println("NO STAFF INITIALIZED");
         } else {
@@ -157,6 +158,9 @@ public class Departments implements Dependencies {
         }
     }
     /***
+     *
+     * <h1>SET COURSE/MODULES</h1>
+     * <p>Set courses and modules to each department randomly, with a length which is justified via "limit"</p>
      *
      * @param rawData raw list to randomly select from
      * @param modifiedProperty property of object to be appended to
