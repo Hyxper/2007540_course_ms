@@ -20,13 +20,17 @@ public class Main implements Dependencies{
 
         ArrayList<Departments> departmentStructres = Initialise.InitialiseDepartments();
 
+        assert departmentStructres != null;
+        GUI gui = new GUI(departmentStructres);
 
-        for (Departments department: departmentStructres) {
-            System.out.println("-------------"+department.getSchoolName()+"-------------");
-            for (Staff staffMemeber : department.getStaff()) {
-                System.out.println(staffMemeber.getFirstName() + " " + staffMemeber.getLastName());
-            }
-        }
+//        if (departmentStructres != null) {
+//            for (Departments department: departmentStructres) {
+//                System.out.println("-------------"+department.getSchoolName()+"-------------");
+//                for (Staff staffMemeber : department.getStaff()) {
+//                    System.out.println(staffMemeber.getFirstName() + " " + staffMemeber.getLastName());
+//                }
+//            }
+//        }
 
 
     }
