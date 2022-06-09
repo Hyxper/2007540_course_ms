@@ -3,7 +3,6 @@ import java.util.ArrayList;
 
 public class Main implements Dependencies{
 
-
     public static void main(String[] args){
 
         //Multiton pattern to create my departments?
