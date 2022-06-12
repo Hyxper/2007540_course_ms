@@ -20,7 +20,7 @@ public class Main implements Dependencies{
         ArrayList<Departments> departmentStructres = Initialise.InitialiseDepartments();
 
         assert departmentStructres != null;
-        GUI gui = new GUI(departmentStructres);
+        final GUI gui = new GUI(departmentStructres);
 
 //        if (departmentStructres != null) {
 //            for (Departments department: departmentStructres) {

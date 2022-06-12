@@ -1,4 +1,4 @@
 public interface Dependencies {
-    int courseCount = 8;
-    int moduleCount = 12;
+    final int courseCount = 8;
+    final int moduleCount = 12;
 }

@@ -1,7 +1,13 @@
 import javax.swing.*;
 import javax.swing.tree.DefaultMutableTreeNode;
+import javax.swing.tree.TreeNode;
+import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 import java.lang.reflect.Array;
 import java.util.ArrayList;
+import java.util.Enumeration;
+import java.util.Objects;
 
 //-------TO DO LIST FOR GUI
 //-- TIDY GUI UP
@@ -32,12 +38,26 @@ public class GUI extends JFrame {
         this.setTitle("PROJECT GUI 2007540");
 
 
+
+        //if (Objects.requireNonNull(deptComboBox.getSelectedItem()) != "--Please choose a department--"){
+
+        deptComboBox.addActionListener(new ActionListener() {
+
+            @Override
+            public void actionPerformed (ActionEvent changeValue) {
+
+                String comboValue = Objects.requireNonNull(deptComboBox.getSelectedItem()).toString();
+
+                if (!Objects.equals(comboValue, "--Please choose a department--")){
+
+                    generateTreeData(leftTree,rightTree,"hello");
+
+                };
+
+
+            }
+        });
     }
-
-
-
-
-
 
 
     private DefaultMutableTreeNode createTreeStructures(ArrayList<Departments> structure, String side, String deptName) {
@@ -48,11 +68,13 @@ public class GUI extends JFrame {
         } else if (side.equalsIgnoreCase("right") || side.equalsIgnoreCase("left")) {
 
             if (side.equalsIgnoreCase("left")) {
+
                 DefaultMutableTreeNode masterNode = new DefaultMutableTreeNode(deptName);
                 DefaultMutableTreeNode staffNode = new DefaultMutableTreeNode("Staff");
                 DefaultMutableTreeNode studentNode = new DefaultMutableTreeNode("Students");
                 DefaultMutableTreeNode courseNode = new DefaultMutableTreeNode("Courses");
                 DefaultMutableTreeNode moduleNode = new DefaultMutableTreeNode("Modules");
+
 
                 masterNode.add(staffNode);
                 masterNode.add(staffNode);
@@ -68,6 +90,9 @@ public class GUI extends JFrame {
                 DefaultMutableTreeNode staffNode = new DefaultMutableTreeNode("Staff");
                 DefaultMutableTreeNode studentNode = new DefaultMutableTreeNode("Students");
 
+                DefaultMutableTreeNode test = new DefaultMutableTreeNode("test");
+
+
                 moduleNode.add(staffNode);
                 moduleNode.add(studentNode);
                 masterNode.add(moduleNode);
@@ -79,6 +104,12 @@ public class GUI extends JFrame {
             return null;
     }
 
+    private static void generateTreeData(JTree leftTree, JTree rightTree, String department){
+        System.out.println(department);
+
+        System.out.println( leftTree.getModel().getRoot());
+    }
+
     private String[] createComboBox(){
 
         ArrayList<Departments> structure = this.getStructure();
@@ -88,14 +119,17 @@ public class GUI extends JFrame {
         for (Departments department: structure) {
             temp.add(department.getSchoolName());
         }
+
         return temp.toArray(new String[0]);
     }
 
     private void createUIComponents() {
         // TODO: place custom component creation code here
         ArrayList<Departments> struct = getStructure();
+
         leftTree = new JTree(createTreeStructures(struct,"left","TEST"));
         rightTree = new JTree(createTreeStructures(struct,"right","TEST"));
+
         deptComboBox = new JComboBox<>(createComboBox());
     }
 
