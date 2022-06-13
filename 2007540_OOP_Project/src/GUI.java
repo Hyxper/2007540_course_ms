@@ -1,5 +1,6 @@
 import javax.swing.*;
 import javax.swing.tree.DefaultMutableTreeNode;
+import javax.swing.tree.DefaultTreeModel;
 import javax.swing.tree.TreeNode;
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -30,6 +31,9 @@ public class GUI extends JFrame {
 
     private JScrollPane scrollRight;
 
+    private DefaultTreeModel leftModel;
+
+    private DefaultTreeModel rightModel;
     private ArrayList<Departments> structure;
     public GUI(ArrayList<Departments> structure){
 
@@ -43,7 +47,7 @@ public class GUI extends JFrame {
 
 
 
-        //if (Objects.requireNonNull(deptComboBox.getSelectedItem()) != "--Please choose a department--"){
+
 
         deptComboBox.addActionListener(new ActionListener() {
 
@@ -54,7 +58,27 @@ public class GUI extends JFrame {
 
                 if (!Objects.equals(comboValue, "--Please choose a department--")){
 
+                    DefaultMutableTreeNode root = (DefaultMutableTreeNode) leftTree.getModel().getRoot();
+                    DefaultMutableTreeNode tempBranch = null;
+                    DefaultMutableTreeNode innerTempBranch = null;
+
+                   for (int nodes = 0; nodes < root.getChildCount(); nodes++){
+
+                       tempBranch = (DefaultMutableTreeNode) leftTree.getModel().getChild(leftTree.getModel().getRoot(),nodes);
+
+                       for (int subNodes = 0; subNodes < tempBranch.getChildCount();subNodes++){
+
+                           innerTempBranch = (DefaultMutableTreeNode) tempBranch.getRoot();
+                           innerTempBranch.removeAllChildren();
+
+                       }
+                   }
+
+
                     generateTreeData(leftTree,rightTree,comboValue);
+
+                    leftModel.reload();
+                    rightModel.reload();
 
                 };
 
@@ -64,8 +88,7 @@ public class GUI extends JFrame {
     }
 
 
-    private DefaultMutableTreeNode createTreeStructures(ArrayList<Departments> structure, String side, String deptName) {
-
+    private DefaultMutableTreeNode createTreeStructures(ArrayList<Departments> structure, String side, String rootTitle) {
 
         if (side.equals("")) {
             System.out.println("NO SIDE PASSED");
@@ -73,7 +96,7 @@ public class GUI extends JFrame {
 
             if (side.equalsIgnoreCase("left")) {
 
-                DefaultMutableTreeNode masterNode = new DefaultMutableTreeNode(deptName);
+                DefaultMutableTreeNode masterNode = new DefaultMutableTreeNode(rootTitle);
                 DefaultMutableTreeNode staffNode = new DefaultMutableTreeNode("Staff");
                 DefaultMutableTreeNode studentNode = new DefaultMutableTreeNode("Students");
                 DefaultMutableTreeNode courseNode = new DefaultMutableTreeNode("Courses");
@@ -90,7 +113,8 @@ public class GUI extends JFrame {
 
             } else {
 
-                DefaultMutableTreeNode masterNode = new DefaultMutableTreeNode("Courses");
+                DefaultMutableTreeNode masterNode = new DefaultMutableTreeNode(rootTitle);
+                DefaultMutableTreeNode courseNode = new DefaultMutableTreeNode("Courses");
                 DefaultMutableTreeNode moduleNode = new DefaultMutableTreeNode("Modules");
                 DefaultMutableTreeNode staffNode = new DefaultMutableTreeNode("Staff");
                 DefaultMutableTreeNode studentNode = new DefaultMutableTreeNode("Students");
@@ -98,7 +122,8 @@ public class GUI extends JFrame {
 
                 moduleNode.add(staffNode);
                 moduleNode.add(studentNode);
-                masterNode.add(moduleNode);
+                courseNode.add(moduleNode);
+                masterNode.add(courseNode);
 
                 return masterNode;
 
@@ -112,7 +137,6 @@ public class GUI extends JFrame {
 
         Departments selectedDepartment = null;
 
-//        System.out.println(leftTree.getModel().getRoot());
 
         ArrayList<Departments> loadedDepartments = this.getStructure();
 
@@ -123,9 +147,10 @@ public class GUI extends JFrame {
             }
         }
 
-        assert selectedDepartment != null;
-        System.out.println(selectedDepartment.getSchoolName());
 
+
+
+        assert selectedDepartment != null;
 
         for (int i=0; i<leftTree.getModel().getChildCount(leftTree.getModel().getRoot());i++ ){
 
@@ -174,10 +199,12 @@ public class GUI extends JFrame {
         // TODO: place custom component creation code here
         ArrayList<Departments> struct = getStructure();
 
-        leftTree = new JTree(createTreeStructures(struct,"left","TEST"));
-//        scrollLeft = new JScrollPane(leftTree,JScrollPane.VERTICAL_SCROLLBAR_AS_NEEDED);
+        leftTree = new JTree(createTreeStructures(struct,"left","Department Members"));
+        leftModel = (DefaultTreeModel) leftTree.getModel();
 
-        rightTree = new JTree(createTreeStructures(struct,"right","TEST"));
+        rightTree = new JTree(createTreeStructures(struct,"right","Department Breakdown"));
+        rightModel = (DefaultTreeModel) rightTree.getModel();
+
         deptComboBox = new JComboBox<>(createComboBox());
 
     }
