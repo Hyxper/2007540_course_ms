@@ -56,5 +56,9 @@ public abstract class User implements Dependencies{
     public void setDepartment(String department) {
         this.department = department;
     }
+
+    public String getFullName(){
+        return this.getFirstName()+" "+this.getLastName();
+    }
 }
 

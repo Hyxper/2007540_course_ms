@@ -26,6 +26,10 @@ public class GUI extends JFrame {
     private JComboBox<String> deptComboBox;
     private JLabel headerLabel;
 
+    private JScrollPane scrollLeft;
+
+    private JScrollPane scrollRight;
+
     private ArrayList<Departments> structure;
     public GUI(ArrayList<Departments> structure){
 
@@ -50,7 +54,7 @@ public class GUI extends JFrame {
 
                 if (!Objects.equals(comboValue, "--Please choose a department--")){
 
-                    generateTreeData(leftTree,rightTree,"hello");
+                    generateTreeData(leftTree,rightTree,comboValue);
 
                 };
 
@@ -85,12 +89,11 @@ public class GUI extends JFrame {
                 return masterNode;
 
             } else {
+
                 DefaultMutableTreeNode masterNode = new DefaultMutableTreeNode("Courses");
                 DefaultMutableTreeNode moduleNode = new DefaultMutableTreeNode("Modules");
                 DefaultMutableTreeNode staffNode = new DefaultMutableTreeNode("Staff");
                 DefaultMutableTreeNode studentNode = new DefaultMutableTreeNode("Students");
-
-                DefaultMutableTreeNode test = new DefaultMutableTreeNode("test");
 
 
                 moduleNode.add(staffNode);
@@ -104,10 +107,54 @@ public class GUI extends JFrame {
             return null;
     }
 
-    private static void generateTreeData(JTree leftTree, JTree rightTree, String department){
-        System.out.println(department);
+    private void generateTreeData(JTree leftTree, JTree rightTree, String department) {
 
-        System.out.println( leftTree.getModel().getRoot());
+
+        Departments selectedDepartment = null;
+
+//        System.out.println(leftTree.getModel().getRoot());
+
+        ArrayList<Departments> loadedDepartments = this.getStructure();
+
+        //get details for selected department
+        for (Departments tempDepartment : loadedDepartments) {
+            if(Objects.equals(tempDepartment.getSchoolName(), department)){
+                 selectedDepartment = tempDepartment;
+            }
+        }
+
+        assert selectedDepartment != null;
+        System.out.println(selectedDepartment.getSchoolName());
+
+
+        for (int i=0; i<leftTree.getModel().getChildCount(leftTree.getModel().getRoot());i++ ){
+
+           DefaultMutableTreeNode tempBranch = (DefaultMutableTreeNode) leftTree.getModel().getChild(leftTree.getModel().getRoot(),i);
+
+           if (Objects.equals(leftTree.getModel().getChild(leftTree.getModel().getRoot(), i).toString(), "Students")){
+               for (Student currentStudent : selectedDepartment.getStudents()) {
+                   DefaultMutableTreeNode tempLeaf = new DefaultMutableTreeNode(currentStudent.getFullName());
+                   tempBranch.add(tempLeaf);
+               }
+
+           }else if (Objects.equals(leftTree.getModel().getChild(leftTree.getModel().getRoot(), i).toString(), "Staff")){
+                for (Staff currentStaff : selectedDepartment.getStaff()) {
+                    DefaultMutableTreeNode tempLeaf = new DefaultMutableTreeNode(currentStaff.getFullName());
+                    tempBranch.add(tempLeaf);
+                }
+            }else if (Objects.equals(leftTree.getModel().getChild(leftTree.getModel().getRoot(), i).toString(), "Courses")) {
+               for (Courses currentCourse : selectedDepartment.getCourses()) {
+                   DefaultMutableTreeNode tempLeaf = new DefaultMutableTreeNode(currentCourse.getCourseName());
+                   tempBranch.add(tempLeaf);
+               }
+           }else{
+               for (Modules currentModule : selectedDepartment.getDepartmentModules()) {
+                   DefaultMutableTreeNode tempLeaf = new DefaultMutableTreeNode(currentModule.getName());
+                   tempBranch.add(tempLeaf);
+               }
+           }
+        }
+
     }
 
     private String[] createComboBox(){
@@ -128,9 +175,11 @@ public class GUI extends JFrame {
         ArrayList<Departments> struct = getStructure();
 
         leftTree = new JTree(createTreeStructures(struct,"left","TEST"));
-        rightTree = new JTree(createTreeStructures(struct,"right","TEST"));
+//        scrollLeft = new JScrollPane(leftTree,JScrollPane.VERTICAL_SCROLLBAR_AS_NEEDED);
 
+        rightTree = new JTree(createTreeStructures(struct,"right","TEST"));
         deptComboBox = new JComboBox<>(createComboBox());
+
     }
 
     private void $$$setupUI$$$() {

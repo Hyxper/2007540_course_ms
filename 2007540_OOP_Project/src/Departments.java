@@ -52,6 +52,14 @@ public class Departments implements Dependencies {
         this.courses = courses;
     }
 
+    public ArrayList<Modules> getDepartmentModules(){
+        ArrayList<Modules> tempArr = new ArrayList<>();
+        for (Courses temp : this.courses) {
+            tempArr.addAll(temp.getcourseModules());
+        }
+        return tempArr;
+    }
+
     /**
      *
      * @param rawStaff staff list
