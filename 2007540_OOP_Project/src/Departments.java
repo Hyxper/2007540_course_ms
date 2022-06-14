@@ -165,7 +165,10 @@ public class Departments implements Dependencies {
 
         }
     }
-
+    /**
+     * <h1>ADDS STUDENTS TO MODULES</h1>
+     * <p>First check if STUDENTS have been initialised, if so randomly choose department staff to append to each tutor to a module on each course</p>
+     */
     public void addStudentsToModules(){
         if (this.getStudents().size() == 0 || this.getCourses().size() == 0) {
             System.out.println("NO STUDENTS INITIALIZED");

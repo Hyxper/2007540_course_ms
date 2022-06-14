@@ -9,27 +9,16 @@ public class Main implements Dependencies{
 
         //CHANGE JSON PARSER TO BE JSONABLE VIA INTERFACE
         //ADD MORE POLYMORPHIC & ABSTRACT ELEMENTS
-        //GUI
         //ERROR CHECKING
-        //USER AND STUDENT LOGIN
-        //USER AND STUDENT PERMISSIONS
         //make naming less ambiguous
         //FINAL vars
-        //START DESIGN GUI RETARD
+
 
         ArrayList<Departments> departmentStructres = Initialise.InitialiseDepartments();
 
         assert departmentStructres != null;
         final GUI gui = new GUI(departmentStructres);
 
-//        if (departmentStructres != null) {
-//            for (Departments department: departmentStructres) {
-//                System.out.println("-------------"+department.getSchoolName()+"-------------");
-//                for (Staff staffMemeber : department.getStaff()) {
-//                    System.out.println(staffMemeber.getFirstName() + " " + staffMemeber.getLastName());
-//                }
-//            }
-//        }
 
 
     }
