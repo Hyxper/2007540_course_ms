@@ -23,9 +23,11 @@ public class Initialise implements Dependencies {
             ArrayList<Departments> departments = new ArrayList<>();
 
             for (String specialism : rawDepartments) {
+
                 //create new department
                 Departments temp = new Departments(specialism);
-                //randomly select courses to add to department (max number set it dependencies interface)
+
+                //randomly select courses to add to department (max number set in dependencies interface)
                 temp.setCM(courses, temp.getCourses(), courseCount);
 
                 for (Courses course : temp.getCourses()) {
@@ -42,6 +44,8 @@ public class Initialise implements Dependencies {
                 temp.addStudentsToCourses();
 
                 temp.addTutorsToModules();
+
+                temp.addStudentsToModules();
 
                 departments.add(temp);
 //               temp.setCM(modules,temp.courses.get)

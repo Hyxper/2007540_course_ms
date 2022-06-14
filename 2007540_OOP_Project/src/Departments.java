@@ -165,6 +165,22 @@ public class Departments implements Dependencies {
 
         }
     }
+
+    public void addStudentsToModules(){
+        if (this.getStudents().size() == 0 || this.getCourses().size() == 0) {
+            System.out.println("NO STUDENTS INITIALIZED");
+        } else {
+            for (Courses course: this.getCourses()) {
+                for (Modules module: course.getcourseModules()) {
+                    module.setStudents(course.getCourseStudents());
+                }
+            }
+
+        }
+
+    }
+
+
     /***
      *
      * <h1>SET COURSE/MODULES</h1>
