@@ -130,9 +130,10 @@ public class GUI extends JFrame {
      * PASSING "LEFT" WILL FORMAT LEFT SIDE, WHICH BREAKS THE DEPARTMENT INTO ALL OF ITS MEMBERS, AND
      * PASSING RIGHT BREAKS THE DEPARTMENT DOWN INTO COURSES TO DISPLAY THEIR MEMEBERS
      */
+
     private DefaultMutableTreeNode createDepartmentRoot(Departments selectedDepartment, String side){
 
-
+        //DECLARE ALL BASE NODES
         DefaultMutableTreeNode staffNode = new DefaultMutableTreeNode("Staff");
         DefaultMutableTreeNode studentNode = new DefaultMutableTreeNode("Students");
         DefaultMutableTreeNode courseNode = new DefaultMutableTreeNode("Courses");
@@ -142,6 +143,7 @@ public class GUI extends JFrame {
 
             DefaultMutableTreeNode masterNode = new DefaultMutableTreeNode(selectedDepartment.getSchoolName() + " Breakdown");
 
+            //LOOP THROUGH DEPT STUDENTS AND ADD TO NODE
             for (Student studentToAdd : selectedDepartment.getStudents()) {
                 DefaultMutableTreeNode tempNode = new DefaultMutableTreeNode(studentToAdd.getFullName());
                 studentNode.add(tempNode);
@@ -149,6 +151,7 @@ public class GUI extends JFrame {
 
             masterNode.add(studentNode);
 
+            //LOOP THROUGH DEPT STAFF AND ADD TO NODE
             for (Staff staffToAdd : selectedDepartment.getStaff()) {
                 DefaultMutableTreeNode tempNode = new DefaultMutableTreeNode(staffToAdd.getFullName());
                 staffNode.add(tempNode);
@@ -156,6 +159,7 @@ public class GUI extends JFrame {
 
             masterNode.add(staffNode);
 
+            //LOOP THROUGH DEPT CORSES AND ADD TO NODE
             for (Courses courseToAdd : selectedDepartment.getCourses()) {
                 DefaultMutableTreeNode tempNode = new DefaultMutableTreeNode(courseToAdd.getCourseName());
                 courseNode.add(tempNode);
@@ -163,6 +167,7 @@ public class GUI extends JFrame {
 
             masterNode.add(courseNode);
 
+            //LOOP THROUGH DEPT MODULES AND ADD TO NODE
             for (Modules moduleToAdd : selectedDepartment.getDepartmentModules()) {
                 DefaultMutableTreeNode tempNode = new DefaultMutableTreeNode(moduleToAdd.getName());
                 moduleNode.add(tempNode);
@@ -195,23 +200,25 @@ public class GUI extends JFrame {
 
                 }
 
+                //START ADDING MODULE NODES TO EACH COURSE NODE
                 for (Modules moduleInCourse : courseToAdd.getcourseModules()){
 
                     DefaultMutableTreeNode moduleStudentNode = new DefaultMutableTreeNode("Module Students");
                     DefaultMutableTreeNode moduleStaffNode = new DefaultMutableTreeNode("Module Staff");
                     DefaultMutableTreeNode courseModule = new DefaultMutableTreeNode(moduleInCourse.getName());
 
-
+                    //ADD STUDENTS TO MOUDLE NODE
                     for (Student studentOnModule : moduleInCourse.getStudents()){
                         DefaultMutableTreeNode moduleStudent = new DefaultMutableTreeNode(studentOnModule.getFullName());
                         moduleStudentNode.add(moduleStudent);
                     }
 
 
+                    //ADD STAFF MEMEBER TO MODULE NODE
                     DefaultMutableTreeNode moduleStaff = new DefaultMutableTreeNode(moduleInCourse.getLecturer().getFullName());
                     moduleStaffNode.add(moduleStaff);
 
-
+                    //ADD ALL TO COURSE NODE
                     courseModule.add(moduleStudentNode);
                     courseModule.add(moduleStaffNode);
                     tempCourseModuleNode.add(courseModule);

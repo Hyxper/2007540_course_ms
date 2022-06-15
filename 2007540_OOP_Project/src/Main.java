@@ -14,7 +14,12 @@ public class Main implements Dependencies{
         //ERROR CHECKING
         //make naming less ambiguous
         // ADD A NEW STUDENT OR STAFF
-        //FINAL vars
+        //threads?
+        //CHANGE COUNTERS TO ENUMS AND MAKE FILE EXTENSION ENUM
+        //add event listener to open window for each student
+        //RUNNABLES
+        //REPLACE DEPENDCIES WITH ENUMS
+
 
 
         ArrayList<Departments> departmentStructres = Initialise.InitialiseDepartments();
@@ -22,12 +27,22 @@ public class Main implements Dependencies{
         assert departmentStructres != null;
 //        final GUI gui = new GUI(departmentStructres);
 
-        File structureFile = FileParser.createFile("test","2007540_OOP_Project/data/");
-        assert structureFile != null;
-        FileParser.writeToFile(structureFile,"1");
-        FileParser.writeToFile(structureFile,"2");
-        FileParser.writeToFile(structureFile,"3");
+//        File structureFile = FileParser.createFile("test","2007540_OOP_Project/data/");
+//
+//        assert structureFile != null;
+//        FileParser.writeToFile(structureFile,"1");
+//        FileParser.writeToFile(structureFile,"2");
+//        FileParser.writeToFile(structureFile,"3");
+
+
+//        System.out.println(StructureValues.MODULECOUNT.getCount());
+//        System.out.println(StructureValues.COURSECOUNT.getCount());
+//        System.out.println(FileExtensions.DATAFILES.getExtension());
+
+
 
     }
+
+
 
 }
