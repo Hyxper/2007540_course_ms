@@ -5,7 +5,7 @@ public class Modules {
     private String code;
     private String ac_year;
 
-//    private ArrayList<Student> students;
+    private ArrayList<Student> students;
 
     private Staff lecturer;
 
@@ -47,5 +47,13 @@ public class Modules {
 
     public void setLecturer(Staff lecturer) {
         this.lecturer = lecturer;
+    }
+
+    public ArrayList<Student> getStudents() {
+        return students;
+    }
+
+    public void setStudents(ArrayList<Student> students) {
+        this.students = students;
     }
 }

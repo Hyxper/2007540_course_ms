@@ -1,10 +1,10 @@
 import com.google.gson.Gson;
 import com.google.gson.stream.JsonReader;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
 import java.lang.reflect.Type;
+import java.nio.file.Files;
+import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -67,7 +67,13 @@ public class FileParser {
 
         }
 
-        public static ArrayList<Modules> stripModules(ArrayList<Modules> rawModules){
+    /**
+     *
+     * @param rawModules
+     * @return RETURNS MODULE LIST BACK TO CALL, IN WHICH IT HAS REMOVED DUPLICATES
+     */
+
+    public static ArrayList<Modules> stripModules(ArrayList<Modules> rawModules){
 
             List<String> tempArr = null;
             ArrayList<Modules> returnModules = new ArrayList<>();
@@ -79,4 +85,60 @@ public class FileParser {
 
             return rawModules;
         }
+
+
+        public static File createFile(String fileName, String filePath){
+            try {
+
+                File fileToPrint = new File(filePath+fileName);
+
+                if (fileToPrint.createNewFile()) {
+                    System.out.println("Strucutres printed out to a text file: " + fileToPrint.getName()+".txt");
+                    System.out.println("Location: " + fileToPrint.getAbsolutePath());
+
+                } else {
+                    Files.delete(Path.of(filePath + fileName));
+                    fileToPrint.createNewFile();
+                    System.out.println("Strucutres re-printed out to a text file: " + fileToPrint.getName()+".txt");
+                    System.out.println("Location: " + fileToPrint.getAbsolutePath());
+                }
+
+                return fileToPrint;
+
+            } catch (IOException e) {
+                System.out.println("An error occurred.");
+                e.printStackTrace();
+            }
+
+            return null;
+        }
+
+
+        public static void writeToFile(File fileToWrite, String content){
+
+
+            if (fileToWrite.isFile()){
+
+                try(PrintWriter fileWriter = new PrintWriter(new BufferedWriter(new FileWriter(fileToWrite, true)))){
+
+                    fileWriter.write(content);
+                    fileWriter.write(System.lineSeparator());
+
+                }catch(IOException e) {
+                    System.out.println("An error occurred.");
+                    e.printStackTrace();
+                }
+            }else{
+                System.out.println(" is not a file, or does not exist in directory.");
+                //THROW ERROR JACK
+            }
+
+
+
+
+
+        }
+
+
+
 }

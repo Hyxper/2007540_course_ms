@@ -58,7 +58,7 @@
                 <properties/>
                 <border type="none"/>
                 <children>
-                  <component id="3e9b6" class="javax.swing.JTree" binding="leftTree" custom-create="true">
+                  <component id="3e9b6" class="javax.swing.JTree" binding="leftTree">
                     <constraints/>
                     <properties>
                       <rootVisible value="true"/>
@@ -92,7 +92,7 @@
                 <properties/>
                 <border type="none"/>
                 <children>
-                  <component id="b49e1" class="javax.swing.JTree" binding="rightTree" custom-create="true">
+                  <component id="b49e1" class="javax.swing.JTree" binding="rightTree">
                     <constraints/>
                     <properties/>
                   </component>
