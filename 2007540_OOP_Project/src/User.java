@@ -15,8 +15,6 @@ public abstract class User {
         return firstName+" "+lastName;
     }
 
-
-
     public void setFirstName(String firstName) {
         this.firstName = firstName;
     }

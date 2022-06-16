@@ -5,7 +5,11 @@ public enum FileExtensions {
     STAFF("staff.json"),
     MODULES("modules.json"),
     COURSES("Courses.json"),
-    DEPARTMENTS("academic-depts.csv");
+    DEPARTMENTS("academic-depts.csv"),
+
+    LOGFILE("Log_file.txt"),
+
+    SPLITERATOR("------------------------------------------------------");
 
 
     final private String FileExtensions;

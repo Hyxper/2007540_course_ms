@@ -169,7 +169,7 @@ public class GUI extends JFrame {
 
             //LOOP THROUGH DEPT MODULES AND ADD TO NODE
             for (Modules moduleToAdd : selectedDepartment.getDepartmentModules()) {
-                DefaultMutableTreeNode tempNode = new DefaultMutableTreeNode(moduleToAdd.getName());
+                DefaultMutableTreeNode tempNode = new DefaultMutableTreeNode(moduleToAdd.getModuleName());
                 moduleNode.add(tempNode);
             }
 
@@ -205,7 +205,7 @@ public class GUI extends JFrame {
 
                     DefaultMutableTreeNode moduleStudentNode = new DefaultMutableTreeNode("Module Students");
                     DefaultMutableTreeNode moduleStaffNode = new DefaultMutableTreeNode("Module Staff");
-                    DefaultMutableTreeNode courseModule = new DefaultMutableTreeNode(moduleInCourse.getName());
+                    DefaultMutableTreeNode courseModule = new DefaultMutableTreeNode(moduleInCourse.getModuleName());
 
                     //ADD STUDENTS TO MOUDLE NODE
                     for (Student studentOnModule : moduleInCourse.getStudents()){

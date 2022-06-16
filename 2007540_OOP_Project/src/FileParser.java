@@ -78,7 +78,7 @@ public class FileParser {
             List<String> tempArr = null;
             ArrayList<Modules> returnModules = new ArrayList<>();
 
-            rawModules.removeIf(module -> !Objects.equals(module.getAc_year(), "20"));
+            rawModules.removeIf(module -> !Objects.equals(module.getAcYear(), "20"));
 
            //REMOVE DUPLICATE NAMES
 
@@ -87,19 +87,19 @@ public class FileParser {
         }
 
 
-        public static File createFile(String fileName, String filePath){
+        public static File createFile(String filePath, String fileName) {
             try {
 
                 File fileToPrint = new File(filePath+fileName);
 
                 if (fileToPrint.createNewFile()) {
-                    System.out.println("Strucutres printed out to a text file: " + fileToPrint.getName()+".txt");
+                    System.out.println("Strucutres printed out to a text file: " + fileToPrint.getName());
                     System.out.println("Location: " + fileToPrint.getAbsolutePath());
 
                 } else {
                     Files.delete(Path.of(filePath + fileName));
                     fileToPrint.createNewFile();
-                    System.out.println("Strucutres re-printed out to a text file: " + fileToPrint.getName()+".txt");
+                    System.out.println("Strucutres re-printed out to a text file: " + fileToPrint.getName());
                     System.out.println("Location: " + fileToPrint.getAbsolutePath());
                 }
 
@@ -139,11 +139,5 @@ public class FileParser {
 
         }
 
-    public static void countUp(int counter, String name){
-
-        for (int i=0;i<=counter;i++){
-            System.out.println("Counter is "+i+" on thread "+name);
-        }
-    }
 
 }

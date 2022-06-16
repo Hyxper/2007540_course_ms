@@ -1,19 +1,22 @@
+import com.google.gson.annotations.SerializedName;
+
 import java.util.ArrayList;
 
 public class Modules {
     private String name;
     private String code;
-    private String ac_year;
+    @SerializedName("ac_year")
+    private String acYear;
 
     private ArrayList<Student> students;
 
     private Staff lecturer;
 
-    public String getName() {
+    public String getModuleName() {
         return name;
     }
 
-    public void setName(String name) {
+    public void setModuleName(String name) {
         this.name = name;
     }
 
@@ -25,12 +28,12 @@ public class Modules {
         this.code = code;
     }
 
-    public String getAc_year() {
-        return ac_year;
+    public String getAcYear() {
+        return acYear;
     }
 
-    public void setAc_year(String ac_year) {
-        this.ac_year = ac_year;
+    public void setAcYear(String acYear) {
+        this.acYear = acYear;
     }
 //
 //    public ArrayList<Student> getStudents() {
