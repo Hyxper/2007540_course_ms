@@ -10,7 +10,6 @@ public enum StructureValues {
         this.DepartmentRules = DepartmentRules;
         }
 
-//    FILEDIR("2007540_OOP_Project/data/");
 
         public int getCount(){
             return DepartmentRules;

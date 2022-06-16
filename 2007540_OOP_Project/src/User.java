@@ -1,6 +1,6 @@
 import com.google.gson.annotations.SerializedName;
 
-public abstract class User implements Dependencies{
+public abstract class User {
 
     private int id;
     @SerializedName("first_name")

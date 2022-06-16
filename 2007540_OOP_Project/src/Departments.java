@@ -4,7 +4,7 @@ import java.util.Random;
 
 import static java.lang.Math.floor;
 
-public class Departments implements Dependencies {
+public class Departments{
 
     private String schoolName;
 
@@ -71,7 +71,7 @@ public class Departments implements Dependencies {
     public void assignStaff(ArrayList<Staff> rawStaff) {
 
         int staffModuleCounter = 0;
-        int requiredModules = moduleCount*courseCount;
+        int requiredModules = StructureValues.MODULECOUNT.getCount()*StructureValues.COURSECOUNT.getCount();
 
         for (Staff staffMember : rawStaff) {
             if (Objects.equals(staffMember.getDepartment(), this.schoolName)) {
@@ -98,8 +98,8 @@ public class Departments implements Dependencies {
             System.out.println("NO STUDENTS INITIALIZED");
         } else {
 
-            int remainder = this.getStudents().size() % courseCount;
-            int studentsPerCourse = (this.getStudents().size()-remainder) / courseCount;
+            int remainder = this.getStudents().size() % StructureValues.COURSECOUNT.getCount();
+            int studentsPerCourse = (this.getStudents().size()-remainder) / StructureValues.COURSECOUNT.getCount();
             int index = 0;
             int endIndex = studentsPerCourse;
 
