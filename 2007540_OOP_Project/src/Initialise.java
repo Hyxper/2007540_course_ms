@@ -2,7 +2,7 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Objects;
 
-public class Initialise implements Dependencies {
+public class Initialise {
 
     /**
      *
@@ -14,18 +14,17 @@ public class Initialise implements Dependencies {
 
         try {
 
-            //DECODE ALL JSON, AND CSV FILES INTO ARRAYS TO BE USED
+            //DECODE ALL JSON, AND CSV FILES INTO ARRAYS TO BE USED (USING ENUMS IN "FILE EXTENSION" TO DIRECT METHOD).
 
             ArrayList<Student> students = FileParser.FormatJson
-                    ("2007540_OOP_Project/data/students.json", Student[].class);
+                    (FileExtensions.FILEPATH.getExtension()+FileExtensions.STUDENTS.getExtension(), Student[].class);
             ArrayList<Staff> staffMembers = FileParser.FormatJson
-                    ("2007540_OOP_Project/data/staff.json", Staff[].class);
+                    (FileExtensions.FILEPATH.getExtension()+FileExtensions.STAFF.getExtension(), Staff[].class);
             ArrayList<Modules> modules = FileParser.stripModules(FileParser.FormatJson
-                    ("2007540_OOP_Project/data/modules.json", Modules[].class));
+                    (FileExtensions.FILEPATH.getExtension()+FileExtensions.MODULES.getExtension(), Modules[].class));
             ArrayList<Courses> courses = FileParser.FormatJson
-                    ("2007540_OOP_Project/data/Courses.json", Courses[].class);
-
-            String[] rawDepartments = FileParser.FormatCSV("2007540_OOP_Project/data/academic-depts.csv").toArray(new String[0]);
+                    (FileExtensions.FILEPATH.getExtension()+FileExtensions.COURSES.getExtension(), Courses[].class);
+            String[] rawDepartments = FileParser.FormatCSV(FileExtensions.FILEPATH.getExtension()+FileExtensions.DEPARTMENTS.getExtension()).toArray(new String[0]);
 
 
             ArrayList<Departments> departments = new ArrayList<>();
@@ -36,11 +35,11 @@ public class Initialise implements Dependencies {
                 Departments temp = new Departments(specialism);
 
                 //randomly select courses to add to department (max number set in dependencies interface)
-                temp.setCM(courses, temp.getCourses(), courseCount);
+                temp.setCM(courses, temp.getCourses(), StructureValues.COURSECOUNT.getCount());
 
                 //ADD MODULES TO EACH COURSE RANDOMLY
                 for (Courses course : temp.getCourses()) {
-                    temp.setCM(modules, course.getcourseModules(), moduleCount);
+                    temp.setCM(modules, course.getcourseModules(), StructureValues.MODULECOUNT.getCount());
                 }
 
                 //ADD STUDENTS TO EACH DEPARTMENT

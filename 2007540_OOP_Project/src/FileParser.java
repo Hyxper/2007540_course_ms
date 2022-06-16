@@ -139,6 +139,11 @@ public class FileParser {
 
         }
 
+    public static void countUp(int counter, String name){
 
+        for (int i=0;i<=counter;i++){
+            System.out.println("Counter is "+i+" on thread "+name);
+        }
+    }
 
 }
