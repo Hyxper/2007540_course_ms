@@ -2,7 +2,7 @@ import com.google.gson.annotations.SerializedName;
 
 import java.util.ArrayList;
 
-public class Modules {
+public class Modules implements Modulable {
     private String name;
     private String code;
     @SerializedName("ac_year")
@@ -12,50 +12,52 @@ public class Modules {
 
     private Staff lecturer;
 
+    @Override
     public String getModuleName() {
         return name;
     }
 
+    @Override
     public void setModuleName(String name) {
         this.name = name;
     }
 
+    @Override
     public String getCode() {
         return code;
     }
 
+    @Override
     public void setCode(String code) {
         this.code = code;
     }
 
+    @Override
     public String getAcYear() {
         return acYear;
     }
 
+    @Override
     public void setAcYear(String acYear) {
         this.acYear = acYear;
     }
-//
-//    public ArrayList<Student> getStudents() {
-//        return students;
-//    }
-//
-//    public void setStudents(ArrayList<Student> students) {
-//        this.students = students;
-//    }
 
+    @Override
     public Staff getLecturer() {
         return lecturer;
     }
 
+    @Override
     public void setLecturer(Staff lecturer) {
         this.lecturer = lecturer;
     }
 
+    @Override
     public ArrayList<Student> getStudents() {
         return students;
     }
 
+    @Override
     public void setStudents(ArrayList<Student> students) {
         this.students = students;
     }

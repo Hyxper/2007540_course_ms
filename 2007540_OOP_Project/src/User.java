@@ -1,6 +1,6 @@
 import com.google.gson.annotations.SerializedName;
 
-public abstract class User {
+public abstract class User implements Userable{
 
     private int id;
     @SerializedName("first_name")
@@ -10,53 +10,49 @@ public abstract class User {
     private String email;
     private String department;
 
-    @Override
-    public String toString(){
-        return firstName+" "+lastName;
-    }
+    //ABSTRACT METHOD TO SHOW USE
+    public abstract String getFullName();
 
-    public void setFirstName(String firstName) {
+    @Override
+    public void setFirstName(){
         this.firstName = firstName;
     }
-
+    @Override
     public void setLastName(String lastName) {
         this.lastName = lastName;
     }
-
+    @Override
     public void setEmail(String email) {
         this.email = email;
     }
-
+    @Override
     public String getFirstName() {
         return firstName;
     }
-
+    @Override
     public String getLastName() {
         return lastName;
     }
-
+    @Override
     public String getEmail() {
         return email;
     }
-
+    @Override
     public int getId() {
         return id;
     }
-
+    @Override
     public void setId(int id) {
         this.id = id;
     }
-
+    @Override
     public String getDepartment() {
         return department;
     }
-
+    @Override
     public void setDepartment(String department) {
         this.department = department;
     }
 
-    public String getFullName(){
-        return this.getFirstName()+" "+this.getLastName();
-    }
 }
 

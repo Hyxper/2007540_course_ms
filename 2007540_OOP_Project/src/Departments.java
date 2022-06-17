@@ -4,7 +4,7 @@ import java.util.Random;
 
 import static java.lang.Math.floor;
 
-public class Departments{
+public class Departments implements Departmentable {
 
     private String schoolName;
 
@@ -20,38 +20,47 @@ public class Departments{
         this.setStudents(new ArrayList<>());
     }
 
+    @Override
     public String getSchoolName() {
         return schoolName;
     }
 
+    @Override
     public void setSchoolName(String schoolName) {
         this.schoolName = schoolName;
     }
 
+    @Override
     public ArrayList<Student> getStudents() {
         return students;
     }
 
+    @Override
     public void setStudents(ArrayList<Student> students) {
         this.students = students;
     }
 
+    @Override
     public ArrayList<Staff> getStaff() {
         return staff;
     }
 
+    @Override
     public void setStaff(ArrayList<Staff> staff) {
         this.staff = staff;
     }
 
+    @Override
     public ArrayList<Courses> getCourses() {
         return courses;
     }
 
+    @Override
     public void setCourses(ArrayList<Courses> courses) {
         this.courses = courses;
     }
 
+    @Override
     public ArrayList<Modules> getDepartmentModules(){
         ArrayList<Modules> tempArr = new ArrayList<>();
         for (Courses temp : this.courses) {
@@ -194,7 +203,8 @@ public class Departments{
      * @param limit how large you want array to be
      * @param <T> Generic type (of Arraylist)
      */
-    <T> void setCM(ArrayList<T> rawData, ArrayList<T> modifiedProperty, int limit) {
+
+    public <T> void setCM(ArrayList<T> rawData, ArrayList<T> modifiedProperty, int limit) {
         for (int i = 0; i < limit; i++) {
             Random generator = new Random();
             int randomIndex = generator.nextInt(rawData.size());
@@ -202,11 +212,6 @@ public class Departments{
             rawData.remove(randomIndex);
         }
     }
-
-
-
-
-
 
 
 
