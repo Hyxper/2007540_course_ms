@@ -2,6 +2,10 @@ import com.google.gson.annotations.SerializedName;
 
 import java.util.ArrayList;
 
+/**
+ * CLASS TO REPRESENT A UNIVERSITY COURSE
+ */
+
 public class Courses implements Coursable {
 
     @SerializedName("course_name")

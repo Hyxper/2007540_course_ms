@@ -1,111 +1,111 @@
 ------------------------------------------------------
 Business School
 ------------------------------------------------------
-COURSE: School Direct - Bitterne Park - English with SEN
-COURSE: PGCE Secondary - MFL: German with Spanish
-COURSE: School Direct - TESLA, Bohunt - Physical Education
-COURSE: School Direct - STAGE TSA -  Primary
-COURSE: BA (Hons) Theatre
-COURSE: School Direct - Blue Flag - English
-COURSE: School Direct - Portsmouth  TSA - Primary (SEN)
-COURSE: BSc (Hons) Criminology
+COURSE: Masters in Social Work
+COURSE: LLB Law
+COURSE: School Direct - Bishop Luffa - Biology
+COURSE: BA (Hons) Education, Special Needs and Disability
+COURSE: School Direct - Bishop Luffa - Modern Languages
+COURSE: BA (Hons) Religion, Ethics and Society
+COURSE: School Direct - Petersfield - Physics (Salaried)
+COURSE: School Direct - Blue Flag   - Physics
 ------------------------------------------------------
-MODULE: Lecture Recital
-MODULE: Digital Culture
-MODULE: Advanced Applied Research Skills For Sport
-MODULE: Interdisciplinary Cdio Project
-MODULE: Performance Skills 3: Devised Text And Character
-MODULE: Aesthetic And Creative Movement - Gymnastics
-MODULE: Writing To A Brief 2
-MODULE: Children'S Rights
-MODULE: Management Project
-MODULE: Studio Practice 3 (Double)
-MODULE: Business Research Portfolio
-MODULE: English Language Development 2: British Culture
-MODULE: Individual Project
-MODULE: Research Methods 3 (Dissertation)
-MODULE: The Wider Curriculum
-MODULE: Music And Society
-MODULE: Operations Management, Quality And Excellence
-MODULE: Principles Of Musculoskeletal Physiotherapy
-MODULE: Analogue Electronics
-MODULE: Introduction To Sport & Exercise Psychology
-MODULE: Music Mastering
-MODULE: Phase 1
-MODULE: Professional Studies 1 (PGCSPS)
-MODULE: Biological Psychology
-MODULE: Technical Specialism
-MODULE: Orchestral Audition
-MODULE: School Experience 4 - Developing As A Professional
-MODULE: P.P.D. Group Two
-MODULE: Innovation In The Music Industry
-MODULE: Dynamic And Data-Driven Systems
-MODULE: Advocacy And Social Justice
-MODULE: Writing The Novel
-MODULE: Scoring Drama
-MODULE: Developing And Monitoring Fitness In The Coaching Process
-MODULE: Criminology & Childhood
-MODULE: Development (Secondary)
-MODULE: Research & Quantitative Methods For Business
-MODULE: Algorithms And Data Structures
-MODULE: Performance Management And Production
+MODULE: Planning your Research Dissertation / Supervised Portfolio
+MODULE: Independent Exhibition Or Project (Dissertation)
+MODULE: Law And Society
+MODULE: Contemporary Musical Theatre
+MODULE: Child Development (0-8 Years)
+MODULE: Understanding Self And Our Wider Impact: An Operational Perspective
+MODULE: Children'S Literature In The Classroom
+MODULE: Christian Mission In Western Society
+MODULE: Musical Theatre Ensemble
+MODULE: Insurance Market Underwriting And Practice
+MODULE: Quantitative Methods For Business
+MODULE: Database Systems
+MODULE: Contemporary Issues In Sport And Physical Education
+MODULE: Dissertation - Creative Writing (45 Credit)
+MODULE: Managing Change
 MODULE: Accounting And Finance
-MODULE: Physical Education Subject Study 1
-MODULE: Children, Young People, Education And Society
-MODULE: Outdoor Learning; Woodland And Beach Education
-MODULE: Resilience In Practice With Children And Families
-MODULE: Research Methodology
-MODULE: Criminology and Childhood
-MODULE: Core Curriculum Mathematics Module 2 - Successful Teaching And Learning Of Mathematics
-MODULE: Individual Cdio Project (Ee)
-MODULE: Introduction To Criminology And Forensic Psychology
-MODULE: Researching Sport And Exercise
-MODULE: Strategic Management
-MODULE: Comedy
-MODULE: Choreography And Performance
-MODULE: Second Study
-MODULE: Leading And Developing Teams
-MODULE: Advances In Sports Injury Management Of The Upper Quadrant
-MODULE: Progression (Primary)
-MODULE: Level 5 Production 1
-MODULE: Democracy, Empathy And Rights
-MODULE: Research Project
-MODULE: Studio Practice 4 (Double)
-MODULE: Insurance Market, Products And Practice
-MODULE: Neurological Physiotherapy
-MODULE: Religion, Ethics And Violence
-MODULE: Digital Marketing
-MODULE: Final Major Project
-MODULE: Operations Management, Quality And Excellence
-MODULE: Understanding Health And Social Care
-MODULE: Information, Communication & Cultural Development
-MODULE: Singing Development
-MODULE: Resilience And The Freelancer
-MODULE: Applied Event Management 2 & 3
-MODULE: Health And Well-Being Clinic
-MODULE: International Business
+MODULE: Live Sound & Event Management
+MODULE: Autism Education: Advances In Teaching And Learning
+MODULE: Learning, Teaching & Caring In Adventure Education
+MODULE: Dance Technique B
+MODULE: Electrical Principles
 MODULE: Work Placement
-MODULE: Documentary: History & Practice
-MODULE: Professional Development
-MODULE: Performance And Material
-MODULE: The Early Years Curriculum In Its Professional Context
-MODULE: Research Methods
-MODULE: Behaviour For Learning
-MODULE: Personal Study
-MODULE: Mathematical Methods Iii
+MODULE: Devising For Theatre
+MODULE: Professional Issues In Teaching And Coaching
+MODULE: Languages
+MODULE: Teaching History Subject Study 2 (PGCSH02)
+MODULE: Applications Of Psychology In Dance
+MODULE: Spanish Intermediate B1.1 - Threshold 1
+MODULE: Analysis Methods In Sport And Exercise Psychology
+MODULE: Psychology Of Injury And Rehabilitation
+MODULE: Understanding Adventure (Land Based Activities)
+MODULE: Therapeutic And Clinical Electrotherapy
+MODULE: Everyday Experience & Psychological Methods: Usability And Cognition
+MODULE: Core Curriculum Mathematics Module 1 - The Teaching And Learning Of Number
+MODULE: Write From The Start: Exploring Writing And The Teaching Of Writing In The Primary Curriculum
+MODULE: Dissertation
+MODULE: Linked Tutorial Programme
+MODULE: Introduction To Insurance, Principles & Law
+MODULE: Work Placement In Sport And Exercise Nutrition
+MODULE: From 'Angry Young Men' To Cool Britannia?: A Historical Analysis Of British Cultural Activity After 1945
+MODULE: Screen Acting 2
+MODULE: International Perspectives of Early Years Holding page
+MODULE: Research Project
+MODULE: Introduction To Skill Acquisition
+MODULE: Digital Culture
+MODULE: Music, Marketing & Promotion
+MODULE: International Perspectives Of Childhood
+MODULE: Dance Dissertation Project (30.00 Credit)
+MODULE: Reflective Practitioner: Babies, Toddlers and Pre-School Holding page
+MODULE: Professional Studies 1 (PGCSPS)
+MODULE: The Research Dissertation
+MODULE: Core Curriculum English 2
+MODULE: Work Based Learning Portfolio
+MODULE: Workplace 2Nd Year Projects
+MODULE: Contemporary Musical Theatre
+MODULE: Managing People In Sport Business
+MODULE: Assessment And Observation
+MODULE: Valuing Individual Differences
+MODULE: Workplace 2Nd Year Projects
+MODULE: Dissertation - Adventure Education
+MODULE: Project Design, Measuring Impact & Reporting
+MODULE: Spanish Beginner: A.1
+MODULE: Developing An Information Strategy & Change Management
+MODULE: Valuing Individual Differences In Children
+MODULE: Leadership In Health And Social Care
+MODULE: Mechanical Foundations
+MODULE: Guru Lecture Evaluation
+MODULE: Mechanical Failure Analysis
+MODULE: Academic English 2
+MODULE: Managing For Sustainability And Corporate Responsibility
+MODULE: Final Showcase Performance
+MODULE: Songwriting Techniques
+MODULE: Foundations Of Game Music & Audio
+MODULE: Mobile Communications
+MODULE: Work Placement
+MODULE: Dissertation The Research Project: Evaluation And Dissemination (Part 2)
+MODULE: Methods Of Intervention And Assessment
+MODULE: Music Editing
+MODULE: Business Management And MacRo-Economic Policy
+MODULE: Corporate Responsibility
+MODULE: Engineering Mathematics
 MODULE: Core Curriculum English 1
-MODULE: Counselling Phase 1
-MODULE: Computer Aided Design Ii
-MODULE: Chamber Music
-MODULE: Core Curriculum Science
-MODULE: E-Commerce Strategy
-MODULE: Writing To A Brief 2
-MODULE: Italian Intermediate Threshold 1 - B1.1
-MODULE: Ethics And Codes Of Conduct
-MODULE: Marketing Principles And Practice
-MODULE: Networked World; Systems And Architectures
-MODULE: Developing People And Teams: Operational Perspective
-MODULE: Safeguarding And Intergrated Working In The Early Years
+MODULE: Tourism And Hospitality Research
+MODULE: Business Information Systems
+MODULE: Developing Advanced Practice
+MODULE: Play, Creativity And Expressive Arts
+MODULE: Outdoor Environments 1
+MODULE: Networked World; Systems & Architectures
+MODULE: Personal Study (Recital)
+MODULE: Programming For The Web
+MODULE: Applied Measurement Techniques
+MODULE: Social Justice And Injustice
+MODULE: Professional Studies: Learners And Learning
+MODULE: Languages - French
+MODULE: Vocal Performance
+MODULE: Level 5 Production 1
 ------------------------------------------------------
 STUDENT: Gavan Bristo
 STUDENT: Jaquelyn Korn
@@ -189,111 +189,111 @@ STAFF: Eadith Drayn
 ------------------------------------------------------
 Engineering
 ------------------------------------------------------
-COURSE: BA (Hons) Digital Film Production
-COURSE: School Direct - Bishop Luffa - Chemistry
-COURSE: BA (Hons) Acting
-COURSE: School Direct - Bishop Luffa - Biology
-COURSE: BMus (Hons) Vocal Performance
-COURSE: School Direct - TESLA  - English
-COURSE: School Direct - TESLA  - Mathematics
-COURSE: BA (Hons) Painting and Drawing
+COURSE: BA (Hons) Dance
+COURSE: PGCE Secondary - MFL: French with Spanish
+COURSE: BA (Hons) Business and Event Management
+COURSE: BSc (Hons) Sports Therapy
+COURSE: School Direct - Millais School   - Mathematics
+COURSE: School Direct - Blue Flag   - Physics
+COURSE: BA (Hons) Fine Art
+COURSE: School Direct - TESLA  - Biology
 ------------------------------------------------------
-MODULE: Operations Management
-MODULE: Writing For Woodwind
-MODULE: Introduction To Early Years
-MODULE: Modern Foreign Languages Subject Study 2
-MODULE: Drama In Education
-MODULE: Professional Resilience
-MODULE: Corporate Social Responsibility
-MODULE: Screen Acting Skills 2
-MODULE: Critical Issues In Managing It Service Support Services
-MODULE: International Perspectives Of Childhood
-MODULE: Teaching Effective Technique For Playing Brass Instruments
-MODULE: Ideas, Innovation And Intrapreneurship
-MODULE: Professional Studies 2 (PGCSPS)
-MODULE: Performance Techniques 1
-MODULE: Choreography And Devising
-MODULE: Session Preparation
-MODULE: Play, Creativity And Expressive Arts
-MODULE: Exploring English Specialism - Talk For Learning
-MODULE: Managing Change
-MODULE: Language And Society
-MODULE: Business Strategy
-MODULE: Specialist Humanistic Therapy: Person Centred Therapy
-MODULE: Preparing The Dance Artist For Work
+MODULE: Work Placement In Sport And Exercise Nutrition
+MODULE: Dissertation
+MODULE: Project Management
+MODULE: Rehabilitation: Return To Function
+MODULE: Corporate Finance
+MODULE: Commissioned Project: Internal Client
+MODULE: The Enquiring Practitioner
+MODULE: English Language Development 1: Current Affairs
+MODULE: Global Branding
+MODULE: Finance For Managers
+MODULE: Independent Study In Sport And Exercise Sciences
+MODULE: Computer Forensics
 MODULE: Oaa Within Education 2
-MODULE: Scientific Principles Of Practice
-MODULE: Teaching Mathematics Subject Study 2 (PGCSMA02)
-MODULE: Second Study
-MODULE: English Subject Study 1
-MODULE: Supporting Learning In Mathematics And Literacy
-MODULE: Laboratory Skills In Sport And Exercise
-MODULE: Vocal Performance
-MODULE: Social Justice And Injustice
-MODULE: EU Law I
-MODULE: Oral History
-MODULE: Independent Study: Mental Health Awareness In Schools
-MODULE: Product Design Competition Project
-MODULE: Managing Risk
-MODULE: Digital Campaign Planning
-MODULE: Accounting Skills
-MODULE: Physiological Limitations To Performance
-MODULE: Applied Coaching Practice (Work Placement)
-MODULE: Introduction To Sports Media
-MODULE: Studio Practice 1 (Double)
-MODULE: Critical And Cultural Theory 4: Postmodernism
-MODULE: Social Justice And Equity In Education
-MODULE: Muscles And Movement In Dance
-MODULE: Luxury Marketing
-MODULE: Language Teaching Methodology - Online
-MODULE: Sound, Music & The Moving Image
-MODULE: Managing Change
-MODULE: Health And Wellbeing Of Young Children
-MODULE: Personal Development For Leading Transformation
-MODULE: Pre-Dprof Module
-MODULE: Acting Skills 1: Foundations
-MODULE: Applied Sports And Exercise Nutrition
-MODULE: Preparing Young Musicians For Assessment And Performance
-MODULE: Employee Development
-MODULE: Core Curriculum Science
-MODULE: The Research Dissertation
-MODULE: Object-Oriented Programming (Java)
-MODULE: Re-Examining Dances
-MODULE: History Subject Study 1
-MODULE: Developing Effective Curricula For String Teaching
-MODULE: Outdoor Environments 2 (Asking And Answering Environmental Questions)
-MODULE: Field And Location Recording
-MODULE: History Of Political Thought
-MODULE: Bsc Design Project
-MODULE: Inspiring Curriculum
-MODULE: Professional Resilience
-MODULE: Dissertation - Media
-MODULE: Reflective Practice
-MODULE: Physical Activity In Public Health Interventions: Conceptualisation And Design
-MODULE: Music Editing
-MODULE: Saints Or Sinners: Politics And Religion In The Contemporary Era
-MODULE: Organisational Impact: An Operational Perspective
-MODULE: Coaching Psychology
-MODULE: Dictatorship, Conformity And Resistance In Hitler'S Germany, Mussolini'S Italy And Stalin'S Russia
-MODULE: Writing For Strings & Woodwind
-MODULE: Developing The Art Of Acting
-MODULE: Accounting & Finance For Decision Makers
-MODULE: Foundations Of Movement And Principles Of Games
-MODULE: Managing Risk
+MODULE: Physical Education
+MODULE: The Baroque
+MODULE: Dance Movement Psychotherapy 2
+MODULE: Approaches To Research
+MODULE: Writing For Publication
+MODULE: Spanish Intermediate B1.1 - Threshold 1
+MODULE: Dissertation
+MODULE: Interactive Audio 1
+MODULE: Group Teaching
+MODULE: Programming For Engineers
+MODULE: Dissertation: Part 1
+MODULE: Technique For The Young Performer
+MODULE: Advanced Professional Practice
+MODULE: Christian Leadership
 MODULE: Self-Employment, Marketing And Promotion
-MODULE: Sound Design
-MODULE: Adaptive Music 2
-MODULE: Advanced Independent Reading Seminar
-MODULE: Economics For Business
-MODULE: Critical Thinking Skills
-MODULE: Applied Dance: Community, Production & Administration (45 Credit)
-MODULE: Performance Analysis In Sport
-MODULE: Personal Development For Leading Transformation
-MODULE: Child Development In The Early Years
+MODULE: School Experience A
+MODULE: Working with Babies Holding page
+MODULE: Methods Of Assessment, Intervention, Risk And Safeguarding
+MODULE: Introduction To Writing Poetry
+MODULE: Professional Placement
+MODULE: Critical Perspectives On Education
+MODULE: Physical Education
+MODULE: Writing For The Screen
+MODULE: Developing Programming Language 2 (Object Oriented Programming Using Java)
+MODULE: Cognitive Psychology
+MODULE: Adventure Education Experience
+MODULE: Mathematical Statistics
+MODULE: Contemporary Issues In Health And Social Care
+MODULE: Swing Project
+MODULE: Advanced Make-Up Practice For Media Industries
+MODULE: Developing Professional Leadership
+MODULE: Henry VIII and Court Culture 1509-1547: Faction, Faith and Fornication
+MODULE: Dance Landscapes
+MODULE: Languages - French
+MODULE: Strategic Marketing Management
+MODULE: Oral History
+MODULE: Make It New: Modernist Experimentation From T.S. Eliot To Graham Greene
+MODULE: Family Business Workshop
+MODULE: Professional Skills And Client Care
 MODULE: Devised And Performance Project
-MODULE: Understanding Children'S Behaviour
-MODULE: Core Curriculum Mathematics Module 1 - The Teaching And Learning Of Number
-MODULE: Game Audio Technology
+MODULE: Researching Early Years
+MODULE: Organisation Theory
+MODULE: Game Analysis
+MODULE: Adaptive Music 2
+MODULE: Induction
+MODULE: Therapeutic Play
+MODULE: Introduction To Psychological Issues In Outdoor And Adventurous Activities
+MODULE: Everyday Experience Psychological Methods: Understanding Relationships
+MODULE: It Management Project
+MODULE: Opera And Operetta
+MODULE: Using Numeracy And Ict Skills In Research
+MODULE: Pe 2 - Inclusion
+MODULE: Developing People And Teams: Strategic Perspective
+MODULE: Specialist Knowledge In Practice 1
+MODULE: Unconscious Desires: Psychoanalysis And Culture From Freud To Zizek
+MODULE: Power Electronic Converters
+MODULE: Mixing Principles
+MODULE: Work & Money
+MODULE: Business Research
+MODULE: Coaching Placement In Football
+MODULE: Musical Grammar 2
+MODULE: Organisation Formation, Regulation & Development
+MODULE: Classics On Film
+MODULE: Performance Skills 2
+MODULE: British Film
+MODULE: Adventure Education Experience
+MODULE: Number Theory
+MODULE: Advanced Sibelius
+MODULE: The Research Dissertation
+MODULE: Italian Intermediate Threshold 1 - B1.1
+MODULE: The Research Dissertation
+MODULE: Business Research Portfolio
+MODULE: Production Internship
+MODULE: Fundamentals Of Human Physiology
+MODULE: Management & Financial Accounts In Insurance
+MODULE: Independent Study
+MODULE: Business Law
+MODULE: Research Project
+MODULE: Professional Studies
+MODULE: Independent Project
+MODULE: Mental Health
+MODULE: Work Placement
+MODULE: Creative Portfolio
 ------------------------------------------------------
 STUDENT: Clint Rickhuss
 STUDENT: Eleanora Verduin
@@ -372,111 +372,111 @@ STAFF: Nappie Crickett
 ------------------------------------------------------
 Childhood
 ------------------------------------------------------
-COURSE: School Direct - Bitterne Park - English (Salaried)
-COURSE: BA (Hons) Music Performance and Acting for Film
-COURSE: School Direct - TESLA Bohunt School - Geography
-COURSE: BEng (Hons) Mechanical Engineering
-COURSE: School Direct - STAGE TSA - Primary
-COURSE: BSc (Hons) Sport and Exercise Science
-COURSE: BSc (Hons) Sports Therapy
-COURSE: School Direct - TESLA, Bohunt  - Chemistry
+COURSE: School Direct - Bohunt -  Primary with Mathematics
+COURSE: School Direct - STAGE TSA -  Primary
+COURSE: BA (Hons) Theatre
+COURSE: School Direct - Portsmouth  TSA - Primary (SEN)
+COURSE: School Direct - Millais Alliance   - Physics
+COURSE: BA (Hons) Musical Theatre and Arts Development
+COURSE: School Direct - Bishop Luffa - Chemistry
+COURSE: School Direct - Portsmouth TSA - Music
 ------------------------------------------------------
-MODULE: Business English
-MODULE: Rehabilitation: Return To Function
-MODULE: Organisational Development Techniques
-MODULE: Introduction To The English Legal System
-MODULE: Re-Litigating The Past: State, Media And Historical Injustice In Contemporary Britain
-MODULE: Criminology And Childhood
-MODULE: Managing Change
-MODULE: Global Branding
-MODULE: Ensemble
-MODULE: Social Histories Of Football
-MODULE: Fundamentals Of Animation
-MODULE: Strategic Management
-MODULE: Scoring Drama
-MODULE: Christian Ethics In Contemporary Society
-MODULE: Compositional Techniques: Styles And Genres
-MODULE: International Perspectives Of Childhood
-MODULE: Digital Design Graphics & Motion Graphics
-MODULE: Sport And Exercise Psychology For Teachers And Coaches
-MODULE: Development (Primary)
-MODULE: Global Branding
-MODULE: Decadence And Desire: Late Nineteenth Century Literature
-MODULE: Design Individual Cdio Ii
-MODULE: Dissertation
-MODULE: Final School Experience (Secondary)
-MODULE: Sports Broadcasting: Skills
-MODULE: Brands And Branding
-MODULE: Research Methodologies
-MODULE: Core Curriculum Science
-MODULE: Independent Study In Sport
-MODULE: The Four Hander Project
-MODULE: Critical Thinking Skills
-MODULE: Independent Project
-MODULE: Live Sound & Event Management
-MODULE: Creative Thinking Workshop
-MODULE: Campaign Writing
-MODULE: Introduction To Programming - Procedural Language (Python)
-MODULE: New Tv
-MODULE: Programming For Games
-MODULE: Family Business Workshop
-MODULE: Human Development
-MODULE: Law And Society
-MODULE: Childhood To Adulthood
-MODULE: Law In Social Work
-MODULE: Everyday Experience & Psychological Methods: Usability And Cognition
-MODULE: Physiotherapy In Health And Society
-MODULE: Management Accounting For Control
-MODULE: Documenting Performance
-MODULE: Academic English 1
-MODULE: Principles Of Sports Injury Assessment
-MODULE: Consumer Buyer Behaviour
-MODULE: Source And Exploration
-MODULE: Dissertation: Part 2
-MODULE: Sports Science; 'Flow State'
-MODULE: Leadership In Health And Social Care
-MODULE: Academic English 2
-MODULE: Developing Pedagogical Skills Through Physical Education
-MODULE: Managing A Department
-MODULE: Autism Education: Theory And Practice
-MODULE: Independent Project 1
-MODULE: Renewable Energy And Sustainability
-MODULE: Masterclass
-MODULE: Year 1 Foundation Curriculum - Good Foundations
-MODULE: Screen Acting 1
-MODULE: Discrete Mathematics
-MODULE: Project Design, Measuring Impact & Reporting
-MODULE: New Media And Performance Practices
-MODULE: Assignment 2 - Secondary
-MODULE: Business Finance
-MODULE: Professional Commission
-MODULE: Core Curriculum English 1
-MODULE: Christian Ethics In Contemporary Society
-MODULE: Reflective Practitioner: Babies, Toddlers And Pre-School
-MODULE: Workshop 4
-MODULE: Effective Pedagogy
-MODULE: Arranging For Jazz
-MODULE: Advanced Performance Psychology
-MODULE: Engineering Laboratory
-MODULE: Public And Practical Theology
-MODULE: Human Resource Management
-MODULE: Leadership & Mangemant Theory
-MODULE: Dance Landscapes
-MODULE: Science With Biology / Chemistry / Physics Module 1
-MODULE: Psychology For Screenwriting
-MODULE: Enterprise Infrastructure Design And Architectures
-MODULE: Assembly & Prototyping
-MODULE: Production Values
-MODULE: Supervision
-MODULE: Independent Project Holding page
-MODULE: Managing Data
-MODULE: Investigating Interpretation: Ideas In Literature From Marx To Barthes
-MODULE: Understanding Self And Our Wider Impact: The Strategic View
-MODULE: Citizen And Change Maker (30.00 Credits)
-MODULE: International Perspectives Of Childhood
-MODULE: PGCE Secondary Programme Page
-MODULE: Research Project (Bsc / Msci)
+MODULE: Practical Musicianship
+MODULE: Level 5 Production 2
+MODULE: Critical And Cultural Theory 2: Modernism
 MODULE: Adaptive Music 1
+MODULE: Introduction To Business Information Systems
+MODULE: Adult And Child Development Across The Life Course
+MODULE: Database Design & Implementation
+MODULE: Work Placement In Sport & Exercise Science
+MODULE: Adaptive Music 2
+MODULE: Teaching English Subject Study 1 (PGCSE01)
+MODULE: Values, Dilemma  And Conflicts In Social Work Practice
+MODULE: Basically Beethoven
+MODULE: Nutritional Strategies For Sport Performance
+MODULE: Skills For Practice 1
+MODULE: Fiction For Children
+MODULE: Level 5 Production 1
+MODULE: Developing Real Systems For Customers
+MODULE: Consultancy Report
+MODULE: International Perspectives Of Childhood
+MODULE: Mentoring And Coach Development
+MODULE: The Bible In Western Culture
+MODULE: Ethics, Dilemmas And Personal Resilience
+MODULE: Organisational Impact: A Wider Strategic Perspective
+MODULE: Working In Partnership To Promote Achievement And Wellbeing
+MODULE: Principles And Practice Of Sport
+MODULE: Dictatorship, Conformity And Resistance In Hitler'S Germany, Mussolini'S Italy And Stalin'S Russia
+MODULE: Online Editing, Grading & Deliverables
+MODULE: Filming Performance
+MODULE: Research Project
+MODULE: Business Operations, Process Analysis And Design
+MODULE: Independent Project
+MODULE: Theatre, Politics And Activism
+MODULE: Business Law
+MODULE: Business Law
+MODULE: Dynamics And Simulations For Fx Animation
+MODULE: Service Delivery Sandpit
+MODULE: Personal Development For Leading Transformation
+MODULE: Horror
+MODULE: The Movie Musical
+MODULE: Crime, Compliance And Regulations In Insurance
+MODULE: Critically Reflecting On Workplace Professional Practice
+MODULE: Human Development
+MODULE: Study & Research Skills For Psychologists
+MODULE: The United States: An Introduction: 1763-1970
+MODULE: Mathematical Foundations
+MODULE: Marketing Management
+MODULE: Animation & Vfx For Games
+MODULE: Professional Studies
+MODULE: Study Skills
+MODULE: Health And Wellbeing Of Young Children
+MODULE: Ensemble Development (Musical Theatre)
+MODULE: Data Management
+MODULE: Sport And Exercise In Extreme Environments
+MODULE: Marketing Management
+MODULE: Musical Theatre Skills 2
+MODULE: Independent Study: Preparing For The Dissertation
+MODULE: Dynamic Systems
+MODULE: Recital
+MODULE: Public And Practical Theology
+MODULE: Year 1 Foundation Curriculum - Good Foundations
+MODULE: Leadership In Health And Social Care
+MODULE: Contemporary Interpretation Of The Bible
+MODULE: Autism Education: Theory And Practice
+MODULE: Analogue And Digital Design
+MODULE: Thatcherism And After
+MODULE: New Tv
+MODULE: Fundamentals Of Website Development
+MODULE: Programming For Games
+MODULE: Audience And Presentation
+MODULE: Business Finance
+MODULE: Ethics And Codes Of Conduct
+MODULE: Directing And Devising In The Contemporary Ensemble
+MODULE: Consumer Buyer Behaviour
+MODULE: Classicism
+MODULE: Forest School: Principles And Practices
+MODULE: Independent Project 1
+MODULE: Commercial Project
+MODULE: Professional Studio Practice
+MODULE: Understanding Children'S Behaviour
+MODULE: Sports Broadcasting: Series Development And Commisioning
+MODULE: History Subject Study 2
+MODULE: Understanding And Designing The Web-User Experience
+MODULE: Research Project
+MODULE: British Musical Theatre
+MODULE: Independent Study In Sport And Exercise Sciences
+MODULE: Teaching Dance & Creative Practice
+MODULE: Sound Design, Adr And Foley
+MODULE: Working In Complex Situations
+MODULE: Personal Development For Leading Transformation
+MODULE: Ethics, Dilemmas And Personal Resilience
+MODULE: Managing Operations
+MODULE: Post Production
+MODULE: School Experience 1 - Becoming A Teacher
+MODULE: Physiotherapy In Health And Society
+MODULE: Independent Study In Sport
+MODULE: Creative Non-Fiction: Starting From The Self
 ------------------------------------------------------
 STUDENT: Cheslie Godlee
 STUDENT: Fraser Cockerton
@@ -546,111 +546,111 @@ STAFF: Kerr McKinty
 ------------------------------------------------------
 Dance
 ------------------------------------------------------
-COURSE: School Direct - Bitterne Park - English
-COURSE: BA (Hons) Sociology with Criminology
-COURSE: BSc (Hons) Criminology and Forensic Psychology
-COURSE: BA (Hons) Media & Communications
-COURSE: School Direct - Bitterne Park - English with Drama
-COURSE: BA (Hons) Politics and Philosophy & Ethics
-COURSE: School Direct - Petersfield - Physics (Salaried)
-COURSE: BA (Hons) Finance & Accounting International Route
+COURSE: BA (Hons) Sociology with Criminology (IFY)
+COURSE: BA (Hons) Politics and Contemporary History
+COURSE: PGCE Secondary - Physical Education
+COURSE: BA (Hons) Painting and Drawing
+COURSE: BMus (Hons) Instrumental Teaching
+COURSE: PGCE Secondary - Music
+COURSE: BA (Hons) Marketing
+COURSE: BA (Hons) Outdoor and Adventure Education
 ------------------------------------------------------
-MODULE: Mobile Communications
-MODULE: Colonialism And Anti-Colonialism In Africa
-MODULE: Artist As Producer
-MODULE: Assessed Practice 1
-MODULE: The Legal And Regulatory Framework
-MODULE: Psychological Aspects Of Exercise And Health
-MODULE: Introduction To Sport And Exercise Psychology
-MODULE: Gaming
-MODULE: Management Issues In Adventure Education And Outdoor Learning
-MODULE: International Perspectives
-MODULE: Managing Data And Finance
-MODULE: Creative Non-Fiction: Starting From The Self
-MODULE: Applied Performance Planning
-MODULE: Reflection, Analysis And Decision Making
-MODULE: First Study
-MODULE: Theoretical And Practical Aspects Of Oxygen Uptake Kinetics In Sport And Exercise
-MODULE: Project Management
-MODULE: Marketing
-MODULE: Developing Effective Curricula For Woodwind Teaching
-MODULE: Film Composition - Working With Music And Composers In Film, Tv And Video Games
-MODULE: Understanding Families
-MODULE: Knowledge And Understanding Of Individual Activites (Aesthetics)
-MODULE: Dissertation
-MODULE: Assignment 3 - Secondary
-MODULE: Practical Sports First Aid Therapies
-MODULE: Post Production
-MODULE: Advanced Mathematical Methods
-MODULE: Arts In Education And Society
-MODULE: Special Educational Needs And Disability - Engaging All Learners
-MODULE: ESTA PG Cert Teaching
-MODULE: Safeguarding And Intergrated Working In The Early Years
-MODULE: Equality Of Opportunity And Diversity
-MODULE: Understanding And Applying Research
-MODULE: Management And Organisations
-MODULE: Specialist Humanistic Therapy: Expressive Arts Therapies
-MODULE: Skills Two: Counselling Skills With Ethics
-MODULE: Core Curriculum Mathematics Module 1 - The Teaching And Learning Of Number
-MODULE: Work & Money
-MODULE: Languages - French
-MODULE: Applications Of Psychology In Dance
-MODULE: Developing Learner Autonomy
-MODULE: Researching Sport - Qualitative Enquiry
-MODULE: Programming For Engineers
-MODULE: Creative Musical Development
-MODULE: Game Audio Technology
-MODULE: Music And The Community 1: Music And The Mind
-MODULE: Sequencing And Programming
-MODULE: Advances In Performance Analysis Of Sport
-MODULE: Commissioned Project: Internal Client
-MODULE: Interpersonal Skills For Healthcare Professionals
-MODULE: British Musical Theatre
-MODULE: Organisation Development Techniques And Change Management
-MODULE: Theory Toolkit
-MODULE: Organisation Theory
-MODULE: Theoretical And Practical Sports Pedagogy
-MODULE: Physical Education
-MODULE: Professional Practice In Sport & Exercise Psychology
-MODULE: Dissertation
-MODULE: Exploring Mathematical Thinking
-MODULE: Italian Beginner: A.1
-MODULE: Music Sociology
-MODULE: Quantitative Methods For Business
-MODULE: Developing Mathematical Knowledge For Teaching
-MODULE: Professional Studies: Teachers And Teaching
-MODULE: Risk & Risk Management
-MODULE: Writing Flash Fiction
-MODULE: Maf Test Module 2
-MODULE: Songwriting Techniques
-MODULE: Teaching Strategies For Guitar/Harp (Plucked String) Teachers: Working With Children And Young People
-MODULE: Employment In The Music Industry
-MODULE: Corporate Responsibility And Business Ethics
-MODULE: Understanding Behaviour
-MODULE: Web Design And Programming
-MODULE: Scenography For Dance
-MODULE: The Dissertation
-MODULE: Developing Academic And Professional Skills
-MODULE: Fiction For Children
-MODULE: Guru Lecture Evaluation
-MODULE: Tissues Modelling & Assistive Devices
-MODULE: Skills For Practice 2
-MODULE: Corporate Responsibility
-MODULE: Motivating Athletes
-MODULE: Theatre Project: Cultural Identity
-MODULE: Musical Theatre Industry
-MODULE: Business Project
-MODULE: Dissertation
-MODULE: Teaching Computing
-MODULE: Workplace 2Nd Year Projects
-MODULE: Independent Case Study
-MODULE: Assessed Practice 2 (100 Day Practice Placement)
-MODULE: Applied Research Skills
-MODULE: Brand Management
-MODULE: Launching The Manuscript
-MODULE: Human Physiology, Training And Performance
-MODULE: Repertory 1
+MODULE: Learning, Teaching & Caring In Adventure Education
+MODULE: Research Proposal And Literature Review
+MODULE: Research Methods 1
+MODULE: Online Event Production
+MODULE: Mark-Up Languages & Scripting
+MODULE: Therapeutic Play
+MODULE: Research Project
+MODULE: Nutrition For Sport Exercise And Injury
 MODULE: Managing Change
+MODULE: Health And Wellbeing
+MODULE: Developing Academic And Professional Skills
+MODULE: Introduction To Early Years
+MODULE: Play, Creativity and Expressive Arts Holding page
+MODULE: Dissertation
+MODULE: Studio Practice 2 (Double)
+MODULE: Practical Theology Project
+MODULE: Work Placement: Applied History Or Politics In The Workplace
+MODULE: Entrepreneurship
+MODULE: Design Technology
+MODULE: Criminal Law II
+MODULE: Business Finance
+MODULE: Children's Rights Holding page
+MODULE: Communication In Tourism And Hospitality Organisations
+MODULE: Marketing Communications
+MODULE: Sampling Technology
+MODULE: Exploring English Specialism - Talk For Learning
+MODULE: Exploring The Nature Of Stem
+MODULE: Teaching Experience (Presentation Skills)
+MODULE: Foundation Knowledge And Skills
+MODULE: Exhibition B
+MODULE: Safeguarding
+MODULE: Planning, Programming & Application
+MODULE: Organisation Development Techniques And Change Management
+MODULE: Independent Study
+MODULE: Final Creative Project
+MODULE: Choreography Project
+MODULE: Workshop 4
+MODULE: Outdoor Learning
+MODULE: Personal Development For Leading Transformation
+MODULE: Music Sociology
+MODULE: Mediasport 2.0 And Beyond
+MODULE: Basically Beethoven
+MODULE: Introduction To Business
+MODULE: Inspiring Curriculum
+MODULE: Starting Core Curriculum Science
+MODULE: Reflection: Developing Your Teaching And Coaching
+MODULE: Interdisciplinary Arts Project
+MODULE: Leadership: Theory And Practice
+MODULE: Engineering Laboratory 1
+MODULE: ~Music and Musical Theatre
+MODULE: Orchestration In Practice
+MODULE: Independent Study In Research Methods
+MODULE: Applied Arts
+MODULE: Research Project
+MODULE: Human Resource Management
+MODULE: Tort Law I
+MODULE: Reading Popular Music
+MODULE: Advanced Research In Sport And Exercise
+MODULE: Professional Skills And Practice In Sport And Exercise Nutrition
+MODULE: Children, Young People, Education And Society
+MODULE: Children'S Rights
+MODULE: Questioning Sport, Exercise And Health
+MODULE: ESTA PG Cert Teaching
+MODULE: Launching The Manuscript
+MODULE: Introduction To Legal And Policy Frameworks
+MODULE: Africa And The African Diaspora In The Modern World
+MODULE: Agents Of Change: Women'S Writing In The Twentieth And Twenty-First Centuries
+MODULE: Developing Professional Practice
+MODULE: Understanding Self And Our Wider Impact: The Strategic View
+MODULE: Professional Practice
+MODULE: Advanced Applied Research Skills For Sport
+MODULE: Design Team Cdio
+MODULE: Digital Showcase
+MODULE: Leadership: Theory And Practice
+MODULE: Interpersonal Skills For Healthcare Professionals
+MODULE: Economics
+MODULE: Introduction To Management
+MODULE: Developing And Enhancing Academic Skills
+MODULE: Teaching Modern Foreign Languages 1 and 2 (PGCSML01/02)
+MODULE: Professional Development In Organisations
+MODULE: Accounting & Finance For Decision Makers
+MODULE: Ensemble
+MODULE: Special Educational Needs and Disability Holding page
+MODULE: Corporate Social Responsibility
+MODULE: The Writer'S Notebook
+MODULE: Psychology Of Learning And Teaching
+MODULE: Enterprise Infrastructure Design And Architectures
+MODULE: Dissertation
+MODULE: Core Curriculum Mathematics Module 1 - The Teaching And Learning Of Number
+MODULE: Corporate Grants And Sponsorship
+MODULE: Risk & Risk Management
+MODULE: Work Placement
+MODULE: Assessed Practice 1 (70 Day Practice Placement)
+MODULE: The Wider Curriculum
+MODULE: Coaching Practice
+MODULE: Management Project
 ------------------------------------------------------
 STUDENT: Morie Horsburgh
 STUDENT: Rickie Bosche
@@ -715,111 +715,111 @@ STAFF: Madelin Bulleyn
 ------------------------------------------------------
 Creative
 ------------------------------------------------------
-COURSE: BA (Hons) Theatre (Performance and Production)
-COURSE: BA (Hons) Music with Musical Theatre
-COURSE: School Direct - Portsmouth TSA - Dance
-COURSE: BA (Hons) Jazz and Cabaret Performance
-COURSE: School Direct - TESLA, Bohunt -  Primary
-COURSE: School Direct - TESLA, Bohunt  -  Primary
-COURSE: BA (Hons) Accounting and Finance
-COURSE: School Direct - Millais School   - Mathematics
+COURSE: School Direct - Blue Flag - English
+COURSE: School Direct - Bishop Luffa / Regis - History
+COURSE: School Direct - TESLA  - Modern Languages
+COURSE: BA (Hons) Marketing and Human Resource Management
+COURSE: BSc (Hons) Dance Science
+COURSE: BMus (Hons) Vocal Teaching
+COURSE: PGCE Secondary - Dance
+COURSE: School Direct - Bohunt School - Physics
 ------------------------------------------------------
-MODULE: Developing People And Teams: Strategic Perspective
-MODULE: Special Educational Needs And Disability
-MODULE: Becoming A Teacher Of Mathematics
-MODULE: Website Development
-MODULE: Learning To Play Brass Instruments
-MODULE: Strategic Manegement
-MODULE: Health And Wellbeing Of Young Children
-MODULE: Languages
-MODULE: Developing Geometric Thinking
-MODULE: The Enquiring Practitioner
-MODULE: Everyday Experience Psychological Methods: Understanding Relationships
-MODULE: Physiology Of Exercise & Health
-MODULE: School Direct Secondary
-MODULE: Africa And The African Diaspora In The Modern World
-MODULE: Popular Dance: Street, Stage And Screen
-MODULE: Adaptive Music 2
-MODULE: Skills One: Counselling Skills
-MODULE: Foundations Of Game Music & Audio
-MODULE: Writing About Music
-MODULE: Make It New: Modernist Experimentation From T.S. Eliot To Graham Greene
-MODULE: Romanticism
-MODULE: Inter-Professional Working In Health And Social Care
-MODULE: Core Curriculum Mathematics Module 1 - The Teaching And Learning Of Number
-MODULE: Studio Practice 2 (Double)
-MODULE: Study Skills
-MODULE: World Literature: Roots And Routes From Conrad To Afrofuturism
-MODULE: Corporate Social Responsibility
-MODULE: Postgraduate Certificate In Professional Practice: National Award For Special Education Needs Coordination
-MODULE: Music And The Community 2: Outreach
-MODULE: Community Engagement In Sport
-MODULE: Community And Events Fundraising
-MODULE: Writing To A Brief
-MODULE: Green Screen & Compositing
-MODULE: Methods Of Intervention And Assessment
-MODULE: Personal And Professional Skills For Management
-MODULE: Pan-Africanism
-MODULE: Marketing Management
-MODULE: Operations Management
-MODULE: Prose Fiction: The Dynamic Of Change
-MODULE: Rock & Pop In Context
-MODULE: Strategic Human Resource Management
-MODULE: The Ethics Of Reading: Literature In The Twentieth Century
-MODULE: Work Placement
-MODULE: Introduction To Writing Poetry
-MODULE: The Bible In Western Culture
-MODULE: Leadership: Theory And Practice
-MODULE: Independent Project
+MODULE: Writing The Feature Film
+MODULE: Specialist Craft Skills (Screen Acting)
+MODULE: Masterclass
+MODULE: Assignment 2: Early Years Pedagogy: From Theory To Practice
 MODULE: Developing Learning In Mathematics And Literacy
-MODULE: Club Music
-MODULE: Special Educational Needs And Disability
-MODULE: Learning To Play String Instruments
-MODULE: Operations Management
-MODULE: Communicating Music Through Movement & Gesture
-MODULE: Fascism And Post-Fascism In Europe
-MODULE: Management Information & Technology For Insurance
-MODULE: Working With Motion Capture and Motion Capture Suit Technologies
-MODULE: Global Economics
-MODULE: Strategic Management
-MODULE: Finance For Managers
-MODULE: Interactive Audio 1
-MODULE: Service Delivery Sandpit
-MODULE: Developing Professional Leadership
-MODULE: Creative Practice
-MODULE: Group Teaching
-MODULE: Introduction To Business Law
-MODULE: Contemporary Musical Theatre
-MODULE: Physical Activity And Special Populations
-MODULE: Working In Partnership To Promote Achievement And Wellbeing
-MODULE: Introduction To Sport And Society
-MODULE: Screen Acting Performance Projects
-MODULE: Criminal Law II
-MODULE: Introduction To Insurance, Principles & Law
-MODULE: New Business English Upper Intermediate 1 - B1
-MODULE: Advanced Professional Practice
-MODULE: Research Methods: Experimental Designs & Analysis
-MODULE: Choreography Project
-MODULE: Leading and Managing Professional Practice
-MODULE: The Wider Curriculum
-MODULE: Movement Studies: Analysis And Awareness
-MODULE: Dance Techniques 2
-MODULE: Psychology And The Case For Support
-MODULE: Advanced Animation Skills Development
-MODULE: Active Schools
-MODULE: Charity Project
-MODULE: Electrical Principles
-MODULE: Starting Core Curriculum Science
-MODULE: Academic English 1
+MODULE: Devising Music Theatre
+MODULE: School Placement (Secondary)
+MODULE: Foundations Of Story
+MODULE: Health And Wellbeing
+MODULE: Christian Spirituality
+MODULE: Pre-Visualisation
 MODULE: Dissertation
-MODULE: Heat Transfer And Fluid Mechanics Ii
-MODULE: Developing And Enhancing Academic Skills
-MODULE: Researching Early Years
-MODULE: French Cultural History: From A Literary To A Visual Cultural History, 1600 To The Present Day
-MODULE: Mathematical Foundations
-MODULE: Methods Of Assessment, Intervention, Risk And Safeguarding
-MODULE: Themes, Trends And Discourse In Performance
-MODULE: Entrepreneurial Design
+MODULE: Outdoor Environments 2 (Asking And Answering Environmental Questions)
+MODULE: Adventure Education Holding page
+MODULE: Core Curriculum English 2
+MODULE: Repertoire Exercise
+MODULE: Advanced Game Music 1
+MODULE: Repertory 2
+MODULE: Critical Writing: An Introduction
+MODULE: Performance Techniques 2
+MODULE: Composition: Telling Stories
+MODULE: Research Methodology
+MODULE: Commercial Project
+MODULE: Positive Approaches To Risk And Intervention
+MODULE: Postmodern Practices
+MODULE: Digital Design Graphics & Motion Graphics
+MODULE: Developing People And Teams: Operational Perspective
+MODULE: Final Major Project
+MODULE: Understanding The Theraputic Process And Working With Diversity
+MODULE: Essential Sports Therapy
+MODULE: Leadership & Mangemant Theory
+MODULE: Field And Location Recording
+MODULE: Advanced Professional Practice
+MODULE: Directing Actors 2 - Multicamera
+MODULE: Language And Mind
+MODULE: New Business English Advanced 1 - C1
+MODULE: Assignment 1 - Secondary
+MODULE: Social Work Law And Social Policy
+MODULE: Modern And Contemporary British History
+MODULE: Writing For Strings & Woodwind
+MODULE: Performance Development (Instrument Or Voice)
+MODULE: Social Justice And Injustice
+MODULE: Advanced Coaching Practice (Placement)
+MODULE: Work Placement
+MODULE: Repertory
+MODULE: Stage Management
+MODULE: English For Academic Purposes
+MODULE: Understanding Children's Behaviour Holding page
+MODULE: Coaching At The Interface Of Sport Development
+MODULE: Progression And Differentiation In Mathematics Teaching
+MODULE: Technical Specialism
+MODULE: Becoming A Teacher Of Mathematics
+MODULE: The Outdoor Experience: Emotions And Wellbeing
+MODULE: Individual Differences Psychology
+MODULE: Training Strategies For Sport Performance
+MODULE: Postgraduate Certificate In Professional Practice: National Award For Special Education Needs Coordination
+MODULE: Advanced Applied Research Skills In Psychology 1
+MODULE: First Study
+MODULE: Poetry:1300 To The Present
+MODULE: Organisation Theory
+MODULE: Management And Business Project
+MODULE: Data Analysis And Business Modelling
+MODULE: Acting, Vocal & Dance Development 2
+MODULE: Academic English 1
+MODULE: Advanced Injury Management And Rehabilitation
+MODULE: Creative Teaching In The Wider Curriculum
+MODULE: The Wider Curriculum
+MODULE: Sustainable Destination Management
+MODULE: Digital Marketing
+MODULE: Second Study
+MODULE: Recital
+MODULE: Business And Management Research
+MODULE: Writing To A Brief 1
+MODULE: Digital Image Fundamentals And Workflows
+MODULE: Content Marketing
+MODULE: Specialised Music Performance Skills
+MODULE: Interdisciplinary Design Group Project Cdio
+MODULE: Marketing And Sport
+MODULE: Creative Teaching In The Wider Curriculum
+MODULE: Management Issues In Adventure Education And Outdoor Learning
+MODULE: Physical Education Subject Study 2
+MODULE: Studio Development And Evaluation
+MODULE: Communication Engineering
+MODULE: Physiology Of The Exercising Human For Sports Engineering
+MODULE: Practice Education Stage 2
+MODULE: Creative Writing Non-Fiction: Writing Place
+MODULE: Teaching Strategies For Brass Teachers: Working With Children And Young People
+MODULE: Advanced Independent Reading Seminar
+MODULE: Engineering Tools And Techniques
+MODULE: Special Educational Needs And Disability
+MODULE: Spotlight Skills 2
+MODULE: Humanistic Frameworks
+MODULE: Foundations In Psychology 2: Thinking And Developing
+MODULE: Ergonomics In Sport & Exercise
+MODULE: Dissertation: Part 2
+MODULE: Personal Study (Music)
 ------------------------------------------------------
 STUDENT: Fredrick MacCarrick
 STUDENT: Damon Ferriby
@@ -903,111 +903,111 @@ STAFF: Emera Ioselevich
 ------------------------------------------------------
 Engineering Computing and Design
 ------------------------------------------------------
-COURSE: PGCE Secondary - English
-COURSE: School Direct - Portsmouth TSA - Music
-COURSE: School Direct - STAGE TSA -  Primary
-COURSE: School Direct - SCLP - Mathematics (Salaried)
-COURSE: BSc (Hons) Dance Science
-COURSE: BA (Hons) Creative Writing and English
-COURSE: School Direct - TESLA  - Geography
-COURSE: BA (Hons) Creative Writing and Philosophy & Ethics
+COURSE: School Direct - Bitterne Park - English (Salaried)
+COURSE: BA (Hons) Sociology
+COURSE: BA (Hons) Human Resource Management
+COURSE: BA (Hons) Education and Mathematics
+COURSE: BA (Hons) Primary Teaching with Early Years (QTS)
+COURSE: BSc (Hons) Sport and Exercise Psychology
+COURSE: BA (Hons) Early Childhood Studies with IFY
+COURSE: School Direct - Bitterne Park - English with Drama
 ------------------------------------------------------
-MODULE: Dissertation
-MODULE: Practice Based Education 1
-MODULE: Research Methods And Dissertation
-MODULE: Working with Babies Holding page
-MODULE: Professional Studies
-MODULE: Entrepreneurial Mindset
-MODULE: Managing People
-MODULE: Leadership In Health And Social Care
-MODULE: Assessment And Observation
-MODULE: Website Development
-MODULE: Physical Education
-MODULE: Work Placement
-MODULE: Swing Project
-MODULE: Developing Real Systems For Customers
-MODULE: Physical Education Subject Study 2
+MODULE: Health And Well-Being Clinic
+MODULE: Artist As Producer
+MODULE: Advanced Mathematical Methods
+MODULE: Personal Development For Leading Transformation
+MODULE: Sustainable Business And Destination Marketing
+MODULE: Scoring For Full Orchestra
+MODULE: Movement Studies: Analysis And Awareness
 MODULE: Special Educational Needs And Disability
-MODULE: Writing Tv Drama
-MODULE: Environmental Design
-MODULE: Professional Practice B
-MODULE: Acquired Skilled Performance
-MODULE: Strategic Management
-MODULE: Marketing Principles And Practice
-MODULE: Advanced Coaching Practice (Placement)
-MODULE: Dissertation Or Individual Practice
-MODULE: Leading And Managing Professional Practice
+MODULE: Dissertation - Politics
 MODULE: Core Curriculum English 1
-MODULE: Researching Early Years
-MODULE: The Audio Actor
-MODULE: Ensemble
-MODULE: Understanding Coach Learning And Development In Football
-MODULE: 2D Game Development
-MODULE: Skills 2 - Technical And Operations
-MODULE: Strategy & Strategic Dilemmas
-MODULE: The Movie Musical
-MODULE: 3D Audio Environments
-MODULE: Learning Outdoors
-MODULE: Professional Studio Practice
-MODULE: Using Numeracy And Ict Skills In Research
-MODULE: Adventure Education Experience
-MODULE: Independent Study In Research Methods
-MODULE: Modern Music In Context
-MODULE: Costume Drama
-MODULE: Dissertation
-MODULE: Creative Musical Development
-MODULE: Research Methods For Outdoor And Adventure Education
-MODULE: Theatre, Politics And Activism
-MODULE: Independent Study In Nutrition For Sports Therapy
-MODULE: Composing Dances
-MODULE: Final Major Project: Production
-MODULE: Foundation Knowledge And Skills
-MODULE: Arts In Education And Society
-MODULE: Masterclass
-MODULE: Christian Spirituality
-MODULE: Using Numeracy And Ict Skills In Research
-MODULE: Independent Study
-MODULE: Linked Tutorial Programme
-MODULE: Enterprise Infrastructure Design And Architectures
-MODULE: Research Methods And Research Proposal
-MODULE: Mechanical Failure Analysis
-MODULE: Perspectives On Psychology
-MODULE: Communication Engineering
-MODULE: Leading And Developing Teams
-MODULE: Introductory Electronics For Sports Engineering
-MODULE: Practical Dramaturgy - Modernism To Now
-MODULE: Ideologies, Politics And Culture
-MODULE: Personal Development Planning
-MODULE: World Theatre: Historical Influences
-MODULE: Workplace 2Nd Year Projects
-MODULE: Uk Healthcare Policy
-MODULE: Personal Study
-MODULE: Roz test TII January 2020
-MODULE: Work Placement
-MODULE: First Study
-MODULE: Customer Information Management And Business Intelligence
-MODULE: Performance Development
-MODULE: Safeguarding And Intergrated Working In The Early Years
-MODULE: Choreographic Practices
-MODULE: Mobile Communications
-MODULE: Observing, Understanding And Interpreting Complexity
-MODULE: Special Educational Needs And Disability
-MODULE: Research Methods 1
+MODULE: Cabaret Skills
 MODULE: Teaching Effective Technique For Playing String Instruments
-MODULE: Working With Substance Misuse
-MODULE: Digital Culture
+MODULE: Speech, Language And Communication
+MODULE: Assessed Practice 2 (100 Day Practice Placement)
+MODULE: Introduction To Early Years
+MODULE: Philosophy And The Future
+MODULE: Body In Site
+MODULE: Professional Studies
+MODULE: Research Methods & Dissertation
+MODULE: Ethics And Professional Dilemmas
+MODULE: Creative Writing: Poetry, Form And Freedom
+MODULE: The Professional Engineer
+MODULE: Corporate Finance
+MODULE: Knowledge And Understanding Of Individual Activites (Aesthetics)
+MODULE: Business Finance
+MODULE: Professional Resilience
+MODULE: Electronics For Product Design
+MODULE: Theatre Project 3: Text And Deconstruction
 MODULE: Research Project
-MODULE: Consultancy Project Preparation - The Proposal
-MODULE: Adventure Education Experience
-MODULE: Data Science & Analytics (Sql & No Sql)
-MODULE: Comparative And International Issues In The Sociology Of Sport And Physical Education
-MODULE: Professional Practice In Coaching (Placement)
-MODULE: Children And Young People'S Theatre
-MODULE: Reflective Practitioner: Babies, Toddlers And Pre-School
-MODULE: Leading And Managing Professional Practice
-MODULE: Animation & Vfx For Games
-MODULE: Developmental Psychology
+MODULE: Understanding Children'S Behaviour
+MODULE: Advanced Heat Transfer
+MODULE: Understanding Self And Our Wider Impact: The Strategic View
+MODULE: School Direct Secondary
+MODULE: Dissertation - Media
+MODULE: Stress, Coping And Emotions
+MODULE: Cdio Group Projects
+MODULE: Music Subject Study 2
+MODULE: Independent Exhibition Or Project (Dissertation)
+MODULE: Law In Social Work
+MODULE: Marketing Principles And Practice
+MODULE: First Study
 MODULE: Wider Curriculum
+MODULE: Writing The Novel
+MODULE: Commerce And Consumption In Early Modern England: C. 1600-1750
+MODULE: Study Skills
+MODULE: Developing Professional And Academic Skills
+MODULE: Understanding And Applying Research
+MODULE: Reflection, Analysis And Decision Making With Adults And Children
+MODULE: Europe And The Mediterranean World: Society, Identity And Encounters: 1450-1700
+MODULE: Body In Site
+MODULE: Independent Study: Mental Health Awareness In Schools
+MODULE: Workshop Project: Practice As Research
+MODULE: Business Law
+MODULE: Contemporary Issues In Hrm
+MODULE: Advanced Sports Trauma And Injury Management
+MODULE: Organisation Theory
+MODULE: Exhibition Management
+MODULE: Project Management
+MODULE: Dance, Acting And Singing Development
+MODULE: Fundamentals Of Animation
+MODULE: Introduction To Statistical Theory
+MODULE: Specialist Humanistic Therapy: Brief Therapy
+MODULE: Dementia
+MODULE: Understanding Children'S Behaviour
+MODULE: The Inclusive Classroom: Good Progress For All Children
+MODULE: Research Methods: Survey And Qualitative Designs And Analysis
+MODULE: Supervised Experience Portfolio
+MODULE: Leadership And Management Development
+MODULE: Visual And Technical Arts
+MODULE: Computerised Analysis & Data Visualisation
+MODULE: Disability Studies in Education
+MODULE: Introduction To Childhood
+MODULE: Music Editing
+MODULE: Creative Musical Development
+MODULE: Costume Drama
+MODULE: English Subject Study 2
+MODULE: Coaching Alternative Sports
+MODULE: Independent Project
+MODULE: Independent Reading Seminar
+MODULE: Keyboard Skills
+MODULE: Play, Creativity And Expressive Arts
+MODULE: Performance Project
+MODULE: Scoring Drama
+MODULE: Research In Education
+MODULE: Research Skills In Sport
+MODULE: Child Development In The Early Years
+MODULE: Psychology And Mental Health
+MODULE: Object-Oriented Programming (Java)
+MODULE: Engineering Laboratory
+MODULE: Children'S Health & Well-Being
+MODULE: Expeditioning And Journeying In The Outdoors
+MODULE: Advanced Coaching Psychology
+MODULE: Developing People And Teams: Strategic Perspective
+MODULE: Applied Dance: Community, Production & Administration
+MODULE: New Business English Upper Intermediate 1 - B1
+MODULE: International Perspectives Of Childhood
 ------------------------------------------------------
 STUDENT: Ave Oliphand
 STUDENT: Pete Sandels
@@ -1086,111 +1086,111 @@ STAFF: Even Hamprecht
 ------------------------------------------------------
 Fine Art
 ------------------------------------------------------
-COURSE: School Direct - TESLA Bohunt -  Primary
-COURSE: BA (Hons) English Literature
-COURSE: BA (Hons) Social Work
-COURSE: School Direct - TESLA, Bohunt  -  Primary
-COURSE: BA (Hons) Music and Cabaret Performance
-COURSE: BA (Hons) Music with Workshop Leadership
-COURSE: Masters in Social Work
-COURSE: BA (Hons) English Literature and History
+COURSE: MSci (Hons) Sport & Exercise Science
+COURSE: BA (Hons) IT Management for Business and Finance
+COURSE: BSc (Hons) Adult Nursing
+COURSE: BA (Hons) Creative Writing and Theology
+COURSE: BA (Hons) 3D Animation & Visual Effects
+COURSE: MSci (Hons) Advanced Applied Psychology
+COURSE: PGCE Secondary - History
+COURSE: BA (Hons) Politics and International Relations
 ------------------------------------------------------
-MODULE: Strategic Human Resource Management
-MODULE: Dissertation
-MODULE: Everyday Experience & Psychological Methods: Exploring Positive Psychology
-MODULE: Physical Activity, Obesity And Diabetes
-MODULE: Movement Studies: Analysis And Awareness
-MODULE: Cardio-Respiratory Physiotherapy
-MODULE: Football Development
-MODULE: Adventures In Education 2 (Developing Pedagogy)
-MODULE: Children'S Literature & The Media
-MODULE: Corporate Responsibility And Business Ethics
-MODULE: Autism Education: Advances In Teaching And Learning
-MODULE: Critical Issues In Managing It Service Support Services
-MODULE: Dde Unit 2 - Assisting, Observing And Teaching Practice
-MODULE: Business Economics
-MODULE: Introduction To Musical Theatre
-MODULE: Screen Acting 2
-MODULE: Professional Development In Organisations
-MODULE: Games: A Tactical Or Traditional Approach?
-MODULE: Assignment 1 - Secondary
-MODULE: Biomechanics In Sport And Exercise
-MODULE: Critical Issues In Managing The It Service Support Organisations
-MODULE: History Subject Study 2
-MODULE: Assessed Practice 1
-MODULE: Workshop 1
-MODULE: Style & Genre
-MODULE: Advanced Applied Psychology
-MODULE: Recital
-MODULE: Oo Programming
-MODULE: Foundations In Psychology 2: Thinking And Developing
-MODULE: Events Management
-MODULE: Work Based Assessment
-MODULE: Introduction To Management And Leadership
-MODULE: Learning Communities - Children Learning, Children Thinking
-MODULE: Child Development (0-8 Years)
-MODULE: Fundamentals Of Asset Creation
-MODULE: Professional Studies 5: Becoming A Professional
-MODULE: Techniques For Performance
-MODULE: Period Hairstyling And Wig Dressing
-MODULE: Introduction To Coaching Contexts In Sport
-MODULE: Game Audio Technology
-MODULE: Advanced Make-Up Practice For Media Industries
-MODULE: Writing And Defending A Thesis
-MODULE: Creativity
-MODULE: Postgraduate Certificate In Professional Practice: National Award For Special Education Needs Coordination
-MODULE: Developing As A Researcher In Sport And Exercise Psychology
-MODULE: Vocal Performance
-MODULE: Cognitive Psychology For Sports Performance
-MODULE: tel demo
-MODULE: Music For The Moving Image
-MODULE: Supporting Learning In Mathematics And Literacy
-MODULE: Applied Sport And Exercise Nutrition
-MODULE: Public Law II - Administrative Law
-MODULE: Business Finance
-MODULE: Introduction To Business
-MODULE: Muscles And Movement - Causes Of Motion
-MODULE: Scoring Drama
-MODULE: Customer Information Management And Business Intelligence
-MODULE: Human Resource Management
-MODULE: Muscles And Movement In Dance
-MODULE: Applied Coaching
-MODULE: Work Placement In Sport & Exercise Science
-MODULE: Professional Commission
-MODULE: Dissertation
-MODULE: Understanding Children'S Behaviour
 MODULE: The Wider Curriculum
-MODULE: Dissertation - History
-MODULE: Thatcherism And After
-MODULE: Choreographic Projects
-MODULE: Children's Rights Holding page
-MODULE: Power Electronic Converters
-MODULE: Research And The Industry
-MODULE: Introduction To Mega Sport Events
-MODULE: Linked Tutorial Programme
-MODULE: History In The Graphic Novel
-MODULE: Contract Law I
-MODULE: Disability In Health And Social Care
-MODULE: Planning, Programming & Application
-MODULE: Strategic Management
-MODULE: Environments 3: Interpreting The Environment To Others
-MODULE: Strategic Human Resource Management
-MODULE: Vfx Skills Development
-MODULE: Title And Credit Sequences
-MODULE: Advanced Injury Management And Rehabilitation
-MODULE: Directing Actors 1: Single Camera
-MODULE: Music Subject Study 2 (PGCSMU02)
-MODULE: Keyboard Skills
-MODULE: Wilderness
-MODULE: Leadership In Health And Social Care
-MODULE: Contemporary Issues In Outdoor And Adventure Education
-MODULE: Music Production
-MODULE: Advanced Sports Trauma And Injury Management
-MODULE: Learning, Teaching and Caring in Adventure Education
-MODULE: Introduction To Grantmakers
-MODULE: Writing For The Screen
-MODULE: Exploring Special Educational Needs Specialism - Engaging All Learners
-MODULE: Through The Lens
+MODULE: Management Accounting For Control
+MODULE: Phase 1
+MODULE: Advanced Game Music 1
+MODULE: Practice Education (Combined Stage 1 And 2)
+MODULE: Critical Thinking Skills
+MODULE: Musical Theatre Analysis
+MODULE: Cultural Identity And Performance
+MODULE: Learning, Teaching & Caring In Adventure Education
+MODULE: Inter-Professional Working
+MODULE: Understanding And Applying Research
+MODULE: Consultancy Project - Implementation
+MODULE: Acting, Vocal And Dance Development
+MODULE: Compositional Techniques: Styles And Genres
+MODULE: Enhancing Web User Experience
+MODULE: Physical Activity And Special Populations
+MODULE: Global Economics
+MODULE: Making It Strange: Writing The Science Fiction, Fantasy And Modern Gothic Novel
+MODULE: Dissertation
+MODULE: Research Proposal And Literature Review
+MODULE: Teaching Strategies For String Teachers: Working With Children And Young People
+MODULE: Development (Primary)
+MODULE: Leading And Developing Teams
+MODULE: Enterprise Infrastructure Design And Architectures
+MODULE: Advanced Cinematography
+MODULE: Sports Science; Physicality Of Gaming
+MODULE: Language Teaching Methodology - Online
+MODULE: Strategies For Enterprise Creation
+MODULE: New Media And Performance Practices
+MODULE: Safe Dance Practice
+MODULE: Charity Development Project
+MODULE: Physical Education
+MODULE: Foundation Knowledge And Skills
+MODULE: Linear Algebra
+MODULE: The International Tourism And Hospitality Market
+MODULE: Computer Aided Engineering
+MODULE: Business Finance
+MODULE: Fundamentals Of Website Development
+MODULE: Ensemble
+MODULE: Introduction To Legal And Policy Frameworks
+MODULE: Information, Communication & Cultural Development
+MODULE: Physical Education Subject Study 1
+MODULE: Clinical Placement
+MODULE: Data Analysis And Business Modelling
+MODULE: International Project Management
+MODULE: Evolution Of Management Theory And Practice
+MODULE: Analysis Of Human Performance And Pedagogical Skills In Adventure Education
+MODULE: Writing To A Brief 2
+MODULE: The Musical Theatre Business
+MODULE: Pe 4 - Professional Issues
+MODULE: Ensemble
+MODULE: Decadence And Desire: Late Nineteenth Century Literature
+MODULE: Specialist Humanistic Therapy: Person Centred Therapy
+MODULE: Group Teaching
+MODULE: Reflective Practice 1
+MODULE: Pre Top-Up
+MODULE: Safeguarding and Integrated Working in the Early Years Holding page
+MODULE: Business Of Esports
+MODULE: Adventure Education Experience
+MODULE: Critical And Cultural Theory 1: Theory-Lite
+MODULE: Professional Issues: Learning And Teaching Primary Pe
+MODULE: Working With Babies
+MODULE: Company Management
+MODULE: International Project Management
+MODULE: Business Information Systems
+MODULE: Project Management
+MODULE: Dissertation - English (30 Credit)
+MODULE: Misrepresentations, Myths And Stereotypes
+MODULE: Phase 2
+MODULE: Core Curriculum Science
+MODULE: Independent Project
+MODULE: Methods Of Intervention And Assessment
+MODULE: Health and Wellbeing of Children Holding page
+MODULE: Activating Research
+MODULE: Scoring Drama
+MODULE: Foundation In Sports Therapy Skills And Body Assessment
+MODULE: Personal Study
+MODULE: Assessment And Observation
+MODULE: Movement Studies: Analysis And Awareness
+MODULE: Health And Wellbeing Of Young Children
+MODULE: Introduction To Fundraising In The Arts
+MODULE: Songwriting
+MODULE: Environment And State In Britain Since 1945
+MODULE: Computer Skills Workshop
+MODULE: Muscles And Movement - Causes Of Motion
+MODULE: Marketing & Sales In Insurance
+MODULE: Branding & Positioning
+MODULE: Wider Curriculum - Making Change Happen
+MODULE: Discrete Mathematics
+MODULE: Group Dynamics In Sport
+MODULE: Workplace 2Nd Year Projects
+MODULE: Enhanced Trade Craft 2: Riding, Driving & Climbing
+MODULE: Calculus I
+MODULE: Orchestration In Practice
+MODULE: Recital
+MODULE: Human Development And Psychology Across The Lifespan
 ------------------------------------------------------
 STUDENT: Jacklyn Waulker
 STUDENT: Griffith Mottley
@@ -1259,110 +1259,110 @@ STAFF: Catharine Brookesbie
 Humanities
 ------------------------------------------------------
 COURSE: MSci Sports Therapy
-COURSE: School Direct - Bohunt - Petersfield   - MFL
-COURSE: School Direct - TESLA, Bohunt  - Chemistry
-COURSE: BA (Hons) Musical Theatre and Cabaret Performance
-COURSE: School Direct - Bishop Luffa - Chemistry
-COURSE: School Direct - Millais School   - Dance
-COURSE: BA (Hons) Primary Teaching with Early Years (QTS)
-COURSE: School Direct - Bishop Luffa - Chemistry
+COURSE: BA (Hons) Fine Art with Printmaking
+COURSE: BA (Hons) Creative Writing
+COURSE: School Direct - Blue Flag   - Physics
+COURSE: School Direct - Uni. CAT Partnership -  Maths
+COURSE: BA (Hons) Acting
+COURSE: BA (Hons) Business Management (Top Up)
+COURSE: PGCE Secondary - Science with Biology
 ------------------------------------------------------
-MODULE: Play, Creativity And Expressive Arts
-MODULE: Professional Studio Practice
-MODULE: Instrumentation
-MODULE: Studio Development And Evaluation
-MODULE: Write From The Start: Exploring Writing And The Teaching Of Writing In The Primary Curriculum
-MODULE: Pe 2 - Inclusion
-MODULE: Mathematics For Computer Science
-MODULE: Principles Into Practice
-MODULE: School Experience B (School Experience 3)
-MODULE: Screenwriting Structure
-MODULE: Business Information Systems
-MODULE: Recital
-MODULE: Disability Studies in Education
-MODULE: Scoring Drama
-MODULE: Critical Insights Into Contemporary Sport
-MODULE: Ethics And Professional Dilemmas
-MODULE: Wider Curriculum - Making Change Happen
-MODULE: Progression And Differentiation In Mathematics Teaching
-MODULE: Economics For Business
-MODULE: Visual & Contextual Research And Development
-MODULE: Revisioning Religion, Gender And Sexuality
-MODULE: Economics
-MODULE: Professional Studies: Learners And Learning
-MODULE: Soft Tissue Massage And Manipulation Techniques
-MODULE: Developing & Enhancing Academic Skills
-MODULE: Mobile Communications
-MODULE: First Study
-MODULE: Professional Studies
-MODULE: An Introduction To Digital Marketing
-MODULE: Personal Development For Leading Transformation
-MODULE: Louis XIV's France: 1643-1715
-MODULE: Exploring Special Educational Needs Specialism - Principles Into Practice
-MODULE: Strategies For Enterprise Creation
-MODULE: Engineering Tools & Techniques (Ee)
-MODULE: Positive Approaches To Risk And Intervention
-MODULE: Professional Skills
-MODULE: Theatre Project 3: Text And Deconstruction
-MODULE: Teaching Strategies For Piano Teachers: Working With Children And Young People
-MODULE: Medieval Heresies 1100-1500: From The Cathars To Erasmus
-MODULE: Personal Development Planning
-MODULE: Personal Study (Music)
-MODULE: Public Law I - Constitutional Law
-MODULE: Tourism And Hospitality Research
-MODULE: School Experience A (School Experience 1)
-MODULE: Advanced Game Audio 1
-MODULE: Marketing And Advertising
-MODULE: Specialist Craft Skills (Screen Acting)
-MODULE: Recording Principles
-MODULE: Advanced Heat Transfer
-MODULE: Final Project
-MODULE: Consultancy Report
+MODULE: Advanced Applied Research Skills
+MODULE: Game Audio Technology
+MODULE: Musical Theatre In The Community
+MODULE: Organisational Impact: A Wider Strategic Perspective
+MODULE: Optimisation
+MODULE: Researching Early Years
 MODULE: Second Study
-MODULE: Customer Insight
-MODULE: Researching Early Years
-MODULE: Directing A Script
-MODULE: Physiotherapy In Health And Society
-MODULE: Technical Induction
-MODULE: Adventure Education Experience
-MODULE: Consuming Fitness And Lifestyle
-MODULE: Linked Tutorial Programme (Year 2)
-MODULE: Researching with Early Years Holding page
-MODULE: Instrumental Development
-MODULE: Studio And Recording Techniques 2
-MODULE: Independent Study
-MODULE: Women And Gender: 1000-1600
-MODULE: Musical Event
-MODULE: The Bible And Public Theology
-MODULE: Researching Early Years
-MODULE: Performing Politics
-MODULE: Specialised Music Performance Skills
-MODULE: Dissertation The Research Project: Evaluation And Dissemination (Part 2)
-MODULE: Psychology Project Management And Presentation Skills
-MODULE: Working With Babies
-MODULE: Charity Development Project
-MODULE: Applied Research Skills
-MODULE: Independent Study: Preparing For The Dissertation
-MODULE: Music Subject Study 1
+MODULE: Songwriting Techniques
+MODULE: Quantitative Methods For Business
+MODULE: Performance Analysis Through Track And Field And Swimming
+MODULE: Skills For Practice 2
+MODULE: The Dancer'S Body
+MODULE: Professional Effectiveness In Groups And Organisational Contexts
+MODULE: Project Planning And Management For Public Health
+MODULE: Postgraduate Certificate In Professional Practice: National Award For Special Education Needs Coordination
+MODULE: Major Donor Fundraising
+MODULE: Workplace 2Nd Year Projects
+MODULE: Management And Organisations
+MODULE: Community Engagement In Sport
+MODULE: Business Communication
+MODULE: Advocacy And Social Justice
+MODULE: Final Major Project: Production
+MODULE: Spanish Beginner: A.1
+MODULE: Criminology & Childhood
+MODULE: Assignment 3 - Secondary
+MODULE: Screen Acting Skills 3
+MODULE: Muscles And Movement - Anatomy In Motion
+MODULE: Reflective Practice
+MODULE: Branding & Positioning
 MODULE: Philosophy And Aesthetics
-MODULE: English For International Business Communication
-MODULE: Entrepreneurship And Intrepreneurship
-MODULE: Language And Mind
-MODULE: Computer Forensics
-MODULE: Dissertation
-MODULE: Experiments In Fiction: Magic, Detection, Sci Fi And Beyond
-MODULE: Emotional Aspects Of Learning
-MODULE: Introduction To Applied Exercise Physiology
-MODULE: Social Media Marketing
-MODULE: Consultancy Report
-MODULE: Languages - German
-MODULE: Assessed Practice 1 (70 Day Practice Placement)
-MODULE: Principles And Practice Of Teaching Young Learners - Online
-MODULE: Physiology Of The Exercising Human For Sports Engineering
-MODULE: Sound Design, Adr And Foley
-MODULE: Business Finance
-MODULE: Computer Skills Workshop
-MODULE: Pre-Visualisation
+MODULE: Personal And Professional Skills For Management
+MODULE: Adventures In Education 3 (Advanced Pedagogical Skills)
+MODULE: Faith And Reason
+MODULE: Teaching Modern Foreign Languages 1
+MODULE: Music And The Community 2: Outreach
+MODULE: Independent Project
+MODULE: Music Editing
+MODULE: Motivating Athletes
+MODULE: Motion Capture Suit Technologies
+MODULE: Education In Multi-Ethnic Britain
+MODULE: Citizen And Change Maker (30.00 Credits)
+MODULE: Perspectives On Psychology
+MODULE: Introduction To Management And Leadership
+MODULE: Teaching Effective Technique For Playing Guitar/Harp (Plucked String) Instruments
+MODULE: Manufacturing Techniques And Materials
+MODULE: Engaging All Learners
+MODULE: Writing To A Brief 1
+MODULE: Clown, Comedy & Mask
+MODULE: Applied Performance Planning
+MODULE: The Aftermath Of War: Society, Politics Commemoration And Heritage
+MODULE: Website Development
+MODULE: Philosophy And Aesthetics
+MODULE: Entrepreneurship
+MODULE: Core Curriculum Mathematics Module 1 - The Teaching And Learning Of Number
+MODULE: Composing Dances
+MODULE: Teaching Computing
+MODULE: Contemporary Short Fiction: Writing The Here And Now
+MODULE: Project Management
+MODULE: Media Industries
+MODULE: Digital Film Operations
+MODULE: Economics For Business
+MODULE: Working With Babies
+MODULE: English Subject Study 1
+MODULE: Professional Placement
+MODULE: Specialist Humanistic Therapy: Expressive Arts Therapies
+MODULE: Creative Non-Fiction: Writing Lives
+MODULE: Psychology In Context: Cultural Psychology
+MODULE: Acting Skills 2: Voice, Text And Body
+MODULE: Web Design And Programming
+MODULE: Education, Philosophy And Thinking - Historical Perspectives
+MODULE: Research Methods 3 (Dissertation)
+MODULE: Short Drama
+MODULE: Developing Learner Autonomy
+MODULE: One To One Teaching
+MODULE: Electromechanical Systems And Control
+MODULE: Play, Creativity And Expressive Arts
+MODULE: Club Music
+MODULE: The Factual Actor: Tv Presenting, Advertising And Scripted Reality
+MODULE: Advanced Vfx Skills Development
+MODULE: Everyday Experience & Psychological Methods: Exploring Positive Psychology
+MODULE: Linked Tutorial Programme
+MODULE: Session Preparation
+MODULE: Data Exploration & Analysis
+MODULE: Resilience And The Freelancer
+MODULE: Behaviour For Learning
+MODULE: Subverting The Subject: Ideas In Literature From Barthes To Butler
+MODULE: Digital Showcase
+MODULE: Independent Project
+MODULE: International Perspectives Of Childhood
+MODULE: Work Experience
+MODULE: Tort Law II
+MODULE: Fundamentals Of Human Movement
+MODULE: Research And The Industry
+MODULE: Sports Media Production Two: Outdoor Sport
+MODULE: Forest School: Principles And Practices
+MODULE: Festival Production (90 Credit)
 ------------------------------------------------------
 STUDENT: Gussy Daviddi
 STUDENT: Orlan Frow
@@ -1442,111 +1442,111 @@ STAFF: Violante Ceeley
 ------------------------------------------------------
 Law
 ------------------------------------------------------
-COURSE: School Direct - TESLA, Bohunt  - Chemistry
+COURSE: BA (Hons) Early Childhood Studies
+COURSE: School Direct - TESLA, Bohunt -  Primary
+COURSE: BSc (Hons) Mathematics
 COURSE: School Direct - Bishop Luffa - Modern Languages
-COURSE: BEng (Hons) Mechanical Engineering (with IFY)
-COURSE: BA (Hons) Audio Production and Music Technologies
-COURSE: BSc (Hons) Educational Psychology
-COURSE: BA (Hons) Event Management
-COURSE: BA (Hons) Music with Teaching
-COURSE: BA (Hons) Musical Theatre (Triple Threat)
+COURSE: School Direct - TESLA, Bohunt -  Primary
+COURSE: School Direct - STAGE TSA -  Primary
+COURSE: School Direct - TESLA  - P.E.
+COURSE: BSc (Hons) Sport and Exercise Science (Sailing)
 ------------------------------------------------------
-MODULE: Research Methods In Sport And Education Contexts
-MODULE: Acting For Character Animators
-MODULE: Workplace 2Nd Year Projects
-MODULE: User Centred Design
-MODULE: Developing Professional And Academic Skills
-MODULE: Child Development In The Early Years
-MODULE: Managing People
-MODULE: Electromechanical Systems And Control
-MODULE: Psychology Of Learning And Teaching
-MODULE: Spotlight Short Film (Personal Study)
-MODULE: Critique, Suspicion And Revolution
-MODULE: Drama Craft
-MODULE: Strategic Human Resource Management
-MODULE: Health And Wellbeing Of Young Children
-MODULE: Core Curriculum English 1
-MODULE: The Quest For Truth
-MODULE: The Wider Curriculum
-MODULE: Managing Financial Resources
-MODULE: Special Needs & Disability
-MODULE: Financial Risk Management
-MODULE: Vibration In Mechanical Systems
-MODULE: Methods Of Assessment, Intervention, Risk And Safeguarding
-MODULE: Professional Issues: The Role Of The Subject Leader
-MODULE: Writing To A Brief 1
-MODULE: Adaptive Music 1
-MODULE: Dissertation - History
-MODULE: Adaptive Music 1
-MODULE: Business Law
-MODULE: First Study
-MODULE: Managing Risk
-MODULE: Dissertation
-MODULE: War And Peace: Twentieth-Century Europe And Global Conflict
-MODULE: Business Law
-MODULE: Writing For The Screen
-MODULE: Leadership: Theory And Practice
-MODULE: Work Based Assessment
-MODULE: Client Issues
-MODULE: Computerised Analysis & Data Visualisation
-MODULE: Materials Development For Language Education Online
-MODULE: Sports Broadcasting: Series Development And Commisioning
-MODULE: Insurance Research Project/Portfolio
-MODULE: A Modern History Of Education In England: Post 1988 Developments
-MODULE: Number Theory
-MODULE: Independent Project
-MODULE: Business In Context
-MODULE: Contemporary Issues In Stem Subjects
-MODULE: Introduction To Early Years
-MODULE: Rehearsals, Casting & Auditions
-MODULE: Reflective Practice Placement 1
-MODULE: Final Major Project - Cdm
-MODULE: Business Information Systems
-MODULE: Research Methods And Dissertation
-MODULE: Conservatoire Written Dissertations
-MODULE: Communication In Tourism And Hospitality Organisations
+MODULE: Core Curriculum Science
+MODULE: Personal Skills Development
+MODULE: Specialist Craft Skills (Screen Acting)
+MODULE: Assignment 1: Early Years Pedagogy: From Theory To Practice
+MODULE: Contextual Studies 2
+MODULE: Understanding Self And Our Wider Impact: An Operational Perspective
+MODULE: Professional Studies
 MODULE: Operations Management
-MODULE: Critical And Cultural Theory 2: Modernism
-MODULE: Motion Capture And Motion Tracking Technologies
-MODULE: Work-Based Learning
-MODULE: Production Internship
-MODULE: Discrete Mathematics
-MODULE: School Direct Bitterne Park
+MODULE: Script To Screen
+MODULE: Creative Musical Development
+MODULE: Fundamentals For Sports Therapists
+MODULE: Health And Wellbeing Of Young Children
+MODULE: Mental Health
+MODULE: Mental Health And Forensic Psychology
+MODULE: Teaching Science Subject Study 2 (PGCSSC02)
+MODULE: Second Study
+MODULE: Research Methods For Health And Performance
+MODULE: Nature-Based Tourism
+MODULE: Evaluating Sport, Exercise And Health
+MODULE: Science With Biology / Chemistry / Physics Module 2
+MODULE: Personal Study - Screenwriting
+MODULE: Child Development In The Early Years
+MODULE: Developmental Project (Dissertation)
+MODULE: Dissertation
+MODULE: Sport Policy & Commercialisation
+MODULE: Dissertation
+MODULE: Linked Tutorial Programme
+MODULE: Skills Development 2; Strategy & Gameplay
+MODULE: Introduction To The Art Of Acting
+MODULE: Safeguarding And Intergrated Working In The Early Years
+MODULE: Creative Musical Development
+MODULE: Production And Stage Management
+MODULE: Performance Skills 4 (Post Dramatic Theatre)
+MODULE: Year Two Placement
+MODULE: Swing Project
+MODULE: Analysis Of Coaching Practice
+MODULE: Introduction To Jazz Theory
+MODULE: Performance Skills 4 (Classical Theatre)
+MODULE: Managing People
+MODULE: Research Proposal And Literature Review
+MODULE: Dissertation
+MODULE: Cognitive Psychology For Sports Performance
+MODULE: Study Skills Workshop
+MODULE: Visualisation Techniques & Methods
+MODULE: Leadership And Management In A Professional Setting
+MODULE: Independent Study In Sport And Exercise Sciences
+MODULE: Foundation Knowledge And Skills
+MODULE: Health Promotion, Lifestyle And Exercise
+MODULE: School Experience 4 - Developing As A Professional
+MODULE: Advanced Performance Psychology
+MODULE: Ensemble
+MODULE: Public Law II - Administrative Law
+MODULE: Final Project
+MODULE: Emotional Aspects Of Learning
+MODULE: Applied Finite Mathematics
 MODULE: Organisational Development Techniques
-MODULE: The Virtual Actor 2: Facial Motion Capture & Head Rigs
-MODULE: Consultancy Project Preparation - The Proposal
-MODULE: International Marketing
-MODULE: Training Strategies For Sport Performance
-MODULE: Organisation Formation, Regulation & Development
-MODULE: Specialist Knowledge In Practice 1
-MODULE: The Writer'S Notebook
-MODULE: The Wider Curriculum
-MODULE: Historical Context And Current Trends
-MODULE: Dissertation: Part 2
-MODULE: Organisation Theory
+MODULE: Independent Extended Education Essay
+MODULE: Social Psychology In Organisations
+MODULE: Advanced Applied Professional Skills In Psychology
+MODULE: The Modern Music Industry
+MODULE: Dissertation
+MODULE: Wider Curriculum
+MODULE: Psychology In Context: Work And Organisations
+MODULE: Research Methods For Health And Performance
+MODULE: Exploring Research: Informing And Changing Practice
+MODULE: Personal Development For Leading Transformation
+MODULE: Photography: History & Practice
+MODULE: Advanced Financial Accounting
+MODULE: Composing For The Moving Image
+MODULE: Health And Physical Activity In Contemporary Society
+MODULE: Acting Skills 3
 MODULE: Leading And Managing Professional Practice
-MODULE: Law In Social Work
-MODULE: Teaching Effective Technique For Playing Guitar/Harp (Plucked String) Instruments
-MODULE: Individual Differences Psychology
-MODULE: Advanced Cinematography
-MODULE: Safe Dance Practice
-MODULE: Understanding Adventure (Land Based Activities)
-MODULE: Purple Goldfish And The Art Of Service Experience
-MODULE: Dance Movement Psychotherapy 1
-MODULE: Specialist Knowledge In Practice 2
-MODULE: School Experience 1: Becoming A Teacher
-MODULE: Repertoire For Young Performer
-MODULE: Professional Hours Year 3 & 4
-MODULE: Chamber Music
-MODULE: Exhibition A
-MODULE: Evolution Of Management Theory And Practice
-MODULE: Learning From And Within The Community
-MODULE: Repertory 2
-MODULE: Children'S Rights
-MODULE: Foundations In Psychology 1: Being And Feeling
-MODULE: Postgraduate Certificate In Professional Practice: National Award For Special Education Needs Coordination
-MODULE: Writing For Brass, Harp & Percussion
-MODULE: Introduction To Fundraising In The Arts
+MODULE: Audio Capture & Design
+MODULE: Researching with Early Years Holding page
+MODULE: Ideas, Innovation And Intrapreneurship
+MODULE: Composition: Telling Stories
+MODULE: Improvisation & Performance
+MODULE: Human Resource Management
+MODULE: Developing People And Teams: Strategic Perspective
+MODULE: Global Branding
+MODULE: Environmental Exercise Physiology
+MODULE: Buyer Behaviour
+MODULE: Masterclass
+MODULE: Development (Secondary)
+MODULE: Mathematical Methods Iv
+MODULE: Independent Research Project
+MODULE: Acquired Skilled Performance
+MODULE: Teaching Dance Technique
+MODULE: Orchestral Study
+MODULE: Teaching Strategies For Piano Teachers: Working With Children And Young People
+MODULE: Independent Extended Education Essay
+MODULE: Festival Production (60 Credit)
+MODULE: Tourism Placement
+MODULE: Managing Risk
+MODULE: Safeguarding
+MODULE: The Research Dissertation
 ------------------------------------------------------
 STUDENT: Arlana Gollop
 STUDENT: Rex Gorch
@@ -1619,111 +1619,111 @@ STAFF: Rozamond Abendroth
 ------------------------------------------------------
 Nursing
 ------------------------------------------------------
-COURSE: School Direct - Millais Alliance   - Physics
-COURSE: BA (Hons) Education, Special Needs and Disability
-COURSE: School Direct - TESLA  - P.E.
-COURSE: School Direct - UCAT  - Physics
-COURSE: BA (Hons) Music with Jazz Studies
-COURSE: School Direct - Bohunt School - Mathematics
-COURSE: PGCE Secondary - Music
-COURSE: School Direct - Bishop Luffa - Biology
+COURSE: School Direct - The Bay CE Primary -  Primary
+COURSE: School Direct - Bohunt School  English (Salaried)
+COURSE: BMus (Hons) Orchestral Performance
+COURSE: BA (Hons) Education
+COURSE: BEng (Hons) Mechanical Engineering
+COURSE: School Direct - Bitterne Park - English
+COURSE: BSc (Hons) Politics
+COURSE: School Direct - Millais School   - P.E.
 ------------------------------------------------------
-MODULE: Core Curriculum English 2
-MODULE: Writing For Woodwind
-MODULE: Working With Babies
-MODULE: Final Major Project
-MODULE: Foundation Knowledge And Skills
-MODULE: Music Now
-MODULE: Research Proposal And Literature Review
-MODULE: Dde Unit 5 - Social, Emotional And Cognitive Development
-MODULE: Organisational Impact: A Wider Strategic Perspective
-MODULE: test101_S1_WOK_20
-MODULE: Europe And The Mediterranean World: Society, Identity And Encounters: 1450-1700
-MODULE: Organisational Impact: A Wider Strategic Perspective
-MODULE: School Experience 4 - Developing As A Professional
-MODULE: Digital Writing: Writing For The Community Of Strangers
-MODULE: Creative Writing Non-Fiction: Writing Place
-MODULE: Music Editing
-MODULE: Dissertation: Part 1
-MODULE: Behaviour For Learning
-MODULE: Session Preparation
-MODULE: Analysis Methods In Sport And Exercise Psychology
-MODULE: Teaching Physical Education 2 (PGCSPE02)
-MODULE: Management And Organisations
-MODULE: Recital
-MODULE: Preparing For Professional Practice
-MODULE: Contemporary Musical Theatre
-MODULE: Advanced Applied Research Skills
-MODULE: Approaches To Research
-MODULE: Developing Professional Leadership
-MODULE: Teaching Computing
-MODULE: Introduction To Sport, Health And Physical Activity
-MODULE: Workshop Project: Practice As Research
-MODULE: School Direct Primary
-MODULE: Personal And Professional Skills For Management
-MODULE: Work Based Project (Personal Study)
-MODULE: The Professional Engineer
-MODULE: Gender, Sexuality And Theatre
-MODULE: Vice To Virtue? The Origins And Outcomes Of The French Revolution: 1744-94
-MODULE: Assessed Practice 2
-MODULE: English Subject Study 2
-MODULE: Customer Insight
-MODULE: Chichester Institute Of Sport
-MODULE: Independent Project
-MODULE: New Media And Performance Practices
-MODULE: Human Development And Psychology Across The Lifespan
-MODULE: Dance Subject Study 1
-MODULE: Advanced Applied Research Skills In Psychology 2
-MODULE: Democracy, Empathy And Rights
-MODULE: Economics For Business
-MODULE: Research Project
-MODULE: Introduction To Programming - Procedural Language (Python)
-MODULE: Working In Partnership To Promote Achievement And Wellbeing
-MODULE: Consultancy Report
-MODULE: Chichester Institute Of Sport
-MODULE: Teaching Mathematics Subject Study 1 (PGCSMA01)
-MODULE: Body In Site
-MODULE: What Is The Good Life?
-MODULE: Songwriting Techniques
-MODULE: Business Research
-MODULE: Year 1 Foundation Curriculum - Good Foundations
-MODULE: Independent Project
-MODULE: Production 2 (Classical Theatre)
-MODULE: Introduction To Management Principles And Customer Care
-MODULE: Specialist Knowledge In Practice 1
-MODULE: Music Subject Study 2
-MODULE: Employment In The Music Industry
-MODULE: Specialist Knowledge In Practice 1
-MODULE: An Introduction To Digital Marketing
-MODULE: Applied Performance Analysis
-MODULE: Acting, Vocal & Dance Development 1
-MODULE: Professional Studies
-MODULE: Professional Practice
+MODULE: Music Subject Study 1 (PGCSMU01)
+MODULE: Rock & Pop In Context
 MODULE: Dissertation
-MODULE: Placement 0
-MODULE: Specialist Humanistic Therapy: Brief Therapy
-MODULE: Exploring Early Years Specialism - Child Development
-MODULE: Power Electronics And Electrical MacHines
-MODULE: Studio And Recording Techniques 1
-MODULE: Outdoor Learning
-MODULE: Keyboard Skills
-MODULE: Audio Post Production
-MODULE: Critical Perspectives On Education
-MODULE: Ensemble Development (Musical Theatre)
-MODULE: Supervised Experience Portfolio
+MODULE: Africa And The African Diaspora In The Modern World
+MODULE: Decision Making For Sailing Performance
+MODULE: Practical Sports First Aid Therapies
+MODULE: Dde Unit 4 - Dance Practice 1
+MODULE: Introduction To Sport And Exercise Psychology
+MODULE: Managing Risk
+MODULE: Dissertation - History
+MODULE: Musical Theatre Skills 3
+MODULE: Understanding Health And Social Care
+MODULE: Advances In Sports Injury Management Of The Lower Quadrant
+MODULE: Performance Development (Musical Theatre)
+MODULE: Independent Project
+MODULE: Children And Young People'S Theatre
+MODULE: Outdoor Learning; Woodland And Beach Education
+MODULE: Client Issues
+MODULE: Masterclass
+MODULE: Professional Hours Year 3 & 4
+MODULE: Sociology Of Work And Organisations
+MODULE: Social Justice And Equity In Education
+MODULE: Managing Risk
+MODULE: Environmental Design
+MODULE: Physiology Of Exercise & Health
+MODULE: Theatre Project: Cultural Identity
+MODULE: Dissertation - English (45 Credit)
+MODULE: Researching Sport - Quantitative Enquiry
+MODULE: Group Study
+MODULE: Aesthetic And Creative Movement - Gymnastics
 MODULE: Languages
-MODULE: The Professional Graduate
-MODULE: Advanced Sibelius
-MODULE: 21St Century Advanced Business Structures
+MODULE: Film Story
+MODULE: Core Curriculum English 1
+MODULE: Music For The Moving Image
+MODULE: Interprofessional Collaboration
+MODULE: Operations Management
+MODULE: Becoming A Teacher Of Science
+MODULE: Professional Practice
+MODULE: Principles Of Sports Injury Assessment
+MODULE: Project Management
+MODULE: Creative Thinking Workshop
 MODULE: Production Design
-MODULE: Principles Of Psychology
-MODULE: Parenting Partnerships
-MODULE: Starting Core Curriculum Science
-MODULE: Progression (Secondary)
-MODULE: The Wider Curriculum
-MODULE: Leading And Managing Professional Practice
-MODULE: Dissertation
-MODULE: Professional Issues In Teaching And Coaching
+MODULE: Insurance Market, Products And Practice
+MODULE: Applied Sport Psychology: Delivering Mental Strategies
+MODULE: Academic English 1
+MODULE: Principles And Practice In Sport And Coaching
+MODULE: Ideologies, Politics And Culture
+MODULE: Probability And Random Variables
+MODULE: Dde Unit 2 - Assisting, Observing And Teaching Practice
+MODULE: Dde Unit 5 - Social, Emotional And Cognitive Development
+MODULE: Football Development
+MODULE: Research & Quantitative Methods For Business
+MODULE: Principles Of Sports Injury, Treatment And Rehabilitation
+MODULE: Global Business Today
+MODULE: Children'S Literature And The Media
+MODULE: (Strategic) Management Accounting
+MODULE: Learning From And Within The Community
+MODULE: Musical Theatre In The Community
+MODULE: Management Of Resources And Operations
+MODULE: Individual Project
+MODULE: Research And The Industry
+MODULE: Written Exercise (Performance Practice)
+MODULE: Ensembles Modules
+MODULE: Mathematical Principles I
+MODULE: Production
+MODULE: Teaching And Learning In Modern Languages
+MODULE: Colonialism And Anti-Colonialism In Africa
+MODULE: Managing Financial Resources
+MODULE: Principles And Practice Of Teaching Young Learners - Online
+MODULE: Entrepreneurial Design
+MODULE: P.P.D. Group Three
+MODULE: Muscle Physiology For Sport Exercise And Nutrition
+MODULE: Sports Science; 'Flow State'
+MODULE: Exhibition Management
+MODULE: Re-Litigating The Past: State, Media And Historical Injustice In Contemporary Britain
+MODULE: Introduction To Sport And Society
+MODULE: Special Educational Needs And Disability
+MODULE: Functional Anatomy Of The Upper Quadrant
+MODULE: Languages - Italian
+MODULE: Sport And Television
+MODULE: Psychology In The Coaching Process
+MODULE: Independent Project
+MODULE: Human Physiology, Training And Performance
+MODULE: Developing The Art Of Acting
+MODULE: Recital
+MODULE: Skills Three: Understanding The Therapeutic Process And Ethical Awareness
+MODULE: Screen Acting Skills 2
+MODULE: Safeguarding And Intergrated Working In The Early Years
+MODULE: Understanding Behaviour
+MODULE: Financial Risk Management
+MODULE: Theatres Of Pain And Pleasure
+MODULE: International Marketing
+MODULE: Independent Project
+MODULE: Orchestral Development
+MODULE: Research Project (Bsc / Msci)
+MODULE: Human Rights, Diversity And Duty Of Care
 ------------------------------------------------------
 STUDENT: Berton Di Biaggi
 STUDENT: Alexandr Gusney
@@ -1747,3 +1747,985 @@ STUDENT: Harv Roome
 STUDENT: Malina Flipek
 STUDENT: Cory Sillars
 STUDENT: Paloma Timperley
+STUDENT: Elladine Hedde
+STUDENT: Peri Foucard
+STUDENT: Leeann Bizley
+STUDENT: Claretta Pickford
+STUDENT: Beaufort Colledge
+STUDENT: Gates Tithacott
+STUDENT: Teirtza Moulster
+STUDENT: Boony Exton
+STUDENT: Lind Hanaby
+STUDENT: Leland Lindop
+STUDENT: Judas Ianitti
+STUDENT: Adora Fidgett
+STUDENT: Ellerey Pettit
+STUDENT: Susannah Burdas
+STUDENT: Elsworth Gilfoy
+STUDENT: Marsiella Flieg
+STUDENT: Patin Bunclark
+STUDENT: Terencio Gittus
+STUDENT: Cammy Rigler
+STUDENT: Jacques Hadye
+STUDENT: Gratia Kinneally
+STUDENT: Arlen Atter
+STUDENT: Katy Heggman
+STUDENT: Audie Corde
+STUDENT: Eziechiele Goldup
+STUDENT: Raphaela Castro
+STUDENT: Gustav Kurtis
+STUDENT: Cristal Berriman
+STUDENT: Drud Ilyasov
+STUDENT: Denney Binning
+STUDENT: Felicity Dunabie
+STUDENT: Adrian Tue
+STUDENT: Emlen Schild
+STUDENT: Allistir Chillcot
+STUDENT: Wilhelmine Lillywhite
+STUDENT: Denna Boraston
+STUDENT: Stewart Figliovanni
+STUDENT: Janeva Carpe
+STUDENT: Melany MacAskill
+STUDENT: Margy Maty
+STUDENT: Antoine Hammerson
+STUDENT: Archie Durward
+STUDENT: Ruthanne Burkart
+STUDENT: Giavani Dealey
+STUDENT: Sabra Willman
+STUDENT: Enos Hulk
+STUDENT: Ada Gheeorghie
+STUDENT: Leonore Valsler
+STUDENT: Gerti Gath
+STUDENT: Ed Tabert
+STUDENT: Ritchie O' Finan
+STUDENT: Estelle Pape
+STUDENT: Dexter Haddrill
+STUDENT: Sonya Fransemai
+STUDENT: Reynolds Haucke
+STUDENT: Ardath D'eye
+STUDENT: Nelly Eldredge
+STUDENT: Bryan Kissick
+STUDENT: Bernadene Kinsella
+STUDENT: Briant Mc Gaughey
+STUDENT: Christian Pinshon
+------------------------------------------------------
+STAFF: Noe Ventom
+STAFF: Griffy Corstorphine
+STAFF: Jasmine Shivell
+STAFF: Miriam Crielly
+STAFF: Cate Tropman
+STAFF: Candace Serrell
+STAFF: Yance Wigelsworth
+STAFF: Eliot Collyer
+------------------------------------------------------
+Outdoor Adventure Education
+------------------------------------------------------
+COURSE: BA (Hons) Musical Theatre Performance
+COURSE: School Direct - Bishop Luffa - Modern Languages
+COURSE: School Direct - Bishop Luffa - Chemistry
+COURSE: School Direct - Blue Flag   - Physics
+COURSE: BMus (Hons) Performance
+COURSE: School Direct - Bohunt -  Primary
+COURSE: BA (Hons) Business Management and Finance
+COURSE: School Direct - TESLA  - Mathematics
+------------------------------------------------------
+MODULE: Specialist Knowledge In Practice 1
+MODULE: Taxation 1
+MODULE: Parenting Partnerships
+MODULE: Physical Education
+MODULE: Programming For The Enterprise
+MODULE: Children'S Literature In Education
+MODULE: Choreographic Projects
+MODULE: Year 1 Foundation Curriculum - Good Foundations
+MODULE: Metaphor And The Imagination
+MODULE: Musical Grammar 1
+MODULE: Keyboard Skills
+MODULE: Dissertation
+MODULE: Principles Of Play Through Invasion Games
+MODULE: What Is The Good Life?
+MODULE: Dynamic And Data-Driven Systems
+MODULE: Law In Social Work
+MODULE: Contemporary Issues In Education
+MODULE: Children's Exercise and Health
+MODULE: Power System Operation
+MODULE: Learning From And Within The Community
+MODULE: Research Methods: Experimental Designs & Analysis
+MODULE: Professional Practice A
+MODULE: Professional Studies 2 (PGCSPS)
+MODULE: Cinematography For Animation & Vfx
+MODULE: Game Audio Technology
+MODULE: Communication And Interaction
+MODULE: Developing As An Applied Practitioner In Biomechanics
+MODULE: Understanding Children'S Behaviour
+MODULE: User Centred Design
+MODULE: Fairy Tales: Early Modern To Postmodern
+MODULE: Cyber Security Fundamentals
+MODULE: Understanding Child Development: Theory And Practice
+MODULE: Computer Aided Design I
+MODULE: Learning, Teaching and Caring in Adventure Education
+MODULE: Strategic Management
+MODULE: Factual Interview Techniques
+MODULE: Interdisciplinary Cdio Project
+MODULE: Contemporary Issues
+MODULE: Managing For Sustainability And Corporate Responsibility
+MODULE: School Experience 4 - Developing As A Professional
+MODULE: Professional Commission
+MODULE: Complex Numbers and Differential Equations
+MODULE: Research Methods And Dissertation
+MODULE: Client Issues
+MODULE: Stuart England 1603-88: Rebellion, Restoration And Revolution
+MODULE: Core Curriculum Mathematics Module 1 - The Teaching And Learning Of Number
+MODULE: Inspiring Curriculum
+MODULE: A Global History Of The Cold War
+MODULE: Professional Development
+MODULE: The Wider Curriculum
+MODULE: Motion Capture And Motion Tracking Technologies
+MODULE: Writing Flash Fiction
+MODULE: Dissertation
+MODULE: Professional Musicianship
+MODULE: Strategic Human Resource Management
+MODULE: Issues In Sport And Exercise Science
+MODULE: Writing For Games
+MODULE: Wilderness
+MODULE: Contract Law I
+MODULE: Programming, Production And Studio Technologies
+MODULE: Understanding Science And Dance Practice
+MODULE: Business Of Production
+MODULE: Languages
+MODULE: Introduction To Sport & Exercise Psychology
+MODULE: Production Values
+MODULE: Service Planning And Budgeting
+MODULE: Source And Exploration
+MODULE: Management Accounting For Control
+MODULE: Exercise And Physical Activity Interventions
+MODULE: Adventures In Education 1 (Introducing Pedagogy)
+MODULE: Writing To A Brief 2
+MODULE: Skills One: Counselling Skills
+MODULE: Psychology For Screenwriting
+MODULE: Chamber Music
+MODULE: Applied Meteorology
+MODULE: Developing Statistical Thinking
+MODULE: School Direct Bitterne Park
+MODULE: Assignment 3
+MODULE: Fascism And Post-Fascism In Europe
+MODULE: Corporate Responsibility
+MODULE: Documentary: History & Practice
+MODULE: Writing, Environment And Ecocriticism
+MODULE: Sports Journalism And News Culture
+MODULE: Vibration In Mechanical Systems
+MODULE: Foundation Knowledge And Skills
+MODULE: The Tudors: 1485-1603
+MODULE: Research Project
+MODULE: Animation Skills Development
+MODULE: Independent Study In Sport
+MODULE: Research Methods 4 (Dissertation)
+MODULE: Play, Creativity And Expressive Arts
+MODULE: Design Individual Cdio Ii
+MODULE: Acting, Vocal & Dance Development 1
+MODULE: Systems Analysis And Design
+MODULE: Independent Study
+MODULE: Professional Skills In Sport And Exercise Physiology & Nutrition
+------------------------------------------------------
+STUDENT: Babb Baroc
+STUDENT: Chaddy Stone
+STUDENT: Herb Beardwell
+STUDENT: Cyrillus Monkeman
+STUDENT: Giorgia Collelton
+STUDENT: Georgine Cochran
+STUDENT: Seamus Blackwell
+STUDENT: Kore Kedslie
+STUDENT: Latia Oury
+STUDENT: Chadd Riddell
+STUDENT: Donnell Rioch
+STUDENT: Wyn Haward
+STUDENT: Yorgo Attwool
+STUDENT: Odilia Gunda
+STUDENT: Linnie Barrowcliff
+STUDENT: Felecia Thurnham
+STUDENT: Tabbi Peggram
+STUDENT: Phineas Skyme
+STUDENT: Cly Aingel
+STUDENT: Mahmoud Fowles
+STUDENT: Florida Hatrey
+STUDENT: Seymour Laurie
+STUDENT: Ag Mellanby
+STUDENT: Devon Digger
+STUDENT: Tiphanie Cecchetelli
+STUDENT: Christian Lavigne
+STUDENT: Rance Delamar
+STUDENT: Tamarah Korting
+STUDENT: Freddie Richford
+STUDENT: Maisey Abba
+STUDENT: Alfie Pheasant
+STUDENT: Joice Sidnall
+STUDENT: Daveen Crysell
+STUDENT: Skippie Melbury
+STUDENT: Bianca Gretton
+STUDENT: Jocelyne Simkovitz
+STUDENT: Rikki MacTavish
+STUDENT: Corney Coddrington
+STUDENT: Pacorro Weond
+STUDENT: Iolanthe Ekell
+STUDENT: Corbie Cramer
+STUDENT: Faith Krauss
+STUDENT: Cash Beneix
+STUDENT: Michael Conaboy
+STUDENT: Ida Deering
+STUDENT: Erina Salmoni
+STUDENT: Eb Martinolli
+STUDENT: Bondon Mellows
+STUDENT: Roz Wathell
+STUDENT: Levin Barke
+STUDENT: Essy Payley
+STUDENT: Dwain Quinnelly
+STUDENT: Helena Golbourn
+STUDENT: Barr Baptie
+STUDENT: Colet Howman
+STUDENT: Lesley Crammy
+STUDENT: Cad Dalrymple
+STUDENT: Jeanette Cardoe
+STUDENT: Waneta Endrici
+STUDENT: Nessi Dinnis
+STUDENT: Wolfgang Dellenbrook
+------------------------------------------------------
+STAFF: Betteanne Labbett
+STAFF: Shelbi Dowrey
+STAFF: Lianna Chevalier
+STAFF: Hobey Carlin
+STAFF: Simeon Emson
+STAFF: Constantine Yosselevitch
+STAFF: Mallissa Toft
+STAFF: Ermengarde Bernardoux
+STAFF: Perkin Gosnold
+STAFF: Emilio Lafee
+------------------------------------------------------
+Physiotherapy
+------------------------------------------------------
+COURSE: BSc (Hons) Digital Film Technologies
+COURSE: BA (Hons) Physical Education in the Primary Years
+COURSE: BA (Hons) Dance Performance
+COURSE: BA (Hons) Digital Film Production & Screenwriting
+COURSE: BA (Hons) Creative Writing and History
+COURSE: LLB Law with Criminology
+COURSE: BA (Hons) Audio Production and Music Technologies
+COURSE: School Direct - Bishop Luffa - English
+------------------------------------------------------
+MODULE: Working With Motion Capture
+MODULE: The Theology And Politics Of Paul The Apostle
+MODULE: Innovation In The Music Industry
+MODULE: Practical Statistics
+MODULE: Employment In The Music Industry
+MODULE: Power Electronic Converters
+MODULE: Creativity
+MODULE: Vocal Performance
+MODULE: Strategic Hospitality Management
+MODULE: Consultancy And Business Solutions: Proposal Development
+MODULE: Critical Thinking Skills
+MODULE: Work-Based Learning
+MODULE: Dissertation The Research Project: Evaluation And Dissemination (Part 2)
+MODULE: Core Curriculum English 1
+MODULE: Product Design In Consumer Culture
+MODULE: Sports Media Production One: Indoor Sport
+MODULE: Work Based Assessment
+MODULE: Accounting & Finance For Decision Makers
+MODULE: Computer Science Fundamentals
+MODULE: Christian Ethics In Contemporary Society
+MODULE: Exploring Early Years Specialism - Child Development
+MODULE: Music In Education
+MODULE: Writing In Styles
+MODULE: Researching The Sport Disciplines
+MODULE: Music Subject Study 1
+MODULE: Production 1: Narrative And Character
+MODULE: Core Curriculum Mathematics Module 2 - Successful Teaching And Learning Of Mathematics
+MODULE: Writing For The Screen
+MODULE: Coaching Psychology
+MODULE: Musculoskeletal Physiotherapy 2 (Uq)
+MODULE: Feasibility Report
+MODULE: Personal Study
+MODULE: Human Rights
+MODULE: Researching Early Years
+MODULE: Consolidation (Primary)
+MODULE: Learning, Teaching & Caring In Adventure Education
+MODULE: The Problem Of Human Nature
+MODULE: Reflective Practice Placement 1
+MODULE: The Wider Curriculum
+MODULE: Inspiring Curriculum
+MODULE: Researching Early Years
+MODULE: Business Economics
+MODULE: Games: A Tactical Or Traditional Approach?
+MODULE: Applied Research Skills
+MODULE: Dissertation: Planning And Developing The Research Project (Part 1)
+MODULE: Research Skills In Insurance
+MODULE: Music Subject Study 2 (PGCSMU02)
+MODULE: Personal Development Planning
+MODULE: Theatre Project 2: Physical And Visual Performance
+MODULE: Networked World; Systems And Architectures
+MODULE: Masterclass
+MODULE: Safeguarding And Intergrated Working In The Early Years
+MODULE: Gothic, Romanticism and Women's Writing: From Mary Wollstonecraft to Jane Austen
+MODULE: Organisational Development Techniques
+MODULE: Science With Biology / Chemistry / Physics Module 1
+MODULE: Foundations Of Movement And Principles Of Games
+MODULE: Essay Or Vocational
+MODULE: Dissertation - History
+MODULE: Consolidation (Secondary)
+MODULE: Applied Musicianship
+MODULE: Children'S Literature & The Media
+MODULE: Introduction To Business Law
+MODULE: Working With Babies
+MODULE: Reflective Practitioner: Babies, Toddlers And Pre-School
+MODULE: Broking And Claims Handling
+MODULE: Personal Development For Leading Transformation
+MODULE: Assembly & Prototyping
+MODULE: Specialist Knowledge In Practice 2
+MODULE: Personal Development For Leading Transformation
+MODULE: Research & Critical Reflection
+MODULE: Creating A Sustainable Competitive Advantage In Tourism And The Service Environment
+MODULE: Fundamentals Of Asset Creation
+MODULE: Pan-Africanism
+MODULE: The Early Years Curriculum In Its Professional Context
+MODULE: Disability And Social Work
+MODULE: Behaviour For Learning
+MODULE: Writing To Picture
+MODULE: Introduction To Writing Short Fiction
+MODULE: Vice To Virtue? The Origins And Outcomes Of The French Revolution: 1744-94
+MODULE: Placement 1
+MODULE: Contemporary Fiction: War, Women And The World - Bowen To MacLeod
+MODULE: Philosophy And Theory Of Religion
+MODULE: Introduction To Programming - Procedural Language (Python)
+MODULE: Children'S Literature And The Media
+MODULE: Uk Healthcare Policy
+MODULE: Masterclass
+MODULE: Screen Acting 3
+MODULE: Reality Tv In The Digital Age
+MODULE: Teaching Mathematics Subject Study 1 (PGCSMA01)
+MODULE: Motion Capture Face / Feature Tracking Technologies
+MODULE: Teaching Effective Technique For Playing Woodwind Instruments
+MODULE: Body Politics
+MODULE: Introduction To Individual Giving
+MODULE: An Introduction To Digital Marketing
+MODULE: Biomechanics Of Sport And Exercise
+MODULE: Strategy & Strategic Dilemmas
+------------------------------------------------------
+STUDENT: Georgie Drei
+STUDENT: Darsey Baxandall
+STUDENT: Diane Aleksashin
+STUDENT: Torey Hanhart
+STUDENT: Marji Ropp
+STUDENT: Hewe Amberger
+STUDENT: Drona Leader
+STUDENT: Amalea Fawdry
+STUDENT: Griswold Merriott
+STUDENT: Anna-diana Barley
+STUDENT: Rafi Heinritz
+STUDENT: Chickie Kerridge
+STUDENT: Monique Linstead
+STUDENT: Heindrick Huby
+STUDENT: Bidget Itzhaki
+STUDENT: Isidro Foux
+STUDENT: Rosella Ferentz
+STUDENT: Rosella Smurthwaite
+STUDENT: Alexander Cleevely
+STUDENT: Bamby Rassmann
+STUDENT: Pennie Penkethman
+STUDENT: Ingaborg Cream
+STUDENT: Glynis Benning
+STUDENT: Adorne Adriaan
+STUDENT: Fara Feathersby
+STUDENT: Daffi Beebe
+STUDENT: Allayne Huddles
+STUDENT: Rourke Dallinder
+STUDENT: Bee Pescod
+STUDENT: Pedro Duckitt
+STUDENT: Flss Agate
+STUDENT: Natal Starbuck
+STUDENT: Archaimbaud Torr
+STUDENT: Carr Marcum
+STUDENT: Laraine Kubista
+STUDENT: Adelind Dorken
+STUDENT: Saunderson Giamelli
+STUDENT: Garnet Jordeson
+STUDENT: Hanni Danbrook
+STUDENT: Gene Redier
+STUDENT: Fern Bellee
+STUDENT: Errol Nutley
+STUDENT: Jillayne Londors
+STUDENT: Calv Rodda
+STUDENT: Penni Laxon
+STUDENT: Che Vanichev
+STUDENT: Sophey McCollum
+STUDENT: Priscella Waslin
+STUDENT: Enid McIlwraith
+STUDENT: Sanford Dallmann
+STUDENT: Ashli Gatecliff
+STUDENT: Kelsey Millan
+STUDENT: Cassondra Duerdin
+STUDENT: Renard Burrells
+STUDENT: Orsa Lowy
+STUDENT: Fidelio Gready
+STUDENT: Sibley Yegorkin
+------------------------------------------------------
+STAFF: Lindi Cuel
+STAFF: Rochelle Ogan
+STAFF: Marylinda Rathbourne
+STAFF: Clem Orknay
+STAFF: Benji De Lisle
+------------------------------------------------------
+School of Music
+------------------------------------------------------
+COURSE: School Direct - Blue Flag - English
+COURSE: BA (Hons) Music with Musical Theatre
+COURSE: BA (Hons) Sport Development
+COURSE: PGCE Secondary - Modern Foreign Languages
+COURSE: BA (Hons) Music and Cabaret Performance
+COURSE: PGCE Secondary - MFL: German with Spanish
+COURSE: PGCE Secondary - MFL: French with German
+COURSE: School Direct - TESLA  - Primary
+------------------------------------------------------
+MODULE: Introduction To Mega Sport Events
+MODULE: Management Project
+MODULE: Core Curriculum English 2
+MODULE: Advanced Pedagogy
+MODULE: Practical Dramaturgy - Modernism To Now
+MODULE: Applied Coaching Practice (Work Placement)
+MODULE: Introduction To Animation & Visual Effects (Vfx)
+MODULE: Health And Wellbeing Of Young Children
+MODULE: Contemporary Issues In Health And Social Care
+MODULE: Professional Development In Organisations
+MODULE: Medieval Heresies 1100-1500: From The Cathars To Erasmus
+MODULE: Inclusion, Equality And Diversity
+MODULE: Academic English 2
+MODULE: Drama Craft
+MODULE: Working With Substance Misuse
+MODULE: Industry Engagement And Conventions
+MODULE: Electric Circuit Analysis
+MODULE: Leading And Managing Professional Practice
+MODULE: Arts In Education And Society
+MODULE: School Experience B
+MODULE: Financial Management
+MODULE: Italian Intermediate Threshold 1 - B1.1
+MODULE: Work-Based Placement
+MODULE: Cardio-Respiratory Physiotherapy
+MODULE: Creative Thinking Workshop
+MODULE: The Bible And Public Theology
+MODULE: Inspiring Curriculum
+MODULE: Criminal Law I
+MODULE: Understanding Children'S Behaviour
+MODULE: Research & Critical Reflection
+MODULE: Teaching History Subject Study 1 (PGCSH01)
+MODULE: Mathematics Project
+MODULE: Curriculum Matters
+MODULE: Marketing Principles And Practice
+MODULE: Composing Dances
+MODULE: Leadership
+MODULE: MA Dance
+MODULE: Applied Sport And Exercise Science
+MODULE: Second Study
+MODULE: Campaign Writing
+MODULE: Bsc Design Project
+MODULE: First Study
+MODULE: Dissertation - Creative Writing (30 Credit)
+MODULE: Research & Critical Reflection
+MODULE: First Study
+MODULE: Managing Risk
+MODULE: School Placement (Primary)
+MODULE: Skills For Practice 1
+MODULE: Understanding Health And Social Care
+MODULE: Engineering Workplace Report
+MODULE: Dissertation
+MODULE: Insurance Research Project/Portfolio
+MODULE: Advanced Digital Photography
+MODULE: Political Theology
+MODULE: Work Placement
+MODULE: Neuromusculoskeletal Manual Therapy To The Spine
+MODULE: Soft Tissue Massage And Manipulation Techniques
+MODULE: Ethical Foundations Of Health And Social Care
+MODULE: Opera
+MODULE: Writing For Brass, Harp & Percussion
+MODULE: Business Ethics And Social Responsibility
+MODULE: Organisations And Their Cultures
+MODULE: Art & Knowledge In Europe: From Early Renaissance To Baroque: 1250-1650
+MODULE: History & Theory Of The Screenplay
+MODULE: Individual Cdio Project
+MODULE: Torture To Terror: European Order And Repression: 1492-1792
+MODULE: Laboratory Skills In Sport And Exercise
+MODULE: Independent Study In Sport And Exercise Sciences
+MODULE: Research Methods For Outdoor And Adventure Education
+MODULE: Critical Issues In Managing It Service Support Services
+MODULE: Games 4
+MODULE: Women And Gender: 1000-1600
+MODULE: Portfolio And Display
+MODULE: First Study
+MODULE: Saints Or Sinners: Politics And Religion In The Contemporary Era
+MODULE: Technology Enhanced Learning Demo
+MODULE: Religion, Ethics And Violence
+MODULE: Research Methods
+MODULE: The Four Hander Project
+MODULE: Dissertation
+MODULE: Network Analysis
+MODULE: Developing And Monitoring Fitness In The Coaching Process
+MODULE: Introduction To Management
+MODULE: Issues In Sports Coaching
+MODULE: Inspiring Curriculum
+MODULE: Reflective Practitioner: Babies, Toddlers And Pre-School
+MODULE: Theatre Project: Narrative
+MODULE: Sports Broadcasting: Studio Production
+MODULE: Budgeting And Financial Planning
+MODULE: Methods Of Assessment, Intervention, Risk And Safeguarding
+MODULE: Props And Costume
+MODULE: Language And Society
+MODULE: Developing Mathematical Knowledge For Teaching
+MODULE: Research Methods 2
+MODULE: Analysis, Practice & Technique
+MODULE: Second Study
+------------------------------------------------------
+STUDENT: Ranique Bish
+STUDENT: Austin Yakebovich
+STUDENT: Willette Sample
+STUDENT: Sandy Eivers
+STUDENT: Joly Syers
+STUDENT: Ramsay Schubart
+STUDENT: Kizzie Zanneli
+STUDENT: Vannie Lawey
+STUDENT: Gwenette Catherick
+STUDENT: Janetta Popov
+STUDENT: Gweneth Rocca
+STUDENT: Quincy de Najera
+STUDENT: Maureene Huggen
+STUDENT: Law Verbrugge
+STUDENT: Chevalier Huske
+STUDENT: Carmelita Spinella
+STUDENT: Tommie Barrow
+STUDENT: Fraze Clamp
+STUDENT: Sebastian Clausewitz
+STUDENT: Aldric Dablin
+STUDENT: Kimberley Rumgay
+STUDENT: Sibyl Whalebelly
+STUDENT: Hewet Courtois
+STUDENT: Nolly Gotthard
+STUDENT: Adham Cahill
+STUDENT: Pierre Raulston
+STUDENT: Marcelle Letertre
+STUDENT: Lissie Eckert
+STUDENT: Evita Springate
+STUDENT: Gerrilee Laneham
+STUDENT: Trent Stener
+STUDENT: Rustin Pengilly
+STUDENT: Shari Bartleman
+STUDENT: Camey Playfair
+STUDENT: Meris Hansie
+STUDENT: Linea Larratt
+STUDENT: Simeon Cutts
+STUDENT: Iolanthe Luetchford
+STUDENT: Sonni Geibel
+STUDENT: Emilie Ambroisin
+STUDENT: Alexandrina Krochmann
+STUDENT: Mimi Hearty
+STUDENT: Loella Bulpitt
+STUDENT: Averil Sleaford
+STUDENT: Jessy Pittoli
+STUDENT: Clemente Schoroder
+STUDENT: Fenelia Maides
+STUDENT: Torrin Grzegorecki
+STUDENT: Lauree Frankcombe
+STUDENT: Chas Perren
+STUDENT: Giacopo Kern
+STUDENT: Lancelot Poland
+STUDENT: Merrick Christopherson
+STUDENT: Archer Sutton
+STUDENT: Nils Caplen
+STUDENT: Hoebart Bang
+STUDENT: Stafani Munnings
+STUDENT: Wynn Howbrook
+STUDENT: Kayle Glover
+STUDENT: Violette Quare
+STUDENT: Shanan Darke
+STUDENT: Jonis Windridge
+STUDENT: Cesar Roantree
+STUDENT: Margret Ege
+STUDENT: Giulia Elsby
+STUDENT: Tomlin O'Connolly
+STUDENT: Heda Salvadori
+STUDENT: Tarah Cawdell
+STUDENT: Rosalinde Raecroft
+STUDENT: Gisella Pentecost
+STUDENT: Ashia Hankin
+STUDENT: Ginger Sorel
+STUDENT: Emmery Bingham
+------------------------------------------------------
+STAFF: Anneliese McElwee
+STAFF: Cletis Baskeyfield
+STAFF: Marlon Stocker
+STAFF: Kessiah Cattellion
+STAFF: Norrie Goodlip
+STAFF: Jody Mellanby
+STAFF: Monty Espie
+STAFF: Nesta McGivena
+STAFF: Juliana Dowdney
+STAFF: Marlo Lobe
+STAFF: Klemens Fentem
+STAFF: Stuart Persian
+------------------------------------------------------
+Social Work
+------------------------------------------------------
+COURSE: BA (Hons) Business and Human Resource Management
+COURSE: BA (Hons) Fine Art with Textiles
+COURSE: School Direct - TESLA, Bohunt -  Primary
+COURSE: Foundation Degree in Early Years
+COURSE: School Direct - Bishop Luffa   - Physics
+COURSE: School Direct - Blue Flag  - History
+COURSE: School Direct - Bishop Luffa  - Modern Languages
+COURSE: School Direct - Millais School   - Mathematics
+------------------------------------------------------
+MODULE: Economics For Business
+MODULE: Forest School: Principles And Practices
+MODULE: Environments 3: Interpreting The Environment To Others
+MODULE: Human Resource Management
+MODULE: Ideas, Innovation And Intrapreneurship
+MODULE: Personal And Professional Skills For Management
+MODULE: Embedded Systems And Iot
+MODULE: Theoretical And Practical Sports Pedagogy
+MODULE: Tour Production (60 Credit)
+MODULE: Personal And Professional Development
+MODULE: History Subject Study 1
+MODULE: English For Academic Purposes
+MODULE: Children'S Literature And The Media
+MODULE: Strategic Management For Tourism And Hospitality
+MODULE: Supply Chain Management
+MODULE: Applied Research Skills
+MODULE: Advanced Make-Up Practice For Media Industries
+MODULE: Managing Financial Resources
+MODULE: Learning To Play String Instruments
+MODULE: Special Educational Needs And Disability
+MODULE: English For International Business Communication
+MODULE: Adventure Education Experience
+MODULE: Counselling Skills With Ethics
+MODULE: Performance Analysis In Sport
+MODULE: Work Placement
+MODULE: Professional Resilience
+MODULE: Writing For Strings
+MODULE: Understanding Families
+MODULE: Skills - Analysis
+MODULE: Computer Aided Engineering I
+MODULE: Multi-Camera Live Events
+MODULE: Professional Studies
+MODULE: Financial Accounting
+MODULE: Organisational Development Techniques
+MODULE: Professional Effectiveness In Groups And Organisational Contexts
+MODULE: Research Project
+MODULE: Final School Experience
+MODULE: Arts In Education And Society
+MODULE: Learning, Teaching & Caring In Adventure Education
+MODULE: Professional Skills
+MODULE: Organisational Impact: An Operational Perspective
+MODULE: Sound Design
+MODULE: Professional Commission
+MODULE: Work Placement
+MODULE: International Business
+MODULE: Play, Creativity And Expressive Arts
+MODULE: Example Moodle page - Topics view
+MODULE: Social Media Marketing
+MODULE: Languages - German
+MODULE: Final Major Project
+MODULE: Visions Of The Real: Literature, Science & Myth
+MODULE: Product Design Competition Project
+MODULE: Enhancing Physical Activity Participation And Wellbeing
+MODULE: Renewable Energy And Sustainability
+MODULE: Chichester Institute Of Sport
+MODULE: Sound Engineering And Music Production
+MODULE: Operations Management
+MODULE: Ensemble
+MODULE: Creativity
+MODULE: Kingdom Of Heaven: Crusading And The Holy Land: 1095-1291
+MODULE: Foundation Knowledge And Skills
+MODULE: Understanding Adventure (Water Based Activities)
+MODULE: Corporate Responsibility And Business Ethics
+MODULE: Play, Creativity And Expressive Arts
+MODULE: Independent Case Study
+MODULE: Customer Insight
+MODULE: Operations Management
+MODULE: Introduction To Musical Theatre
+MODULE: Social Psychology In Organisations
+MODULE: Physical Activity In Public Health Interventions: Conceptualisation And Design
+MODULE: Leading and Managing Professional Practice
+MODULE: Consultancy Report
+MODULE: Practice Toolkit
+MODULE: Health And Wellbeing Of Young Children
+MODULE: Independent Project
+MODULE: Year 1 Foundation Curriculum - Good Foundations
+MODULE: Module Three: Pedagogic Enquiry And Developing The Learning Conversation
+MODULE: Computer Skills Workshop
+MODULE: Final Major Project
+MODULE: Managing Risk
+MODULE: Dance Techniques 1
+MODULE: Accounting Skills
+MODULE: Managing Change
+MODULE: Contemporary Issues In Health And Social Care
+MODULE: Fundraising Strategy
+MODULE: Sport And Exercise Psychology For Teachers And Coaches
+MODULE: Advances In Sports Injury Management Of The Upper Quadrant
+MODULE: Creating Characters
+MODULE: The Wider Curriculum
+MODULE: Writing In Styles
+MODULE: Second Study
+MODULE: Business Strategy
+MODULE: Managing Data
+MODULE: Reflective Practice And Decision Making
+MODULE: Dance Technique C
+MODULE: Phase 2
+------------------------------------------------------
+STUDENT: Raphaela McErlaine
+STUDENT: Corie Tonkes
+STUDENT: Pete Gadd
+STUDENT: Eleen Ducham
+STUDENT: Cindy Kinforth
+STUDENT: Starla Cossor
+STUDENT: Fidela Leedes
+STUDENT: Suzy Keatch
+STUDENT: Duffy Vreede
+STUDENT: Curran Slorach
+STUDENT: Helge Bernardeau
+STUDENT: Jonah Daymond
+STUDENT: Sara-ann Breadmore
+STUDENT: Ammamaria O'Brollachain
+STUDENT: Waylan Boal
+STUDENT: Allard Harmon
+STUDENT: Noland Yendall
+STUDENT: Jillayne Backhurst
+STUDENT: Phebe Fellows
+STUDENT: Merl Meere
+STUDENT: Bride Wiffen
+STUDENT: Julietta Coventon
+STUDENT: Tiffanie Filippozzi
+STUDENT: Heddi Herculson
+STUDENT: Pat Danilowicz
+STUDENT: Laryssa Batterton
+STUDENT: Arne Brennon
+STUDENT: Carr Blanko
+STUDENT: Kassandra Danniel
+STUDENT: Phebe Cuttings
+STUDENT: Ryan Bilston
+STUDENT: Amelie Cawdery
+STUDENT: Everard Titterell
+STUDENT: Merrill Broadhurst
+STUDENT: Marcelia Poundford
+STUDENT: Trenna Joannic
+STUDENT: Virginie Hanstock
+STUDENT: Mariellen Maith
+STUDENT: Inness Winn
+STUDENT: Marissa Magne
+STUDENT: Ab Ruddom
+STUDENT: Niko Bouzek
+STUDENT: Mart De Vere
+STUDENT: Marena Duckett
+STUDENT: Winifred Chittenden
+STUDENT: Anabel Clorley
+STUDENT: Timmie Gummary
+STUDENT: Mellisa Wiltshaw
+STUDENT: Phyllis Papen
+STUDENT: Noreen Heardman
+STUDENT: Sebastiano Reaper
+STUDENT: Tamqrah Beere
+STUDENT: Even Nortcliffe
+STUDENT: Mile Craft
+STUDENT: Kirbee Copland
+STUDENT: Ree Peatman
+STUDENT: Dav Mesnard
+STUDENT: Kat Provost
+STUDENT: Cal Bessant
+------------------------------------------------------
+STAFF: Lucie Rohlfing
+STAFF: Petr Kenson
+STAFF: Ester Arsmith
+STAFF: Phillie Leser
+STAFF: Lenna Fearfull
+STAFF: Dalton Myrtle
+STAFF: Deedee Roubay
+------------------------------------------------------
+Theatre
+------------------------------------------------------
+COURSE: School Direct - Portsmouth TSA - History
+COURSE: BA (Hons) Education (with IFY)
+COURSE: School Direct - Bitterne Park - English with Media
+COURSE: BA (Hons) English Literature and Politics
+COURSE: School Direct - Bohunt School - Mathematics
+COURSE: BA (Hons) Medieval & Early Modern History
+COURSE: BA (Hons) Games Design and Development
+COURSE: BA (Hons) Creative Writing and English
+------------------------------------------------------
+MODULE: Linked Tutorial Programme
+MODULE: Choreography And Performance
+MODULE: Synthesis And Sampling
+MODULE: Studio Research
+MODULE: Work Placement In Sport & Exercise Science
+MODULE: History Of Political Thought
+MODULE: Critical Issues In Managing The It Service Support Organisations
+MODULE: Assignment 2 - Secondary
+MODULE: Reflective Practitioner: Babies, Toddlers And Pre-School
+MODULE: Introduction To Sport Business And Management
+MODULE: Business English
+MODULE: Data Science & Analytics (Sql & No Sql)
+MODULE: P.P.D. Group Two
+MODULE: Health And Wellbeing Of Young Children
+MODULE: Independent Study: Mental Health Awareness In Schools
+MODULE: Musical Theatre Industry
+MODULE: Physical Theatre
+MODULE: The Devising Actor
+MODULE: Final Major Project
+MODULE: Research Project
+MODULE: Coaching Placement
+MODULE: Writing For Woodwind
+MODULE: Musical Theatre Skills 1
+MODULE: Writing To Picture
+MODULE: Tourism Policy And Planning
+MODULE: Postgraduate Certificate In Professional Practice: National Award For Special Education Needs Coordination
+MODULE: Public Law I - Constitutional Law
+MODULE: Exhibition Management
+MODULE: Languages
+MODULE: Mobile Communications
+MODULE: Everyday Experience And Psychological Methods: Analysing Attitudes
+MODULE: Crime And Society
+MODULE: Supporting Children And Young People Facing Death Or Experiencing Loss Or Bereavement
+MODULE: Marketing
+MODULE: Developing & Enhancing Academic Skills
+MODULE: Applied Coaching
+MODULE: Italian Beginner: A.1
+MODULE: Psychological Aspects Of Exercise And Health
+MODULE: Masterclass
+MODULE: Humanities In Education And Society
+MODULE: Social Histories Of Football
+MODULE: Dissertation
+MODULE: Exhibition A
+MODULE: Dissertation
+MODULE: Writing And Defending A Thesis
+MODULE: Management Information & Technology For Insurance
+MODULE: Public Relations And Sponsorship
+MODULE: Globalization And Its Malcontents
+MODULE: Pe 3 - Coaching And Teaching Practical Applications
+MODULE: Children'S Rights
+MODULE: Working With People
+MODULE: Practical Arranging
+MODULE: Ensemble
+MODULE: Maf Test Module 2
+MODULE: Dissertation
+MODULE: Orchestration In Practice
+MODULE: Data Visualisation & Presentation
+MODULE: Dissertation: Planning And Developing The Research Project (Part 1)
+MODULE: Wider Curriculum
+MODULE: Direct Response And Regular Giving
+MODULE: Mentoring And Coachiing In Sport And Physical Education
+MODULE: Diversity In Society
+MODULE: Consultancy Project Preparation - Planning And Skills
+MODULE: Statics And Materials
+MODULE: Dance Subject Study 2
+MODULE: Performance Techniques 1
+MODULE: Financial Reporting
+MODULE: Virtual Studio Technologies
+MODULE: Sound, Music & The Moving Image
+MODULE: Teaching Effective Technique For Playing Piano Instruments
+MODULE: Modern Jazz: Seven Steps To Heaven
+MODULE: Y2 Special Placement
+MODULE: Introduction To Film Industry
+MODULE: Operations Research
+MODULE: Tissues Modelling & Assistive Devices
+MODULE: grid view
+MODULE: Study Skills Workshop
+MODULE: Extended Research Project
+MODULE: Dde Unit 1 - Preparing For Safe Teaching Practice
+MODULE: The Wider Curriculum
+MODULE: Group Study
+MODULE: Starting Core Curriculum Science
+MODULE: Professional Resilience
+MODULE: Mathematics For Computer Science
+MODULE: Physical Activity, Obesity And Diabetes
+MODULE: Functional Anatomy Of The Lower Quadrant
+MODULE: Core Curriculum Mathematics Module 2 - Successful Teaching And Learning Of Mathematics
+MODULE: Applied Sport And Exercise Nutrition
+MODULE: Teaching Mathematics Subject Study 2 (PGCSMA02)
+MODULE: Dance Techniques 3
+MODULE: Electrical Foundations
+MODULE: Documenting Performance
+MODULE: British Culture Wars
+MODULE: Leading And Managing Professional Practice
+MODULE: Understanding Player Performance In Football
+MODULE: Marketing
+------------------------------------------------------
+STUDENT: Tadd Caccavale
+STUDENT: Harlen Fabler
+STUDENT: Skippy Eakle
+STUDENT: Garey Latore
+STUDENT: Teriann Poone
+STUDENT: Ulrike Greenroa
+STUDENT: Myrtia Caltun
+STUDENT: Connie Crosfield
+STUDENT: Barron Yakuntzov
+STUDENT: Russell Higounet
+STUDENT: Cleon Martino
+STUDENT: Krystle Twinterman
+STUDENT: Grantham Passy
+STUDENT: Julee Avarne
+STUDENT: Susanne Tildesley
+STUDENT: Brantley Rappa
+STUDENT: Vergil Fielding
+STUDENT: Jonell Janikowski
+STUDENT: Hayes Gettings
+STUDENT: Humfrey Lothean
+STUDENT: Oralle Farrey
+STUDENT: Windham Nuttall
+STUDENT: Claudetta Revening
+STUDENT: Rhona Jiles
+STUDENT: Hilda Minshall
+STUDENT: Nonah Sarll
+STUDENT: Jennica Ewer
+STUDENT: Anet Brazier
+STUDENT: Sammy Cooksley
+STUDENT: Hali Wahner
+STUDENT: Celestina Brassington
+STUDENT: Joella Benoey
+STUDENT: Cathrin Athelstan
+STUDENT: Zachary Lindsley
+STUDENT: Quinta Satterthwaite
+STUDENT: Welch Hazeldene
+STUDENT: Rolando Bluschke
+STUDENT: Sheena Yeell
+STUDENT: Jacquie Hirtz
+STUDENT: William Vampouille
+STUDENT: Boniface Landa
+STUDENT: Bertine Escolme
+STUDENT: Abbye Coper
+STUDENT: Betteanne Appleton
+STUDENT: Johann Chasmar
+STUDENT: Jacquetta Scala
+STUDENT: Carleton Butterly
+STUDENT: Cami Shakeshaft
+STUDENT: Ailee Critchell
+STUDENT: Zaccaria Hurrell
+STUDENT: Dick Waterhowse
+STUDENT: Thacher Hungerford
+STUDENT: Gabriela Pincked
+STUDENT: Timmie Pitcaithly
+STUDENT: Waylin Mirrlees
+STUDENT: Tynan Wenzel
+STUDENT: Beryle Leggs
+STUDENT: Andrej Kitman
+STUDENT: Pris Ford
+STUDENT: Else Hansie
+STUDENT: Margaretha Spini
+STUDENT: Linn Busher
+STUDENT: Meghan Edyson
+STUDENT: Jaquenette Benbow
+STUDENT: Hamid Felderer
+STUDENT: Stephannie Hathway
+STUDENT: Rupert Francescone
+STUDENT: Sena Lande
+STUDENT: Silvanus Camamile
+STUDENT: Jacky Hearons
+STUDENT: Ingaberg Yendall
+------------------------------------------------------
+STAFF: Brandie O'Shirine
+STAFF: Garik Siggs
+STAFF: Marya Skone
+STAFF: Wanids Hedaux
+STAFF: Dionne Felix
+STAFF: Ilka Muff
+STAFF: Leshia Fairnie

@@ -1,5 +1,9 @@
 import com.google.gson.annotations.SerializedName;
 
+
+/**
+ * AN ABSTRACT CLASS THAT REPRESENTS BASIS OF A USER
+ */
 public abstract class User implements Userable{
 
     private int id;
@@ -13,8 +17,11 @@ public abstract class User implements Userable{
     //ABSTRACT METHOD TO SHOW USE
     public abstract String getFullName();
 
+
+
+
     @Override
-    public void setFirstName(){
+    public void setFirstName(String firstName){
         this.firstName = firstName;
     }
     @Override

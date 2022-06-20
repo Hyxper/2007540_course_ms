@@ -1,6 +1,9 @@
 import java.util.ArrayList;
+
+/**
 //THIS INTERFACE IS USED TO ENSURE THAT ALL REQUIRED GETTERS AND SETTERS
 // ARE IN PLACE FOR THE DEPARTMENT CLASS.
+ **/
 
 public interface Departmentable {
     String getSchoolName();

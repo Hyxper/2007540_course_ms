@@ -2,6 +2,10 @@ import com.google.gson.annotations.SerializedName;
 
 import java.util.ArrayList;
 
+
+/**
+ * CLASS THAT REPRESENTS A UNIVERSITY MODULE
+ */
 public class Modules implements Modulable {
     private String name;
     private String code;

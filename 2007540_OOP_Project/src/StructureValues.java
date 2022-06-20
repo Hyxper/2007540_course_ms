@@ -1,3 +1,8 @@
+/**
+ * ENUM THAT LISTS VALUES NEEDED IN ORDER TO CREATE COURSES AND DEPARTMENTS
+ */
+
+
 public enum StructureValues {
 
 

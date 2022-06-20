@@ -3,6 +3,10 @@ import java.util.Objects;
 import java.util.Random;
 
 
+/**
+ * CLASS REPRESENTING A UNIVERSITY DEPARTMENT
+ */
+
 
 public class Departments implements Departmentable {
 
@@ -77,7 +81,11 @@ public class Departments implements Departmentable {
      * OTHERWISE JUST ADDS ALL RELEVANT STAFF TO THE DEPARTMENT OBJECT
      */
 
-    public void assignStaff(ArrayList<Staff> rawStaff) {
+    public void assignStaff(ArrayList<Staff> rawStaff) throws Exception {
+
+        if (rawStaff.size() == 0){
+            throw new Exception();
+        }
 
         int staffModuleCounter = 0;
         int requiredModules = StructureValues.MODULECOUNT.getCount()*StructureValues.COURSECOUNT.getCount();
@@ -101,10 +109,11 @@ public class Departments implements Departmentable {
      */
 
 
-    public void addStudentsToCourses() {
+    public void addStudentsToCourses()throws Exception {
 
         if (this.getStudents().size() == 0 || this.getCourses().size() == 0) {
             System.out.println("NO STUDENTS INITIALIZED");
+            throw new Exception();
         } else {
 
             int remainder = this.getStudents().size() % StructureValues.COURSECOUNT.getCount();
@@ -115,7 +124,7 @@ public class Departments implements Departmentable {
                 for (Courses course : this.getCourses()) {
 
                     if (index == this.getStudents().size() - remainder) {
-                        System.out.println("THROW ERROR");
+                        throw new Exception();
                     } else {
                         if (index != endIndex) {
 
@@ -159,9 +168,11 @@ public class Departments implements Departmentable {
      * <h1>ADDS TUTORS TO MODULES</h1>
      * <p>First check if tutors have been initialised, if so randomly choose department staff to append to each tutor to a module on each course</p>
      */
-    public void addTutorsToModules(){
+    public void addTutorsToModules()throws Exception{
+
         if (this.getStaff().size() == 0 || this.getCourses().size() == 0) {
             System.out.println("NO STAFF INITIALIZED");
+            throw new Exception();
         } else {
 
             for (Courses course: this.getCourses()) {
@@ -178,9 +189,10 @@ public class Departments implements Departmentable {
      * <h1>ADDS STUDENTS TO MODULES</h1>
      * <p>First check if STUDENTS have been initialised, if so randomly choose department staff to append to each tutor to a module on each course</p>
      */
-    public void addStudentsToModules(){
+    public void addStudentsToModules()throws Exception{
         if (this.getStudents().size() == 0 || this.getCourses().size() == 0) {
             System.out.println("NO STUDENTS INITIALIZED");
+            throw new Exception();
         } else {
             for (Courses course: this.getCourses()) {
                 for (Modules module: course.getcourseModules()) {

@@ -1,6 +1,10 @@
 import java.util.ArrayList;
-
+/**
+ * THIS CLASS IS USED TO CREATE A THREAD FOR CREATING DEPARTMENTS
+ */
 public class CreateDepartmentsThread extends Thread {
+
+
 
     private ArrayList<Departments> createdDepartments;
 

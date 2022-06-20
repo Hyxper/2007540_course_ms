@@ -24,6 +24,10 @@ public class FileParser {
      */
     public static <T> ArrayList<T> FormatJson(String file, Type classObj) throws IOException {
 
+        if (Objects.equals(file, "")){
+            throw new IOException();
+        }
+
         //create gson object
         Gson gson = new Gson();
 
@@ -48,6 +52,10 @@ public class FileParser {
      */
     public static ArrayList<String> FormatCSV(String file) throws IOException {
 
+        if (Objects.equals(file, "")){
+            throw new IOException();
+        }
+
         String delimiter = ",";
         String line;
         ArrayList<List<String>> lines = new ArrayList<>();
@@ -69,11 +77,15 @@ public class FileParser {
 
     /**
      *
-     * @param rawModules
+     * @param rawModules modules being passed
      * @return RETURNS MODULE LIST BACK TO CALL, IN WHICH IT HAS REMOVED DUPLICATES
      */
 
-    public static ArrayList<Modules> stripModules(ArrayList<Modules> rawModules){
+    public static ArrayList<Modules> stripModules(ArrayList<Modules> rawModules)throws IOException{
+
+        if (rawModules.size()==0){
+            throw new IOException();
+        }
 
             List<String> tempArr = null;
             ArrayList<Modules> returnModules = new ArrayList<>();
@@ -87,7 +99,21 @@ public class FileParser {
         }
 
 
-        public static File createFile(String filePath, String fileName) {
+    /**
+     *
+     * @param filePath directory to write to
+     * @param fileName name for file
+     * @return FILE
+     *
+     * STATIC METHOD THAT CREATES A FILE, PROVIDING A FILEPATH TO CREATE TO, AND A FILE NAME HAVE BEEN PASSED
+     */
+
+    public static File createFile (String filePath, String fileName) throws IOException {
+
+        if (Objects.equals(filePath, "")||Objects.equals(fileName, "")){
+            throw new IOException();
+        }
+
             try {
 
                 File fileToPrint = new File(filePath+fileName);
@@ -114,10 +140,23 @@ public class FileParser {
         }
 
 
-        public static void writeToFile(File fileToWrite, String content){
+    /**
+     *
+     * @param content to be written to file
+     * @param fileToWrite file to write to
+     *
+     *
+     * WRITES DATA TO A PASSED FILE, WRITES PASSED CONTENTS.
+     *
+     */
+    public static void writeToFile(File fileToWrite, String content) throws IOException {
+
+        if (!fileToWrite.exists() || Objects.equals(content, "")){
+            throw new IOException();
+        }
 
 
-            if (fileToWrite.isFile()){
+            if (fileToWrite.isFile()) {
 
                 try(PrintWriter fileWriter = new PrintWriter(new BufferedWriter(new FileWriter(fileToWrite, true)))){
 

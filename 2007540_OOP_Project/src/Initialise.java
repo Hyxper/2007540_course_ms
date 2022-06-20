@@ -3,6 +3,11 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Objects;
 
+
+/**
+ * A CLASS THAT INITIALISES STRUCTURES TO BE USED
+ */
+
 public class Initialise {
 
     /**
@@ -34,10 +39,10 @@ public class Initialise {
             File logFile = FileParser.createFile(FileExtensions.FILEPATH.getExtension(), FileExtensions.LOGFILE.getExtension());
             ArrayList<Departments> departments = new ArrayList<>();
 
-            for (String specialism : rawDepartments) {
+            for (String department : rawDepartments) {
 
                 //create new department
-                Departments temp = new Departments(specialism);
+                Departments temp = new Departments(department);
 
                 //ADD HEADING TO LOG FILE FOR EACH DEPARTMENT
                 if (logFile != null) {
@@ -63,16 +68,25 @@ public class Initialise {
                     }
                 }
 
-                //FOLLOWING ASSING STAFF TO DEPARTMENTS, STUDENTS TO COURSES, AND STUDENTS AND STAFF TO MODULES
-                temp.assignStaff(staffMembers);
+                //FOLLOWING ASSIGNS STAFF TO DEPARTMENTS, STUDENTS TO COURSES, AND STUDENTS AND STAFF TO MODULES
 
-                temp.addStudentsToCourses();
+                try{
+                    temp.assignStaff(staffMembers);
 
-                temp.addTutorsToModules();
+                    temp.addStudentsToCourses();
 
-                temp.addStudentsToModules();
+                    temp.addTutorsToModules();
 
-                departments.add(temp);
+                    temp.addStudentsToModules();
+
+                    departments.add(temp);
+
+                }catch (Exception ex){
+                    System.out.println("An error occured assigning members to Departments");
+                    ex.printStackTrace();
+                    System.exit(0);
+                }
+
 
 
                 //ADD ALL MEMBERS OF DEPARTMENT TO LOG FILE
@@ -99,7 +113,9 @@ public class Initialise {
             return departments;
 
         } catch (IOException ex) {
-            System.out.println("A file could not be found");
+            System.out.println("An error has occurred when trying to create Data Structures.");
+            ex.printStackTrace();
+            System.exit(0);
             return null;
         }
     }

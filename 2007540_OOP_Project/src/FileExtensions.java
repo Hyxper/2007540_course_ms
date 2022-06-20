@@ -1,4 +1,10 @@
+/***
+ * THIS ENUM LISTS ALL NEEDED DATA FOR FILE EXTENSIONS, INCLUDING FILE MANS AND DIRECTORY LOCATION.
+ */
 public enum FileExtensions {
+
+
+
 
     FILEPATH("2007540_OOP_Project/data/"),
     STUDENTS("students.json"),

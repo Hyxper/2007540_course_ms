@@ -1,4 +1,6 @@
 import javax.swing.*;
+import javax.swing.event.TreeSelectionEvent;
+import javax.swing.event.TreeSelectionListener;
 import javax.swing.tree.DefaultMutableTreeNode;
 import javax.swing.tree.DefaultTreeModel;
 import java.awt.event.ActionEvent;
@@ -6,9 +8,10 @@ import java.awt.event.ActionListener;
 import java.util.ArrayList;
 import java.util.Objects;
 
-//-------TO DO LIST FOR GUI
-//-- TIDY GUI UP
-//-- CREATE
+
+/**
+ * CLASS FOR GUI
+ */
 
 public class GUI extends JFrame {
 
@@ -48,6 +51,7 @@ public class GUI extends JFrame {
         DefaultTreeModel leftModel = (DefaultTreeModel) leftTree.getModel();
         DefaultTreeModel rightModel = (DefaultTreeModel) rightTree.getModel();
 
+
         deptComboBox.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
@@ -78,14 +82,23 @@ public class GUI extends JFrame {
                 }
             }
         });
+        button1.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+
+                ArrayList<Departments> test = getStructure();
+                addNewUserGUI addUser = new addNewUserGUI(test);
+
+            }
+        });
     }
 
     /**
      *
-     * @param passedDepartment
-     * @param tree
-     * @param model
-     * @param treeSide
+     * @param passedDepartment department being generated
+     * @param tree passed tree
+     * @param model passed tree model
+     * @param treeSide string description of passed tree
      *
      *
      * REFORMATS PASSED JTREE TO DISPLAY ASSOCIATED DEPARTMENT INFORMATION
@@ -100,6 +113,7 @@ public class GUI extends JFrame {
     /**
      *
      * @param tree
+     *
      * REMOVES ROOT FROM JTREE
      */
     private void removeRoot(JTree tree) {
@@ -123,8 +137,8 @@ public class GUI extends JFrame {
 
     /**
      *
-     * @param selectedDepartment
-     * @param side
+     * @param selectedDepartment department to be generated
+     * @param side side to create
      * @return NODE TO USE IN TREE
      * THIS CREATES THE TREE STRUCTURES REQUIRED IN ORDER TO DISPLAY THE CORRECT INFORMATION TO THE USER.
      * PASSING "LEFT" WILL FORMAT LEFT SIDE, WHICH BREAKS THE DEPARTMENT INTO ALL OF ITS MEMBERS, AND
@@ -241,9 +255,6 @@ public class GUI extends JFrame {
         return null;
 
     }
-
-
-
 
     private ArrayList<Departments> getStructure() {
         return structure;

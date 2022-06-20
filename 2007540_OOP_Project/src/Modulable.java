@@ -1,5 +1,10 @@
 import java.util.ArrayList;
 
+
+/**
+//THIS INTERFACE IS USED TO ENSURE THAT ALL REQUIRED GETTERS AND SETTERS
+// ARE IN PLACE FOR THE MODULE CLASS.
+ **/
 public interface Modulable {
     String getModuleName();
 

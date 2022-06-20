@@ -2,6 +2,10 @@ import com.google.gson.annotations.SerializedName;
 
 import java.util.ArrayList;
 
+
+/**
+ * A CLASS THAT REPRESENTS A UNIVERSITY MEMEBER OF STAFF
+ */
 public class Staff extends User implements Staffable {
     private String guid;
     private String avatar;

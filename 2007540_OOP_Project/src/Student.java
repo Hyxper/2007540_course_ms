@@ -7,6 +7,9 @@ import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.Arrays;
 
+/**
+ * A CLASS THAT REPRESENTS A UNIVERSITY STUDENT
+ */
 public class Student extends User implements Studentable {
     private String gender;
     private String type;
