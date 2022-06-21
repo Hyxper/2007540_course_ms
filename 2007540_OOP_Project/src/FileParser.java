@@ -1,6 +1,5 @@
 import com.google.gson.Gson;
 import com.google.gson.stream.JsonReader;
-
 import java.io.*;
 import java.lang.reflect.Type;
 import java.nio.file.Files;
@@ -171,12 +170,10 @@ public class FileParser {
                 System.out.println(" is not a file, or does not exist in directory.");
                 //THROW ERROR JACK
             }
-
-
-
-
-
         }
 
 
+
 }
+
+

@@ -17,11 +17,11 @@ public class Main{
         //BOTH GENERAL METHODS FOR CREATING A THREAD HAVE BEEN USED. DEPARTMENTS VIA EXTENSION OF THE
         //THREAD CLASS, AND GUI BY IMPLEMENTING RUNNABLE
 
-        CreateDepartmentsThread createDeparments = new CreateDepartmentsThread();
-        createDeparments.start();
-        createDeparments.join();
-        ArrayList<Departments> departmentStructures = createDeparments.getStrucutre();
-        System.out.println("THREAD "+createDeparments.getName()+" STATE: "+createDeparments.getState());
+        CreateDepartmentsThread createDepartments = new CreateDepartmentsThread();
+        createDepartments.start();
+        createDepartments.join();
+        ArrayList<Departments> departmentStructures = createDepartments.getStrucutre();
+        System.out.println("THREAD "+createDepartments.getName()+" STATE: "+createDepartments.getState());
 
         CreateGuiThread GUI = new CreateGuiThread(departmentStructures);
         Thread GUIThread = new Thread(GUI);
@@ -29,7 +29,6 @@ public class Main{
         System.out.println("CREATING GUI ON THREAD: "+GUIThread.getName());
         GUIThread.start();
         GUIThread.join();
-
 
 
 
